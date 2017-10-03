@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "abstain",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French abstenir, from Latin abstinere, from ab- ‘from’ + tenere ‘hold’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "restrain oneself from doing or enjoying something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she intends to abstain from sex before marriage"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0003420.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "refrain from drinking alcohol"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "most pregnant women abstain or drink very little"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0003420.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "formally decline to vote either for or against a proposal or motion"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "forty-one voted with the Opposition, and some sixty more abstained"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0003420.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/abstain_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əbˈsteɪn"
+                        }
+                    ],
+                    "text": "abstain"
+                }
+            ],
+            "type": "headword",
+            "word": "abstain"
+        }
+    ]
+}

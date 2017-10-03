@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "abridge",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘deprive of’): from Old French abregier, from late Latin abbreviare ‘cut short’ (see abbreviate)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "shorten (a book, film, speech, etc.) without losing the sense"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an abridged text of his speech"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0002770.006",
+                                    "notes": [
+                                        {
+                                            "text": "often as adjective \"abridged\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "curtail (a right or privilege)"
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "even the right to free speech can be abridged"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0002770.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/abridge_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈbrɪdʒ"
+                        }
+                    ],
+                    "text": "abridge"
+                }
+            ],
+            "type": "headword",
+            "word": "abridge"
+        }
+    ]
+}
