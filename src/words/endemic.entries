@@ -1,0 +1,141 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "endemic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century (as a noun): from French endémique or modern Latin endemicus, from Greek endēmios ‘native’ (based on dēmos ‘people’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a disease or condition) regularly found among particular people or in a certain area"
+                                    ],
+                                    "domains": [
+                                        "Medicine"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "complacency is endemic in industry today"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0323120.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of an area) in which a particular disease is regularly found"
+                                            ],
+                                            "domains": [
+                                                "Medicine",
+                                                "Veterinary"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the persistence of infection on pastures in endemic areas"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0323120.008",
+                                            "notes": [
+                                                {
+                                                    "text": "attributive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a plant or animal) native or restricted to a certain place"
+                                    ],
+                                    "domains": [
+                                        "Botany",
+                                        "Zoology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a marsupial endemic to north-eastern Australia"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0323120.010"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/endemic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛnˈdɛmɪk"
+                        }
+                    ],
+                    "text": "endemic"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an endemic plant or animal"
+                                    ],
+                                    "domains": [
+                                        "Botany",
+                                        "Zoology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there are three types of island endemics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0323120.012"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/endemic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛnˈdɛmɪk"
+                        }
+                    ],
+                    "text": "endemic"
+                }
+            ],
+            "type": "headword",
+            "word": "endemic"
+        }
+    ]
+}

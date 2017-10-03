@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "abstinent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Old French from Latin abstinent- ‘abstaining’, from the verb abstinere (see abstain)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "refraining from an activity or from the consumption of something, especially alcohol"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the patients are best advised to be totally abstinent from alcohol"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0003460.003"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/abstinent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈabstɪnənt"
+                        }
+                    ],
+                    "text": "abstinent"
+                }
+            ],
+            "type": "headword",
+            "word": "abstinent"
+        }
+    ]
+}

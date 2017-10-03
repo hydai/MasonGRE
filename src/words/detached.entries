@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "detached",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "separate or disconnected."
+                                    ],
+                                    "id": "m_en_gbus0269080.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a house or other building) not joined to another on either side"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a four-bedroomed detached house"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0269080.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a social worker or social work) operating or based in the community rather than in an office"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "detached youth workers"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0269080.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "aloof and objective"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he is a detached observer of his own actions"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0269080.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/detached_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈtatʃt"
+                        }
+                    ],
+                    "text": "detached"
+                }
+            ],
+            "type": "headword",
+            "word": "detached"
+        }
+    ]
+}

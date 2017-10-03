@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "rigor",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin, literally ‘stiffness’, from rigere ‘be stiff’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "pronunciations": [
+                                {
+                                    "audioFile": "http://audio.oxforddictionaries.com/en/mp3/rigor_gb_1_8.mp3",
+                                    "dialects": [
+                                        "British English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrɪɡɔː"
+                                },
+                                {
+                                    "dialects": [
+                                        "British English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrʌɪɡə"
+                                },
+                                {
+                                    "audioFile": "http://audio.oxforddictionaries.com/en/mp3/rigor_gb_2_8.mp3",
+                                    "dialects": [
+                                        "British English"
+                                    ],
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˈrʌɪɡɔː"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a sudden feeling of cold with shivering accompanied by a rise in temperature, often with copious sweating, especially at the onset or height of a fever."
+                                    ],
+                                    "domains": [
+                                        "Pathology"
+                                    ],
+                                    "id": "m_en_gbus0874130.007",
+                                    "subsenses": [
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "short for rigor mortis"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "rigor_mortis",
+                                                    "text": "rigor mortis",
+                                                    "type": "abbreviation"
+                                                }
+                                            ],
+                                            "domains": [
+                                                "Medicine"
+                                            ],
+                                            "id": "m_en_gbus0874130.012"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "US spelling of rigour"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "rigour",
+                                            "text": "rigour",
+                                            "type": "variant spelling"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0874140.002"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "text": "rigor"
+                }
+            ],
+            "type": "headword",
+            "word": "rigor"
+        }
+    ]
+}

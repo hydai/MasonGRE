@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "extrapolate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 19th century: from extra- ‘outside’ + a shortened form of interpolate"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "extend the application of (a method or conclusion) to an unknown situation by assuming that existing trends will continue or similar methods will be applicable"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the results cannot be extrapolated to other patient groups"
+                                        },
+                                        {
+                                            "text": "it is always dangerous to extrapolate from a sample"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0344440.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "estimate or conclude (something) by extrapolating"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the figures were extrapolated from past trends"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0344440.016"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "extend (a graph, curve, or range of values) by inferring unknown values from trends in the known data"
+                                            ],
+                                            "domains": [
+                                                "Mathematics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a set of extrapolated values"
+                                                },
+                                                {
+                                                    "text": "the low-temperature results can be extrapolated to room temperature"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0344440.017"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛkˈstrapəleɪt"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/extrapolate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪkˈstrapəleɪt"
+                        }
+                    ],
+                    "text": "extrapolate"
+                }
+            ],
+            "type": "headword",
+            "word": "extrapolate"
+        }
+    ]
+}

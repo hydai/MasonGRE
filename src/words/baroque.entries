@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "baroque",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: from French (originally designating a pearl of irregular shape), from Portuguese barroco, Spanish barrueco, or Italian barocco; of unknown ultimate origin"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to or denoting a style of European architecture, music, and art of the 17th and 18th centuries that followed Mannerism and is characterized by ornate detail. In architecture the period is exemplified by the palace of Versailles and by the work of Wren in England. Major composers include Vivaldi, Bach, and Handel; Caravaggio and Rubens are important baroque artists."
+                                    ],
+                                    "domains": [
+                                        "Music",
+                                        "Architecture",
+                                        "Art"
+                                    ],
+                                    "id": "m_en_gbus0074540.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "highly ornate and extravagant in style"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the candles were positively baroque"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0074540.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/baroque_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "bəˈrɒk"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "bəˈrəʊk"
+                        }
+                    ],
+                    "text": "baroque"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the baroque style or period"
+                                    ],
+                                    "domains": [
+                                        "Architecture",
+                                        "Music",
+                                        "Art"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the interior of the church is in lavish baroque"
+                                        },
+                                        {
+                                            "text": "the sculptural group in Rome is a key work of the baroque"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0074540.010"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "bəˈrəʊk"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/baroque_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "bəˈrɒk"
+                        }
+                    ],
+                    "text": "baroque"
+                }
+            ],
+            "type": "headword",
+            "word": "baroque"
+        }
+    ]
+}

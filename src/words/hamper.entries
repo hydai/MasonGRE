@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "hamper",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (denoting any large case or casket): from Anglo-Norman French hanaper ‘case for a goblet’, from Old French hanap ‘goblet’, of Germanic origin"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a basket with a carrying handle and a hinged lid, used for food, cutlery, and plates on a picnic"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a picnic hamper"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0447900.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a basket or box containing food for a special occasion"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a Christmas food hamper"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0447900.008",
+                                            "regions": [
+                                                "British"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a large basket with a lid, used for laundry"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a laundry hamper"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0447900.009",
+                                            "regions": [
+                                                "North American"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "201",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "necessary but cumbersome equipment on a ship."
+                                    ],
+                                    "domains": [
+                                        "Nautical"
+                                    ],
+                                    "id": "m_en_gbus0447910.012"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/hamper_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈhampə"
+                        }
+                    ],
+                    "text": "hamper"
+                },
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘shackle, entangle, catch’): perhaps related to German hemmen ‘restrain’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "hinder or impede the movement or progress of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "their work is hampered by lack of funds"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0447910.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/hamper_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈhampə"
+                        }
+                    ],
+                    "text": "hamper"
+                }
+            ],
+            "type": "headword",
+            "word": "hamper"
+        }
+    ]
+}

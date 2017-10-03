@@ -1,0 +1,224 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "precipitate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from Latin praecipitat- ‘thrown headlong’, from the verb praecipitare, from praeceps, praecip(it)- ‘headlong’, from prae ‘before’ + caput ‘head’. The original sense of the verb was ‘hurl down, send violently’; hence ‘cause to move rapidly’, which gave rise to sense 1 (early 17th century)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause (an event or situation, typically one that is undesirable) to happen suddenly, unexpectedly, or prematurely"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the incident precipitated a political crisis"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0808800.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "cause to move suddenly and with force"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "suddenly the ladder broke, precipitating them down into a heap"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0808800.012",
+                                            "notes": [
+                                                {
+                                                    "text": "with object and adverbial of direction",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "send someone or something suddenly into a particular state or condition"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they were precipitated into a conflict for which they were quite unprepared"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0808800.013",
+                                            "notes": [
+                                                {
+                                                    "text": "\"precipitate someone/something into\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "cause (a substance) to be deposited in solid form from a solution"
+                                    ],
+                                    "domains": [
+                                        "Chemistry"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "cell proteins were then precipitated and washed in 10% trichloroacetic acid"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0808800.015",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "cause (drops of moisture or particles of dust) to be deposited from the atmosphere or from a vapour or suspension"
+                                            ],
+                                            "domains": [
+                                                "Chemistry",
+                                                "Meteorology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "excess moisture is precipitated as rain, fog, mist, or dew"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0808800.016"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/precipitate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prɪˈsɪpɪteɪt"
+                        }
+                    ],
+                    "text": "precipitate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "done, made, or acting suddenly or without careful consideration"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I must apologize for my staff—their actions were precipitate"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0808800.021",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "occurring suddenly or abruptly"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a precipitate decline in Labour fortunes"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0808800.023"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/precipitate_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prɪˈsɪpɪtət"
+                        }
+                    ],
+                    "text": "precipitate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "002",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a substance precipitated from a solution."
+                                    ],
+                                    "domains": [
+                                        "Chemistry"
+                                    ],
+                                    "id": "m_en_gbus0808800.031"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prɪˈsɪpɪteɪt"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/precipitate_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prɪˈsɪpɪtət"
+                        }
+                    ],
+                    "text": "precipitate"
+                }
+            ],
+            "type": "headword",
+            "word": "precipitate"
+        }
+    ]
+}

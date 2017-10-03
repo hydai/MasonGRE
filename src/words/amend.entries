@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "amend",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French amender, based on Latin emendare (see emend)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make minor changes to (a text, piece of legislation, etc.) in order to make it fairer or more accurate, or to reflect changing circumstances"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the rule was amended to apply only to non-members"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0027900.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "improve the texture or fertility of (soil)"
+                                    ],
+                                    "domains": [
+                                        "Horticulture"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "amend your soil with peat moss or compost"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0027900.013",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "put right"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a few things had gone wrong, but these had been amended"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0027900.014",
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/amend_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈmɛnd"
+                        }
+                    ],
+                    "text": "amend"
+                }
+            ],
+            "type": "headword",
+            "word": "amend"
+        }
+    ]
+}

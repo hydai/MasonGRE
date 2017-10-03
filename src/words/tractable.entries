@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "tractable",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from Latin tractabilis, from tractare ‘to handle’ (see tractate)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person) easy to control or influence"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she has always been tractable and obedient, even as a child"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1066740.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a situation or problem) easy to deal with"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "trying to make the mathematics tractable"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1066740.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/tractable_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈtraktəb(ə)l"
+                        }
+                    ],
+                    "text": "tractable"
+                }
+            ],
+            "type": "headword",
+            "word": "tractable"
+        }
+    ]
+}

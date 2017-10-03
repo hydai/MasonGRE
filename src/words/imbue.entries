@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "imbue",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘saturate’): from French imbu ‘moistened’, from Latin imbutus, past participle of imbuere ‘moisten’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "inspire or permeate with (a feeling or quality)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his works are invariably imbued with a sense of calm and serenity"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0496850.008",
+                                    "notes": [
+                                        {
+                                            "text": "often \"be imbued with\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/imbue_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪmˈbjuː"
+                        }
+                    ],
+                    "text": "imbue"
+                }
+            ],
+            "type": "headword",
+            "word": "imbue"
+        }
+    ]
+}

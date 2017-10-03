@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "allusive",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "using or containing suggestion rather than explicit mention"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a highly allusive poet"
+                                        },
+                                        {
+                                            "text": "allusive references to the body"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0024760.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/allusive_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈluːsɪv"
+                        }
+                    ],
+                    "text": "allusive"
+                }
+            ],
+            "type": "headword",
+            "word": "allusive"
+        }
+    ]
+}

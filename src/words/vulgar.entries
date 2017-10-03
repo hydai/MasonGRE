@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "vulgar",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin vulgaris, from vulgus ‘common people’. The original senses were ‘used in ordinary calculations’ (surviving in vulgar fraction) and ‘in ordinary use, used by the people’ (surviving in vulgar tongue)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lacking sophistication or good taste"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a vulgar check suit"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1136350.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "making explicit and offensive reference to sex or bodily functions; coarse and rude"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a vulgar joke"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1136350.009"
+                                },
+                                {
+                                    "definitions": [
+                                        "characteristic of or belonging to ordinary people."
+                                    ],
+                                    "id": "m_en_gbus1136350.011",
+                                    "registers": [
+                                        "dated"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/vulgar_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈvʌlɡə"
+                        }
+                    ],
+                    "text": "vulgar"
+                }
+            ],
+            "type": "headword",
+            "word": "vulgar"
+        }
+    ]
+}

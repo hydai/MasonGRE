@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "culprit",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century (originally in the formula Culprit, how will you be tried?, said by the Clerk of the Crown to a prisoner pleading not guilty): perhaps from a misinterpretation of the written abbreviation cul. prist for Anglo-Norman French Culpable: prest d'averrer notre bille ‘(You are) guilty: (We are) ready to prove our indictment’; in later use influenced by Latin culpa ‘fault, blame’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who is responsible for a crime or other misdeed"
+                                    ],
+                                    "domains": [
+                                        "Crime"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the car's front nearside door had been smashed in but the culprits had fled"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0240500.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the cause of a problem or defect"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "low-level ozone pollution is the real culprit"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0240500.010"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/culprit_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkʌlprɪt"
+                        }
+                    ],
+                    "text": "culprit"
+                }
+            ],
+            "type": "headword",
+            "word": "culprit"
+        }
+    ]
+}

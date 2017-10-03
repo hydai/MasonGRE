@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "consistent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (in the sense ‘consisting or composed of’): from Latin consistent- ‘standing firm or still, existing’, from the verb consistere (see consist)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "acting or done in the same way over time, especially so as to be fair or accurate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a consistent worldwide application of its policies"
+                                        },
+                                        {
+                                            "text": "the parents are being consistent and firm in their reactions"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0212680.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "unchanging in nature, standard, or effect over time"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the mixtures are of consistent quality"
+                                                },
+                                                {
+                                                    "text": "he is their most consistent player this season"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0212680.008"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of an argument or set of ideas) not containing any logical contradictions"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a consistent explanation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0212680.010"
+                                },
+                                {
+                                    "definitions": [
+                                        "compatible or in agreement with something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the injuries are consistent with falling from a great height"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0212680.012",
+                                    "notes": [
+                                        {
+                                            "text": "predicative",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconsistent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈsɪst(ə)nt"
+                        }
+                    ],
+                    "text": "consistent"
+                }
+            ],
+            "type": "headword",
+            "word": "consistent"
+        }
+    ]
+}

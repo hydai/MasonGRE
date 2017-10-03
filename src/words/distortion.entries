@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "distortion",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the action of distorting or the state of being distorted"
+                                    ],
+                                    "domains": [
+                                        "Audio",
+                                        "Electronics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the virus causes distortion of the leaves"
+                                        },
+                                        {
+                                            "text": "deliberate distortions of pitch and timbre"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0284320.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a distorted form or part"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a distortion in the eye's shape or structure"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0284320.009",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the action of giving a misleading account or impression"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we're fed up with the media's continuing distortion of our issues"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0284320.011"
+                                },
+                                {
+                                    "definitions": [
+                                        "change in the form of an electrical signal or sound wave during processing."
+                                    ],
+                                    "domains": [
+                                        "Audio"
+                                    ],
+                                    "id": "m_en_gbus0284320.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/distortion_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈstɔːʃ(ə)n"
+                        }
+                    ],
+                    "text": "distortion"
+                }
+            ],
+            "type": "headword",
+            "word": "distortion"
+        }
+    ]
+}

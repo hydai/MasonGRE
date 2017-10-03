@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "treacherous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in treacherous (sense 1 of the adjective)): from Old French trecherous, from trecheor ‘a cheat’, from trechier ‘to cheat’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "guilty of or involving betrayal or deception"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a treacherous Gestapo agent"
+                                        },
+                                        {
+                                            "text": "memory is particularly treacherous"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1071330.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "(of ground, water, conditions, etc.) presenting hidden or unpredictable dangers"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a holidaymaker was swept away by treacherous currents"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1071330.009"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/treacherous_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈtrɛtʃ(ə)rəs"
+                        }
+                    ],
+                    "text": "treacherous"
+                }
+            ],
+            "type": "headword",
+            "word": "treacherous"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "condemn",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in condemn (sense 2)): from Old French condemner, from Latin condemnare, from con- (expressing intensive force) + damnare ‘inflict loss on’ (see damn)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "express complete disapproval of; censure"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "most leaders roundly condemned the attack"
+                                        },
+                                        {
+                                            "text": "the plan was condemned by campaigners"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0209030.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "sentence (someone) to a particular punishment, especially death"
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the condemned men"
+                                        },
+                                        {
+                                            "text": "the rebels had been condemned to death"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0209030.013",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of circumstances) force (someone) to endure or accept something unpleasant"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the physical ailments that condemned him to a lonely childhood"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0209030.014"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "prove or show to be guilty or unsatisfactory"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she could see in his eyes that her stumble had condemned her"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0209030.015"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "officially declare (something) to be unfit for use"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the pool has been condemned as a health hazard"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0209030.016"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xcondemn_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈdɛm"
+                        }
+                    ],
+                    "text": "condemn"
+                }
+            ],
+            "type": "headword",
+            "word": "condemn"
+        }
+    ]
+}

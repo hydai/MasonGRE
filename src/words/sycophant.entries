@@ -1,0 +1,52 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "sycophant",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (denoting an informer): from French sycophante, or via Latin from Greek sukophantēs ‘informer’, from sukon ‘fig’ + phainein ‘to show’, perhaps with reference to making the insulting gesture of the ‘fig’ (sticking the thumb between two fingers) to informers"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who acts obsequiously towards someone important in order to gain advantage."
+                                    ],
+                                    "id": "m_en_gbus1022300.007"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/sycophant_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈsɪkəfant"
+                        }
+                    ],
+                    "text": "sycophant"
+                }
+            ],
+            "type": "headword",
+            "word": "sycophant"
+        }
+    ]
+}

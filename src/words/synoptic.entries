@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "synoptic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Greek sunoptikos, from sunopsis (see synopsis)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of or forming a general summary or synopsis"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a synoptic outline of the contents"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1024050.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "taking or involving a comprehensive mental view"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a synoptic model of higher education"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1024050.010"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to the Synoptic Gospels."
+                                    ],
+                                    "domains": [
+                                        "Biblical"
+                                    ],
+                                    "id": "m_en_gbus1024050.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/synoptic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "sɪˈnɒptɪk"
+                        }
+                    ],
+                    "text": "synoptic"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the Synoptic Gospels."
+                                    ],
+                                    "domains": [
+                                        "Biblical"
+                                    ],
+                                    "id": "m_en_gbus1024050.015",
+                                    "variantForms": [
+                                        {
+                                            "text": "Synoptics"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/synoptic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "sɪˈnɒptɪk"
+                        }
+                    ],
+                    "text": "synoptic"
+                }
+            ],
+            "type": "headword",
+            "word": "synoptic"
+        }
+    ]
+}

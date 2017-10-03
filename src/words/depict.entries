@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "depict",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin depict- ‘portrayed’, from the verb depingere, from de- ‘completely’ + pingere ‘to paint’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "represent by a drawing, painting, or other art form"
+                                    ],
+                                    "domains": [
+                                        "Art"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "paintings depicting Old Testament scenes"
+                                        },
+                                        {
+                                            "text": "these equations may be depicted on a graph"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0265560.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "portray in words; describe"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "youth is depicted as a time of vitality and good health"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0265560.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/depict_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈpɪkt"
+                        }
+                    ],
+                    "text": "depict"
+                }
+            ],
+            "type": "headword",
+            "word": "depict"
+        }
+    ]
+}

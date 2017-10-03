@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "torpor",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin, from torpere ‘be numb or sluggish’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a state of physical or mental inactivity; lethargy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they veered between apathetic torpor and hysterical fanaticism"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1063050.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/torpor_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈtɔːpə"
+                        }
+                    ],
+                    "text": "torpor"
+                }
+            ],
+            "type": "headword",
+            "word": "torpor"
+        }
+    ]
+}

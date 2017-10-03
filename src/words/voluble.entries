@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "voluble",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in senses ‘rotating about an axis’ and ‘having a tendency to change’): from French, or from Latin volubilis, from volvere ‘to roll’. The modern meanings arose in the late 16th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person) talking fluently, readily, or incessantly"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a voluble game-show host"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1134960.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of speech) characterized by fluency and readiness of utterance"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an excited and voluble discussion"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1134960.009"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/voluble_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈvɒljʊb(ə)l"
+                        }
+                    ],
+                    "text": "voluble"
+                }
+            ],
+            "type": "headword",
+            "word": "voluble"
+        }
+    ]
+}

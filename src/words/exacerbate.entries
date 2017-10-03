@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "exacerbate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin exacerbat- ‘made harsh’, from the verb exacerbare, from ex- (expressing inducement of a state) + acerbus ‘harsh, bitter’. The noun exacerbation ( late Middle English) originally meant ‘provocation to anger’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (a problem, bad situation, or negative feeling) worse"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the strong pound has exacerbated the situation by making it much harder for UK companies to compete on price"
+                                        },
+                                        {
+                                            "text": "the exorbitant cost of land in urban areas only exacerbated the problem"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0338900.007"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/exacerbate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪɡˈzasəbeɪt"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛkˈsasəbeɪt"
+                        }
+                    ],
+                    "text": "exacerbate"
+                }
+            ],
+            "type": "headword",
+            "word": "exacerbate"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "delude",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin deludere ‘to mock’, from de- (with pejorative force) + ludere ‘to play’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (someone) believe something that is not true"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "registers": [
+                                                "humorous"
+                                            ],
+                                            "text": "the poor deluded creature"
+                                        },
+                                        {
+                                            "text": "too many theorists have deluded the public"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0262380.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/delude_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈl(j)uːd"
+                        }
+                    ],
+                    "text": "delude"
+                }
+            ],
+            "type": "headword",
+            "word": "delude"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ponder",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘appraise, judge the worth of’): from Old French ponderer ‘consider’, from Latin ponderare ‘weigh, reflect on’, from pondus, ponder- ‘weight’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "think about (something) carefully, especially before making a decision or reaching a conclusion"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I pondered the question of what clothes to wear for the occasion"
+                                        },
+                                        {
+                                            "text": "she sat pondering over her problem"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0798410.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ponder_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈpɒndə"
+                        }
+                    ],
+                    "text": "ponder"
+                }
+            ],
+            "type": "headword",
+            "word": "ponder"
+        }
+    ]
+}

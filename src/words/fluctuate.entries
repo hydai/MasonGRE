@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "fluctuate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century (earlier ( late Middle English) as fluctuation): from Latin fluctuat- ‘undulated’, from the verb fluctuare, from fluctus ‘flow, current, wave’, from fluere ‘to flow’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "rise and fall irregularly in number or amount"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a fluctuating level of demand"
+                                        },
+                                        {
+                                            "text": "trade with other countries tends to fluctuate from year to year"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0374260.006"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈflʌktjʊeɪt"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/fluctuate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈflʌktʃʊeɪt"
+                        }
+                    ],
+                    "text": "fluctuate"
+                }
+            ],
+            "type": "headword",
+            "word": "fluctuate"
+        }
+    ]
+}

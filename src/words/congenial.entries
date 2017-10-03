@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "congenial",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person) pleasing or liked on account of having qualities or interests that are similar to one's own"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his need for some congenial company"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0210750.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a thing) pleasant or agreeable because suited to one's taste or inclination"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he went back to a climate more congenial to his cold stony soul"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0210750.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xcongenial_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈdʒiːnɪəl"
+                        }
+                    ],
+                    "text": "congenial"
+                }
+            ],
+            "type": "headword",
+            "word": "congenial"
+        }
+    ]
+}

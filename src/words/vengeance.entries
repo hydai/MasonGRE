@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "vengeance",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French, from venger, vengier ‘avenge’, from Latin vindicare ‘vindicate’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "punishment inflicted or retribution exacted for an injury or wrong"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "voters are ready to wreak vengeance on all politicians"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1123770.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/vengeance_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈvɛn(d)ʒ(ə)ns"
+                        }
+                    ],
+                    "text": "vengeance"
+                }
+            ],
+            "type": "headword",
+            "word": "vengeance"
+        }
+    ]
+}

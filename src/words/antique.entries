@@ -1,0 +1,197 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "antique",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (as an adjective): from Latin antiquus, anticus ‘former, ancient’, from ante ‘before’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a collectable object such as a piece of furniture or work of art that has a high value because of its age and quality"
+                                    ],
+                                    "domains": [
+                                        "Art",
+                                        "Furniture"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Pauline loves collecting antiques"
+                                        },
+                                        {
+                                            "text": "an antique dealer"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0038440.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/antique_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "anˈtiːk"
+                        }
+                    ],
+                    "text": "antique"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having a high value because of age and quality"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an antique clock"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0038440.010",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "intended to resemble the appearance of high-quality old furniture"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "bookshelves with an antique finish"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0038440.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "belonging to ancient times"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "statues of antique gods"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0038440.014",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "old-fashioned or outdated"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "antique work practices"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0038440.015"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "showing signs of great age or wear"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the kitchen had an antique cooker"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0038440.016",
+                                            "registers": [
+                                                "humorous"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/antique_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "anˈtiːk"
+                        }
+                    ],
+                    "text": "antique"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "002",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (something) resemble an antique by artificial means"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "sanding will change the lustre of the sanded spot, especially if the finish has been antiqued"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0038440.018"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/antique_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "anˈtiːk"
+                        }
+                    ],
+                    "text": "antique"
+                }
+            ],
+            "type": "headword",
+            "word": "antique"
+        }
+    ]
+}

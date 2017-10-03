@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "synthesize",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (something) by synthesis, especially chemically"
+                                    ],
+                                    "domains": [
+                                        "Chemistry"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the drug was first synthesized in 1929"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1024220.014",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "combine (a number of things) into a coherent whole"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "pupils should synthesize the data they have gathered"
+                                                },
+                                                {
+                                                    "text": "Darwinian theory has been synthesized with modern genetics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1024220.030"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "produce (sound) electronically"
+                                    ],
+                                    "domains": [
+                                        "Electronics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "trigger chips that synthesize speech"
+                                        },
+                                        {
+                                            "text": "synthesized chords"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1024220.032"
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "synthesise"
+                                },
+                                {
+                                    "text": "synthetize"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/synthesize_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈsɪnθəsʌɪz"
+                        }
+                    ],
+                    "text": "synthesize"
+                }
+            ],
+            "type": "headword",
+            "word": "synthesize"
+        }
+    ]
+}

@@ -1,0 +1,471 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "base",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French, from Latin basis ‘base, pedestal’, from Greek"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the lowest part or edge of something, especially the part on which it rests or is supported"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she sat down at the base of a tree"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0075820.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the part of a column between the shaft and pedestal or pavement."
+                                            ],
+                                            "domains": [
+                                                "Architecture"
+                                            ],
+                                            "id": "m_en_gbus0075820.010"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the end at which a part or organ is attached to the trunk or main part"
+                                            ],
+                                            "domains": [
+                                                "Botany",
+                                                "Zoology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a shoot is produced at the base of the stem"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0075820.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a line or surface on which a figure is regarded as standing"
+                                            ],
+                                            "domains": [
+                                                "Geometry"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the base of the triangle"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0075820.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a known line used as a geometrical base for trigonometry."
+                                            ],
+                                            "domains": [
+                                                "Surveying"
+                                            ],
+                                            "id": "m_en_gbus0075820.013"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the lowest part of a shield."
+                                            ],
+                                            "domains": [
+                                                "Heraldry"
+                                            ],
+                                            "id": "m_en_gbus0075820.014"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a conceptual structure or entity on which something draws or depends"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the town's economic base collapsed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0075820.017",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a foundation or starting point for further work"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she uses existing data as the base for the study"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0075820.018"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a group of people regarded as supporting an organization, for example by buying its products"
+                                            ],
+                                            "domains": [
+                                                "Commerce"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a customer base"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0075820.019",
+                                            "notes": [
+                                                {
+                                                    "text": "with modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a place used as a centre of operations by the armed forces or others; a headquarters"
+                                    ],
+                                    "domains": [
+                                        "Military"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he headed back to base"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0075820.021",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the main place where a person works or stays"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she makes the studio her base"
+                                                },
+                                                {
+                                                    "text": "your hotel is a good base from which to explore"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0075820.022"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a main or important element or ingredient to which other things are added"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "soaps with a vegetable oil base"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0075820.025",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a substance into which a pigment is mixed to form paint, such as water, oil, or powdered aluminium hydroxide."
+                                            ],
+                                            "domains": [
+                                                "Art"
+                                            ],
+                                            "id": "m_en_gbus0075820.026",
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a substance used as a foundation for make-up"
+                                            ],
+                                            "domains": [
+                                                "Cosmetics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "her make-up artist works with base, eye make-up, and lipstick"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0075820.028",
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Compare with acid and alkali"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "acid",
+                                            "text": "acid",
+                                            "type": "see also"
+                                        },
+                                        {
+                                            "id": "alkali",
+                                            "text": "alkali",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a substance capable of reacting with an acid to form a salt and water, or (more broadly) of accepting or neutralizing hydrogen ions."
+                                    ],
+                                    "domains": [
+                                        "Chemistry"
+                                    ],
+                                    "id": "m_en_gbus0075820.030",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a purine or pyrimidine group in a nucleotide or nucleic acid."
+                                            ],
+                                            "domains": [
+                                                "Biochemistry"
+                                            ],
+                                            "id": "m_en_gbus0075820.031"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the middle part of a bipolar transistor, separating the emitter from the collector."
+                                    ],
+                                    "domains": [
+                                        "Electronics"
+                                    ],
+                                    "id": "m_en_gbus0075820.033"
+                                },
+                                {
+                                    "definitions": [
+                                        "the root or stem of a word or a derivative."
+                                    ],
+                                    "domains": [
+                                        "Linguistics"
+                                    ],
+                                    "id": "m_en_gbus0075820.035",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the uninflected form of a verb."
+                                            ],
+                                            "domains": [
+                                                "Linguistics"
+                                            ],
+                                            "id": "m_en_gbus0075820.036"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a number used as the basis of a numeration scale."
+                                    ],
+                                    "domains": [
+                                        "Mathematics"
+                                    ],
+                                    "id": "m_en_gbus0075820.038",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a number in terms of which other numbers are expressed as logarithms."
+                                            ],
+                                            "domains": [
+                                                "Mathematics"
+                                            ],
+                                            "id": "m_en_gbus0075820.039"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "See also first base"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "first_base",
+                                            "text": "first base",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "each of the four stations that must be reached in turn to score a run."
+                                    ],
+                                    "domains": [
+                                        "Baseball"
+                                    ],
+                                    "id": "m_en_gbus0075820.041"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/base_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "beɪs"
+                        }
+                    ],
+                    "text": "base"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "101",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "use (something specified) as the foundation or starting point for something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the film is based on a novel by Pat Conroy"
+                                        },
+                                        {
+                                            "text": "entitlement will be based on income"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0075820.046",
+                                    "notes": [
+                                        {
+                                            "text": "\"base something on\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "situate at a specified place as the centre of operations"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Science Policy Review Unit is based at the University of Sussex"
+                                        },
+                                        {
+                                            "text": "a London-based band"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0075820.048"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/base_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "beɪs"
+                        }
+                    ],
+                    "text": "base"
+                },
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French bas, from medieval Latin bassus ‘short’ (found in classical Latin as a cognomen). Early senses included ‘low, short’ and ‘of inferior quality’; from the latter arose a sense ‘low in the social scale’, and hence (mid 16th century) ‘reprehensibly cowardly, selfish, or mean’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "300",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "without moral principles; ignoble"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the electorate's baser instincts of greed and selfishness"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0075830.007"
+                                },
+                                {
+                                    "definitions": [
+                                        "denoting or befitting a person of low social class."
+                                    ],
+                                    "id": "m_en_gbus0075830.012",
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of coins or other articles) not made of precious metal"
+                                    ],
+                                    "domains": [
+                                        "Metallurgy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the basest coins in the purse were made in the 620s AD"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0075830.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/base_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "beɪs"
+                        }
+                    ],
+                    "text": "base"
+                }
+            ],
+            "type": "headword",
+            "word": "base"
+        }
+    ]
+}

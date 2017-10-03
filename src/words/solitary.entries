@@ -1,0 +1,176 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "solitary",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Latin solitarius, from solus ‘alone’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "done or existing alone"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I live a pretty solitary life"
+                                        },
+                                        {
+                                            "text": "tigers are essentially solitary"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0967030.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a place) secluded or isolated"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "solitary farmsteads"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0967030.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a bird, mammal, or insect) living alone or in pairs, especially in contrast to related social forms"
+                                            ],
+                                            "domains": [
+                                                "Zoology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a solitary wasp"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0967030.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a flower or other part) borne singly"
+                                            ],
+                                            "domains": [
+                                                "Botany"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "each spider-like bloom is solitary"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0967030.010"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "single; only"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we have not a solitary shred of evidence to go on"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0967030.012",
+                                    "notes": [
+                                        {
+                                            "text": "attributive, often with negative",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/solitary_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈsɒlɪt(ə)ri"
+                        }
+                    ],
+                    "text": "solitary"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a recluse or hermit"
+                                    ],
+                                    "domains": [
+                                        "Christian"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he had something of the solitary about him"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0967030.022"
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "short for solitary confinement"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "solitary_confinement",
+                                            "text": "solitary confinement",
+                                            "type": "abbreviation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0967030.026",
+                                    "registers": [
+                                        "informal"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/solitary_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈsɒlɪt(ə)ri"
+                        }
+                    ],
+                    "text": "solitary"
+                }
+            ],
+            "type": "headword",
+            "word": "solitary"
+        }
+    ]
+}

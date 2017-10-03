@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "aggravate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin aggravat- ‘made heavy’, from the verb aggravare, from ad- (expressing increase) + gravis ‘heavy’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "Aggravate in the sense ‘annoy or exasperate’ dates back to the 17th century and has been so used by respected writers ever since. This use is still regarded as incorrect by some traditionalists on the grounds that it is too radical a departure from the etymological meaning of ‘make heavy’. It is, however, comparable to meaning changes in hundreds of other words which have long been accepted without comment",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (a problem, injury, or offence) worse or more serious"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "military action would only aggravate the situation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0016050.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "annoy or exasperate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she found him thoroughly aggravating and unprofessional"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0016050.013",
+                                    "registers": [
+                                        "informal"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/aggravate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈaɡrəveɪt"
+                        }
+                    ],
+                    "text": "aggravate"
+                }
+            ],
+            "type": "headword",
+            "word": "aggravate"
+        }
+    ]
+}

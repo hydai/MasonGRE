@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "inert",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin iners, inert- ‘unskilled, inactive’, from in- (expressing negation) + ars, art- ‘skill, art’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lacking the ability or strength to move"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she lay inert in her bed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0506490.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "lacking vigour"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an inert political system"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0506490.008"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "chemically inactive."
+                                    ],
+                                    "domains": [
+                                        "Chemistry"
+                                    ],
+                                    "id": "m_en_gbus0506490.010"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/inert_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˈnəːt"
+                        }
+                    ],
+                    "text": "inert"
+                }
+            ],
+            "type": "headword",
+            "word": "inert"
+        }
+    ]
+}

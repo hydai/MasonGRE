@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "oblique",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin obliquus"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "neither parallel nor at right angles to a specified or implied line; slanting"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we sat on the settee oblique to the fireplace"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0708960.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a line, plane figure, or surface) inclined at other than a right angle."
+                                            ],
+                                            "domains": [
+                                                "Geometry"
+                                            ],
+                                            "id": "m_en_gbus0708960.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of an angle) acute or obtuse."
+                                            ],
+                                            "domains": [
+                                                "Geometry"
+                                            ],
+                                            "id": "m_en_gbus0708960.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a cone, cylinder, etc.) with an axis not perpendicular to the plane of its base."
+                                            ],
+                                            "domains": [
+                                                "Geometry"
+                                            ],
+                                            "id": "m_en_gbus0708960.013"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(especially of a muscle) neither parallel nor perpendicular to the long axis of a body or limb"
+                                            ],
+                                            "domains": [
+                                                "Anatomy"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an oblique abdominal muscle"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0708960.014"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "not expressed or done in a direct way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he issued an oblique attack on the President"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0708960.016"
+                                },
+                                {
+                                    "definitions": [
+                                        "denoting any case other than the nominative or vocative."
+                                    ],
+                                    "domains": [
+                                        "Grammar"
+                                    ],
+                                    "id": "m_en_gbus0708960.018"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/oblique_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈbliːk"
+                        }
+                    ],
+                    "text": "oblique"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "another term for slash (sense 2 of the noun)"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "slash",
+                                            "text": "slash",
+                                            "type": "another term for"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0708960.023",
+                                    "regions": [
+                                        "British"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "an oblique muscle"
+                                    ],
+                                    "domains": [
+                                        "Anatomy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it is the obliques and abdominals which create the well-trained look"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0708960.027"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/oblique_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈbliːk"
+                        }
+                    ],
+                    "text": "oblique"
+                }
+            ],
+            "type": "headword",
+            "word": "oblique"
+        }
+    ]
+}

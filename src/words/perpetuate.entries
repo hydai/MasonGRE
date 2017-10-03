@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "perpetuate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from Latin perpetuat- ‘made permanent’, from the verb perpetuare, from perpetuus ‘continuing throughout’ (see perpetual)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "On the difference between perpetuate and perpetrate, see perpetrate",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (something) continue indefinitely"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the confusion was perpetuated through inadvertence"
+                                        },
+                                        {
+                                            "text": "a monument to perpetuate the memory of those killed in the war"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0768110.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/perpetuate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pəˈpɛtʃʊeɪt"
+                        }
+                    ],
+                    "text": "perpetuate"
+                }
+            ],
+            "type": "headword",
+            "word": "perpetuate"
+        }
+    ]
+}

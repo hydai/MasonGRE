@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "outgrowth",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "something that grows out of something else"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the eye first appears as an outgrowth from the brain"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0731760.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the process of growing out"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "with further outgrowth the radius and ulna develop"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0731760.008",
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a natural development or result of something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the book is an imaginative outgrowth of practical criticism"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0731760.010"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/outgrowth_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈaʊtɡrəʊθ"
+                        }
+                    ],
+                    "text": "outgrowth"
+                }
+            ],
+            "type": "headword",
+            "word": "outgrowth"
+        }
+    ]
+}

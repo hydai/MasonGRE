@@ -1,0 +1,171 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "objective",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from medieval Latin objectivus, from objectum (see object)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Contrasted with subjective"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "subjective",
+                                            "text": "subjective",
+                                            "type": "related"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "(of a person or their judgement) not influenced by personal feelings or opinions in considering and representing facts"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "historians try to be objective and impartial"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0708600.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "not dependent on the mind for existence; actual"
+                                            ],
+                                            "domains": [
+                                                "Philosophy"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a matter of objective fact"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0708600.008"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to or denoting a case of nouns and pronouns serving as the object of a transitive verb or a preposition."
+                                    ],
+                                    "domains": [
+                                        "Grammar"
+                                    ],
+                                    "id": "m_en_gbus0708600.010",
+                                    "notes": [
+                                        {
+                                            "text": "attributive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/objective_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əbˈdʒɛktɪv"
+                        }
+                    ],
+                    "text": "objective"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a thing aimed at or sought; a goal"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the system has achieved its objective"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0708600.013"
+                                },
+                                {
+                                    "definitions": [
+                                        "the objective case."
+                                    ],
+                                    "domains": [
+                                        "Grammar"
+                                    ],
+                                    "id": "m_en_gbus0708600.017",
+                                    "notes": [
+                                        {
+                                            "text": "\"the objective\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the lens in a telescope or microscope nearest to the object observed"
+                                    ],
+                                    "domains": [
+                                        "Optics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "examine with high power objective"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0708600.020",
+                                    "variantForms": [
+                                        {
+                                            "text": "objective lens"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/objective_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əbˈdʒɛktɪv"
+                        }
+                    ],
+                    "text": "objective"
+                }
+            ],
+            "type": "headword",
+            "word": "objective"
+        }
+    ]
+}

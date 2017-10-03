@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "generic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century: from French générique, from Latin genus, gener- ‘stock, race’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "characteristic of or relating to a class or group of things; not specific"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "chèvre is a generic term for all goat's milk cheese"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0408460.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of goods, especially medicinal drugs) having no brand name; not protected by a registered trademark."
+                                            ],
+                                            "id": "m_en_gbus0408460.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "lacking imagination or individuality; predictable and unoriginal"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "generic dance-floor fillers"
+                                                },
+                                                {
+                                                    "text": "the plot of the film isn't just generic, it's insultingly stupid"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0408460.009",
+                                            "registers": [
+                                                "derogatory"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to a genus."
+                                    ],
+                                    "domains": [
+                                        "Biology"
+                                    ],
+                                    "id": "m_en_gbus0408460.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/generic_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dʒɪˈnɛrɪk"
+                        }
+                    ],
+                    "text": "generic"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a consumer product having no brand name or registered trademark"
+                                    ],
+                                    "domains": [
+                                        "Medicine"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "substituting generics for brand-name drugs"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0408460.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/generic_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dʒɪˈnɛrɪk"
+                        }
+                    ],
+                    "text": "generic"
+                }
+            ],
+            "type": "headword",
+            "word": "generic"
+        }
+    ]
+}

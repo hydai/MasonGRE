@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "appraise",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘set a price on’): alteration of apprize, by association with praise. The current sense dates from the mid 19th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "The verb appraise is frequently confused with apprise. Appraise means ‘assess (someone or something)’, as in a need to appraise existing techniques, or ‘value’, as in have the gold watch appraised by an expert, while apprise means ‘inform (someone)’ and is often used in the structure apprise someone of something, as in psychiatrists were apprised of his condition. People often incorrectly use appraise rather than apprise, as in once appraised of the real facts, there was only one person who showed any opposition",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "assess the value or quality of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there is a need to appraise existing techniques"
+                                        },
+                                        {
+                                            "text": "she cast an appraising eye over the notes"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0042320.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "assess the performance of (an employee) formally"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "some companies are considering team appraisals instead of appraising individuals"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0042320.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of an official valuer) set a price on; value"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they appraised the painting at £200,000"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0042320.012"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/appraise_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈpreɪz"
+                        }
+                    ],
+                    "text": "appraise"
+                }
+            ],
+            "type": "headword",
+            "word": "appraise"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "endorse",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘write on the back of’; formerly also as indorse): from medieval Latin indorsare, from Latin in- ‘in, on’ + dorsum ‘back’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "declare one's public approval or support of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the report was endorsed by the college"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0323660.011",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "recommend (a product) in an advertisement"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he earns more money endorsing sports clothes than playing football"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0323660.026"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "sign (a cheque or bill of exchange) on the back to make it payable to someone other than the stated payee or to accept responsibility for paying it."
+                                    ],
+                                    "domains": [
+                                        "Commerce"
+                                    ],
+                                    "id": "m_en_gbus0323660.028",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "write (a comment) on a document"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the speed and accuracy achieved will be endorsed on the certificate"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0323660.029"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(in the UK) mark (a driving licence) with the penalty points given as a punishment for a driving offence"
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his licence was endorsed with five points"
+                                        },
+                                        {
+                                            "text": "she's had her licence endorsed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0323660.031"
+                                },
+                                {
+                                    "definitions": [
+                                        "(in South Africa under apartheid) order a black person to leave an urban area for failing to meet certain requirements of the Native Laws Amendment Act"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a further 500,000 blacks had been endorsed out of urban areas under the pass laws"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0323660.033",
+                                    "notes": [
+                                        {
+                                            "text": "\"endorse someone out\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "indorse"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛnˈdɔːs"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/endorse_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈdɔːs"
+                        }
+                    ],
+                    "text": "endorse"
+                }
+            ],
+            "type": "headword",
+            "word": "endorse"
+        }
+    ]
+}

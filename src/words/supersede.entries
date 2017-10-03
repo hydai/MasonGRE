@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "supersede",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘postpone, defer’): from Old French superseder, from Latin supersedere ‘be superior to’, from super- ‘above’ + sedere ‘sit’. The current sense dates from the mid 17th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "The standard spelling is supersede rather than supercede. The word is derived from the Latin verb supersedere but has been influenced by the presence of other words in English spelled with a c, such as intercede and accede. The c spelling is recorded as early as the 16th century; although still generally regarded as incorrect, it is now entered without comment in some modern dictionaries",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "take the place of (a person or thing previously in authority or use); supplant"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the older models of car have now been superseded"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1015240.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/supersede_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌsuːpəˈsiːd"
+                        }
+                    ],
+                    "text": "supersede"
+                }
+            ],
+            "type": "headword",
+            "word": "supersede"
+        }
+    ]
+}

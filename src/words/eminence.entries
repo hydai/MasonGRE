@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "eminence",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Latin eminentia, from eminere ‘jut, project’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "fame or acknowledged superiority within a particular sphere"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "her eminence in cinematography"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0320640.006",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an important or distinguished person"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the Lord Chancellor canvassed the views of various legal eminences"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0320640.008",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a title or form of address given to a Roman Catholic cardinal"
+                                            ],
+                                            "domains": [
+                                                "Roman Catholic Church"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "His Eminence, Cardinal Thomas Wolsey"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0320640.011",
+                                            "notes": [
+                                                {
+                                                    "text": "\"His/Your Eminence\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a piece of rising ground"
+                                    ],
+                                    "domains": [
+                                        "Geography"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an eminence commanding the River Emme"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0320640.013",
+                                    "registers": [
+                                        "formal",
+                                        "literary"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a slight projection from the surface of the body"
+                                            ],
+                                            "domains": [
+                                                "Anatomy"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a swelling on the lower surface of the brain termed the median eminence"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0320640.014"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/eminence_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɛmɪnəns"
+                        }
+                    ],
+                    "text": "eminence"
+                }
+            ],
+            "type": "headword",
+            "word": "eminence"
+        }
+    ]
+}

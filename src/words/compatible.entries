@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "compatible",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from French, from medieval Latin compatibilis, from compati ‘suffer with’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of two things) able to exist or occur together without problems or conflict"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the careers structure here is not compatible with having a family"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0205740.005",
+                                    "notes": [
+                                        {
+                                            "text": "often \"compatible with\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of two people) able to have a harmonious relationship; well suited"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "it's a pity we're not compatible"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0205740.007"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of one thing) consistent with another"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the symptoms were compatible with gastritis or a peptic ulcer"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0205740.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a computer, piece of software, etc.) able to be used with a specified piece of equipment or software without special adaptation or modification"
+                                            ],
+                                            "domains": [
+                                                "Computing"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the printer is fully compatible with all leading software"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0205740.009"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/compatible_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kəmˈpatɪb(ə)l"
+                        }
+                    ],
+                    "text": "compatible"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a computer that can use software designed for another make or type"
+                                    ],
+                                    "domains": [
+                                        "Computing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "packages available for IBM PCs and compatibles"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0205740.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/compatible_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kəmˈpatɪb(ə)l"
+                        }
+                    ],
+                    "text": "compatible"
+                }
+            ],
+            "type": "headword",
+            "word": "compatible"
+        }
+    ]
+}

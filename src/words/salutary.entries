@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "salutary",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as a noun in the sense ‘remedy’): from French salutaire or Latin salutaris, from salus, salut- ‘health’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(especially with reference to something unwelcome or unpleasant) producing good effects; beneficial"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it failed to draw salutary lessons from Britain's loss of its colonies"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0896050.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "health-giving"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the salutary Atlantic air"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0896050.007",
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/salutary_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈsaljʊt(ə)ri"
+                        }
+                    ],
+                    "text": "salutary"
+                }
+            ],
+            "type": "headword",
+            "word": "salutary"
+        }
+    ]
+}

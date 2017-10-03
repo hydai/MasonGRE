@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "natal",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin natalis, from nat- ‘born’, from the verb nasci"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to the place or time of one's birth"
+                                    ],
+                                    "domains": [
+                                        "Astrology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was living in the south, many miles from his natal city"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0679230.005"
+                                }
+                            ]
+                        },
+                        {
+                            "etymologies": [
+                                "late 19th century: from nates + -al"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to the buttocks"
+                                    ],
+                                    "domains": [
+                                        "Anatomy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the natal cleft"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0679240.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/natal_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈneɪt(ə)l"
+                        }
+                    ],
+                    "text": "natal"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Proper",
+                                    "type": "Properness"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "300",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a former province of South Africa, situated on the east coast. Having been a Boer republic and then a British colony, Natal acquired internal self-government in 1893 and became a province of the Union of South Africa in 1910. It was renamed KwaZulu-Natal in 1994."
+                                    ],
+                                    "id": "m_en_gbus0679220.009"
+                                },
+                                {
+                                    "definitions": [
+                                        "a port on the Atlantic coast of NE Brazil, capital of the state of Rio Grande do Norte; population 774,230 (2007)."
+                                    ],
+                                    "id": "m_en_gbus0679220.012"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/natal_1_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "nəˈtal"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "nəˈtɑːl"
+                        }
+                    ],
+                    "text": "Natal"
+                }
+            ],
+            "type": "headword",
+            "word": "natal"
+        }
+    ]
+}

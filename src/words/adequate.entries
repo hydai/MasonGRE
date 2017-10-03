@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "adequate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin adaequatus ‘made equal to’, past participle of the verb adaequare, from ad- ‘to’ + aequus ‘equal’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "satisfactory or acceptable in quality or quantity"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this office is perfectly adequate for my needs"
+                                        },
+                                        {
+                                            "text": "adequate resources and funding"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0009850.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/adequate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈadɪkwət"
+                        }
+                    ],
+                    "text": "adequate"
+                }
+            ],
+            "type": "headword",
+            "word": "adequate"
+        }
+    ]
+}

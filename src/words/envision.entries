@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "envision",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "imagine as a future possibility; visualize"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she envisioned the admiring glances of guests seeing her home"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0327770.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/envision_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛnˈvɪʒ(ə)n"
+                        }
+                    ],
+                    "text": "envision"
+                }
+            ],
+            "type": "headword",
+            "word": "envision"
+        }
+    ]
+}

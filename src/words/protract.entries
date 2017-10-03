@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "protract",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin protract- ‘prolonged’, from the verb protrahere, from pro- ‘out’ + trahere ‘to draw’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "prolong"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he had certainly taken his time, even protracting the process"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0823700.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/protract_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prəˈtrakt"
+                        }
+                    ],
+                    "text": "protract"
+                }
+            ],
+            "type": "headword",
+            "word": "protract"
+        }
+    ]
+}

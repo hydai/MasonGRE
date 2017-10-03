@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ameliorate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: alteration of meliorate, influenced by French améliorer, from meilleur ‘better’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (something bad or unsatisfactory) better"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the reform did much to ameliorate living standards"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0027850.005",
+                                    "registers": [
+                                        "formal"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ameliorate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈmiːlɪəreɪt"
+                        }
+                    ],
+                    "text": "ameliorate"
+                }
+            ],
+            "type": "headword",
+            "word": "ameliorate"
+        }
+    ]
+}

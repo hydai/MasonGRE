@@ -1,0 +1,134 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "irreconcilable",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of ideas or statements) so different from each other that they cannot be made compatible"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "these two views of the economy are irreconcilable"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0522660.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "incapable of being resolved"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "irreconcilable differences"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0522660.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of people) implacably hostile to each other"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "irreconcilable enemies"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0522660.010"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/irreconcilable_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˈrɛk(ə)nsʌɪləb(ə)l"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/irreconcilable_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˌrɛk(ə)nˈsʌɪləb(ə)l"
+                        }
+                    ],
+                    "text": "irreconcilable"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "any of two or more ideas or statements that cannot be made compatible."
+                                    ],
+                                    "id": "m_en_gbus0522660.012",
+                                    "notes": [
+                                        {
+                                            "text": "usually \"irreconcilables\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/irreconcilable_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˌrɛk(ə)nˈsʌɪləb(ə)l"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/irreconcilable_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˈrɛk(ə)nsʌɪləb(ə)l"
+                        }
+                    ],
+                    "text": "irreconcilable"
+                }
+            ],
+            "type": "headword",
+            "word": "irreconcilable"
+        }
+    ]
+}

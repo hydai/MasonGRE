@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "escalate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "1920s (in the sense ‘travel on an escalator’): back-formation from escalator"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "increase rapidly"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the escalating cost of health care"
+                                        },
+                                        {
+                                            "text": "the price of tickets escalated"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0332530.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "make or become more intense or serious"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "we do not want to escalate the war"
+                                                },
+                                                {
+                                                    "text": "the disturbance escalated into a full-scale riot"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0332530.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/escalate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɛskəleɪt"
+                        }
+                    ],
+                    "text": "escalate"
+                }
+            ],
+            "type": "headword",
+            "word": "escalate"
+        }
+    ]
+}

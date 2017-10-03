@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "inchoate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin inchoatus, past participle of inchoare, variant of incohare ‘begin’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "just begun and so not fully formed or developed; rudimentary"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a still inchoate democracy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0501380.015",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "confused or incoherent"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "inchoate proletarian protest"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0501380.017"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of an offence, such as incitement or conspiracy) anticipating or preparatory to a further criminal act."
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "id": "m_en_gbus0501380.019"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɪnkəʊeɪt"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈkəʊət"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/inchoate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈkəʊeɪt"
+                        }
+                    ],
+                    "text": "inchoate"
+                }
+            ],
+            "type": "headword",
+            "word": "inchoate"
+        }
+    ]
+}

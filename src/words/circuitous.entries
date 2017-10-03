@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "circuitous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from medieval Latin circuitosus, from circuitus ‘a way around’ (see circuit)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a route or journey) longer than the most direct way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the canal followed a circuitous route"
+                                        },
+                                        {
+                                            "registers": [
+                                                "figurative"
+                                            ],
+                                            "text": "a circuitous line of reasoning"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0184780.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/circuitous_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "səːˈkjuːɪtəs"
+                        }
+                    ],
+                    "text": "circuitous"
+                }
+            ],
+            "type": "headword",
+            "word": "circuitous"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "transcribe",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (in the sense ‘make a copy in writing’): from Latin transcribere, from trans- ‘across’ + scribere ‘write’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "put (thoughts, speech, or data) into written or printed form"
+                                    ],
+                                    "domains": [
+                                        "Broadcasting"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "each interview was taped and transcribed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1068820.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "transliterate (foreign characters) or write or type out (shorthand, notes, or other abbreviated forms) into ordinary characters or full sentences"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the court was adjourned so that they could transcribe their notes"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1068820.017"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "arrange (a piece of music) for a different instrument, voice, or group of these"
+                                    ],
+                                    "domains": [
+                                        "Music"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his largest early work was transcribed for organ"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1068820.019"
+                                },
+                                {
+                                    "definitions": [
+                                        "synthesize (RNA) using a template of existing DNA (or vice versa), so that the genetic information is copied"
+                                    ],
+                                    "domains": [
+                                        "Genetics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "polymerases transcribe it into a long RNA molecule"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1068820.021"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "trɑːnˈskrʌɪb"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/transcribe_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "tranˈskrʌɪb"
+                        }
+                    ],
+                    "text": "transcribe"
+                }
+            ],
+            "type": "headword",
+            "word": "transcribe"
+        }
+    ]
+}

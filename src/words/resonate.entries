@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "resonate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 19th century: from Latin resonat- ‘resounded’, from the verb resonare (see resound)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "produce or be filled with a deep, full, reverberating sound"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the sound of the siren resonated across the harbour"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0865440.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "evoke images, memories, and emotions"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the words resonate with so many different meanings"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0865440.016"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of an idea or action) meet with agreement"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the judge's ruling resonated among many of the women"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0865440.017",
+                                            "regions": [
+                                                "US"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "produce electrical or mechanical resonance"
+                                    ],
+                                    "domains": [
+                                        "Electrical",
+                                        "Mechanics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the crystal resonates at 16 MHz"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0865440.019",
+                                    "registers": [
+                                        "technical"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/resonate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈrɛz(ə)neɪt"
+                        }
+                    ],
+                    "text": "resonate"
+                }
+            ],
+            "type": "headword",
+            "word": "resonate"
+        }
+    ]
+}

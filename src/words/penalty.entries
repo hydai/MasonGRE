@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "penalty",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: probably via Anglo-Norman French, from medieval Latin poenalitas, based on poena ‘pain’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a punishment imposed for breaking a law, rule, or contract"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the charge carries a maximum penalty of ten years' imprisonment"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0761790.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a disadvantage suffered as the result of an action or situation"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the cold never leaves my bones these days—one of the penalties of age"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0761790.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(in sports and games) a handicap imposed on a player or team for infringement of rules"
+                                    ],
+                                    "domains": [
+                                        "Sport"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she only incurred 6.40 penalties for time on cross-country"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0761790.011",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a kick or shot awarded to a team because of an infringement of the rules by an opponent"
+                                            ],
+                                            "domains": [
+                                                "Sport"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a penalty corner"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0761790.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "points won by the defenders when a declarer fails to make the contract."
+                                            ],
+                                            "domains": [
+                                                "Bridge"
+                                            ],
+                                            "id": "m_en_gbus0761790.013"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/penalty_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈpɛn(ə)lti"
+                        }
+                    ],
+                    "text": "penalty"
+                }
+            ],
+            "type": "headword",
+            "word": "penalty"
+        }
+    ]
+}

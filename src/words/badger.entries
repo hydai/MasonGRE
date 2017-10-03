@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "badger",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: perhaps from badge, with reference to its distinctive head markings. The verb sense (late 18th century) originates from the sport of badger-baiting"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a heavily built omnivorous nocturnal mammal of the weasel family, typically having a grey and black coat."
+                                    ],
+                                    "domains": [
+                                        "Mammal"
+                                    ],
+                                    "id": "m_en_gbus0066390.006",
+                                    "notes": [
+                                        {
+                                            "text": "Several genera and species in the family \"Mustelidae\", in particular the Eurasian \"Meles meles\", which has a white head with two black stripes, and the North American \"Taxidea taxus\", with a white stripe on the head",
+                                            "type": "technicalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/badger_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈbadʒə"
+                        }
+                    ],
+                    "text": "badger"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "repeatedly and annoyingly ask (someone) to do something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "journalists badgered him about the deals"
+                                        },
+                                        {
+                                            "text": "Tom had finally badgered her into going"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0066390.019"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/badger_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈbadʒə"
+                        }
+                    ],
+                    "text": "badger"
+                }
+            ],
+            "type": "headword",
+            "word": "badger"
+        }
+    ]
+}

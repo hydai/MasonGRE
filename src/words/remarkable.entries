@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "remarkable",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from French remarquable, from remarquer ‘take note of’ (see remark)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "worthy of attention; striking"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a remarkable coincidence"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0860310.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/remarkable_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈmɑːkəb(ə)l"
+                        }
+                    ],
+                    "text": "remarkable"
+                }
+            ],
+            "type": "headword",
+            "word": "remarkable"
+        }
+    ]
+}

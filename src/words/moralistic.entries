@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "moralistic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "overfond of making moral judgements about others' behaviour; too ready to moralize"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "modernized fairy tales are often moralistic and cleaned up"
+                                        },
+                                        {
+                                            "text": "a moralistic stance on advertising"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0660020.003"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/moralistic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "mɒrəˈlɪstɪk"
+                        }
+                    ],
+                    "text": "moralistic"
+                }
+            ],
+            "type": "headword",
+            "word": "moralistic"
+        }
+    ]
+}

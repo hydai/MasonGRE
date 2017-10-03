@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "cynical",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "believing that people are motivated purely by self-interest; distrustful of human sincerity or integrity"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was brutally cynical and hardened to every sob story under the sun"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0245980.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "doubtful as to whether something will happen or whether it is worthwhile"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "most residents are cynical about efforts to clean mobsters out of their city"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0245980.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "contemptuous; mocking"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he gave a cynical laugh"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0245980.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "concerned only with one's own interests and typically disregarding accepted standards in order to achieve them"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a cynical manipulation of public opinion"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0245980.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/cynical_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈsɪnɪk(ə)l"
+                        }
+                    ],
+                    "text": "cynical"
+                }
+            ],
+            "type": "headword",
+            "word": "cynical"
+        }
+    ]
+}

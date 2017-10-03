@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "dormant",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the senses ‘fixed in position’ and ‘latent’): from Old French, ‘sleeping’, present participle of dormir, from Latin dormire ‘to sleep’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of an animal) having normal physical functions suspended or slowed down for a period of time; in or as if in a deep sleep"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "dormant butterflies"
+                                        },
+                                        {
+                                            "registers": [
+                                                "figurative"
+                                            ],
+                                            "text": "the event evoked memories that she would rather had lain dormant"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0291620.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a plant or bud) alive but not actively growing."
+                                            ],
+                                            "domains": [
+                                                "Botany"
+                                            ],
+                                            "id": "m_en_gbus0291620.007"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a volcano) temporarily inactive."
+                                            ],
+                                            "id": "m_en_gbus0291620.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a disease) causing no symptoms but not cured and liable to recur"
+                                            ],
+                                            "domains": [
+                                                "Medicine"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the disease may remain dormant and undetected until transmitted to other fish"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0291620.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of an animal) depicted lying with its head on its paws."
+                                            ],
+                                            "domains": [
+                                                "Heraldry"
+                                            ],
+                                            "id": "m_en_gbus0291620.010",
+                                            "notes": [
+                                                {
+                                                    "text": "usually postpositive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/dormant_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdɔːm(ə)nt"
+                        }
+                    ],
+                    "text": "dormant"
+                }
+            ],
+            "type": "headword",
+            "word": "dormant"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "albeit",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from the phrase all be it ‘although it be (that’)"
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "though"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was making progress, albeit rather slowly"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0020540.007"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Conjunction",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/albeit_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɔːlˈbiːɪt"
+                        }
+                    ],
+                    "text": "albeit"
+                }
+            ],
+            "type": "headword",
+            "word": "albeit"
+        }
+    ]
+}

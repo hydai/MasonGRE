@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "facility",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century (denoting the means or unimpeded opportunity for doing something): from French facilité or Latin facilitas, from facilis ‘easy’ (see facile)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a place, amenity, or piece of equipment provided for a particular purpose"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a manufacturing facility"
+                                        },
+                                        {
+                                            "text": "cooking facilities"
+                                        },
+                                        {
+                                            "text": "facilities for car parking"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0346570.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a special feature of a service or machine, which offers the opportunity to do or benefit from something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an overdraft facility"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0346570.010"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a natural ability to do or learn something well and easily"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he had a facility for languages"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0346570.012",
+                                    "notes": [
+                                        {
+                                            "text": "usually in singular",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "absence of difficulty or effort"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the pianist played with great facility"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0346570.013",
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/facility_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "fəˈsɪlɪti"
+                        }
+                    ],
+                    "text": "facility"
+                }
+            ],
+            "type": "headword",
+            "word": "facility"
+        }
+    ]
+}

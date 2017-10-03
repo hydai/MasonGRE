@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "sonorous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin sonorus (from sonor ‘sound’) + -ous"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person's voice or other sound) imposingly deep and full"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he read aloud with a sonorous and musical voice"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0968630.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "capable of producing a deep or ringing sound"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the alloy is sonorous and useful in making bells"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0968630.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a speech or style) using imposing language"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he relished the sonorous words of condemnation"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0968630.010"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/sonorous_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈsɒn(ə)rəs"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/sonorous_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "səˈnɔːrəs"
+                        }
+                    ],
+                    "text": "sonorous"
+                }
+            ],
+            "type": "headword",
+            "word": "sonorous"
+        }
+    ]
+}

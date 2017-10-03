@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "trenchant",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in trenchant (sense 2)): from Old French, literally ‘cutting’, present participle of trenchier (see trench)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "vigorous or incisive in expression or style"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the White Paper makes trenchant criticisms of health authorities"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1072490.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a weapon or tool) having a sharp edge"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a trenchant blade"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1072490.009",
+                                    "registers": [
+                                        "literary",
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/trenchant_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈtrɛn(t)ʃ(ə)nt"
+                        }
+                    ],
+                    "text": "trenchant"
+                }
+            ],
+            "type": "headword",
+            "word": "trenchant"
+        }
+    ]
+}

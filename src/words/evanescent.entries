@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "evanescent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 18th century (in the sense ‘almost imperceptible’): from Latin evanescent- ‘disappearing’, from the verb evanescere (see evanesce)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "soon passing out of sight, memory, or existence; quickly fading or disappearing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the evanescent Arctic summer"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0337350.007",
+                                    "registers": [
+                                        "literary"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "denoting a field or wave which extends into a region where it cannot propagate and whose amplitude therefore decreases with distance."
+                                    ],
+                                    "domains": [
+                                        "Physics"
+                                    ],
+                                    "id": "m_en_gbus0337350.010"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/evanescent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "iːvəˈnɛs(ə)nt"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛvəˈnɛs(ə)nt"
+                        }
+                    ],
+                    "text": "evanescent"
+                }
+            ],
+            "type": "headword",
+            "word": "evanescent"
+        }
+    ]
+}

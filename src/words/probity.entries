@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "probity",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin probitas, from probus ‘good’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the quality of having strong moral principles; honesty and decency"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "financial probity"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0817760.006",
+                                    "registers": [
+                                        "formal"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/probity_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈprəʊbɪti"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈprɒbɪti"
+                        }
+                    ],
+                    "text": "probity"
+                }
+            ],
+            "type": "headword",
+            "word": "probity"
+        }
+    ]
+}

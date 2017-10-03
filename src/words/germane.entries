@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "germane",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: variant of german, with which it was synonymous from Middle English. The current sense has arisen from a usage in Shakespeare's Hamlet"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relevant to a subject under consideration"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "that is not germane to our theme"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0410960.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/germane_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dʒəːˈmeɪn"
+                        }
+                    ],
+                    "text": "germane"
+                }
+            ],
+            "type": "headword",
+            "word": "germane"
+        }
+    ]
+}

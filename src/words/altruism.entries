@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "altruism",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 19th century: from French altruisme, from Italian altrui ‘somebody else’, from Latin alteri huic ‘to this other’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "disinterested and selfless concern for the well-being of others"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "some may choose to work with vulnerable elderly people out of altruism"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0026520.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "behaviour of an animal that benefits another at its own expense"
+                                            ],
+                                            "domains": [
+                                                "Zoology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "reciprocal altruism"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0026520.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/altruism_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈaltruːɪz(ə)m"
+                        }
+                    ],
+                    "text": "altruism"
+                }
+            ],
+            "type": "headword",
+            "word": "altruism"
+        }
+    ]
+}

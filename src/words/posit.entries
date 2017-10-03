@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "posit",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin posit- ‘placed’, from the verb ponere"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "put forward as fact or as a basis for argument"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Confucian view posits a perfectible human nature"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0802220.008",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "base something on the truth of (a particular assumption)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "these plots are posited on a false premise about women's nature as inferior"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0802220.014",
+                                            "notes": [
+                                                {
+                                                    "text": "\"posit something on\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "put in position; place"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Professor posits Cohen in his second category of poets"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0802220.016",
+                                    "notes": [
+                                        {
+                                            "text": "with object and adverbial",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/posit_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈpɒzɪt"
+                        }
+                    ],
+                    "text": "posit"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a statement which is made on the assumption that it will prove to be true."
+                                    ],
+                                    "domains": [
+                                        "Philosophy"
+                                    ],
+                                    "id": "m_en_gbus0802220.018"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/posit_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈpɒzɪt"
+                        }
+                    ],
+                    "text": "posit"
+                }
+            ],
+            "type": "headword",
+            "word": "posit"
+        }
+    ]
+}

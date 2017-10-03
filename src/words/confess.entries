@@ -1,0 +1,142 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "confess",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French confesser, from Latin confessus, past participle of confiteri ‘acknowledge’, from con- (expressing intensive force) + fateri ‘declare, avow’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "admit that one has committed a crime or done something wrong"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "‘I damaged your car,’ she confessed"
+                                        },
+                                        {
+                                            "text": "he wants to confess to Caroline's murder"
+                                        },
+                                        {
+                                            "text": "he confessed that he had attacked the old man"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0209880.005",
+                                    "notes": [
+                                        {
+                                            "text": "reporting verb",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "acknowledge something reluctantly, typically because one feels slightly ashamed or embarrassed"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I must confess that I half believed you"
+                                                },
+                                                {
+                                                    "text": "he confessed to a lifelong passion for food"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0209880.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "declare (one's religious faith)"
+                                            ],
+                                            "domains": [
+                                                "Christian"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "150 people confessed faith in Christ"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0209880.012",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "declare one's sins formally to a priest"
+                                            ],
+                                            "domains": [
+                                                "Christian"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he gave himself up after confessing to a priest"
+                                                },
+                                                {
+                                                    "text": "I could not confess all my sins to the priest"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0209880.013"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a priest) listen to the confession of"
+                                            ],
+                                            "domains": [
+                                                "Christian"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "St Ambrose would weep bitter tears when confessing a sinner"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0209880.014",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconfess_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈfɛs"
+                        }
+                    ],
+                    "text": "confess"
+                }
+            ],
+            "type": "headword",
+            "word": "confess"
+        }
+    ]
+}

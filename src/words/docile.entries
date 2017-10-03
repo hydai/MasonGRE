@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "docile",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘apt or willing to learn’): from Latin docilis, from docere ‘teach’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "ready to accept control or instruction; submissive"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a cheap and docile workforce"
+                                        },
+                                        {
+                                            "text": "she's a black Labrador, gentle and docile"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0286990.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/docile_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdəʊsʌɪl"
+                        }
+                    ],
+                    "text": "docile"
+                }
+            ],
+            "type": "headword",
+            "word": "docile"
+        }
+    ]
+}

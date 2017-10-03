@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "stoicism",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the endurance of pain or hardship without the display of feelings and without complaint."
+                                    ],
+                                    "id": "m_en_gbus0997400.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "an ancient Greek school of philosophy founded at Athens by Zeno of Citium. The school taught that virtue, the highest good, is based on knowledge; the wise live in harmony with the divine Reason (also identified with Fate and Providence) that governs nature, and are indifferent to the vicissitudes of fortune and to pleasure and pain."
+                                    ],
+                                    "domains": [
+                                        "Philosophy",
+                                        "Greek History"
+                                    ],
+                                    "id": "m_en_gbus0997400.009",
+                                    "variantForms": [
+                                        {
+                                            "text": "Stoicism"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/stoicism_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈstəʊɪsɪz(ə)m"
+                        }
+                    ],
+                    "text": "stoicism"
+                }
+            ],
+            "type": "headword",
+            "word": "stoicism"
+        }
+    ]
+}

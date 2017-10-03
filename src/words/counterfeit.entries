@@ -1,0 +1,209 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "counterfeit",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (as a verb): from Anglo-Norman French countrefeter, from Old French contrefait, past participle of contrefaire, from Latin contra- ‘in opposition’ + facere ‘make’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "made in exact imitation of something valuable with the intention to deceive or defraud"
+                                    ],
+                                    "domains": [
+                                        "Crime"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "counterfeit £10 notes"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0225590.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "pretended; sham"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a counterfeit image of reality"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0225590.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkaʊntəfiːt"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/counterfeit_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkaʊntəfɪt"
+                        }
+                    ],
+                    "text": "counterfeit"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a fraudulent imitation of something else"
+                                    ],
+                                    "domains": [
+                                        "Crime"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he knew the tapes to be counterfeits"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0225590.010"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkaʊntəfiːt"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/counterfeit_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkaʊntəfɪt"
+                        }
+                    ],
+                    "text": "counterfeit"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "002",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "imitate fraudulently"
+                                    ],
+                                    "domains": [
+                                        "Crime"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "my signature is extremely hard to counterfeit"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0225590.015",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "pretend to feel or possess (an emotion or quality)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "no pretence could have counterfeited such terror"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0225590.025"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "resemble closely"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "sleep counterfeited Death so well"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0225590.026",
+                                            "registers": [
+                                                "literary"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkaʊntəfiːt"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/counterfeit_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkaʊntəfɪt"
+                        }
+                    ],
+                    "text": "counterfeit"
+                }
+            ],
+            "type": "headword",
+            "word": "counterfeit"
+        }
+    ]
+}

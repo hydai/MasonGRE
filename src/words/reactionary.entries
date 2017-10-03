@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "reactionary",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "opposing political or social progress or reform"
+                                    ],
+                                    "domains": [
+                                        "Politics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "reactionary attitudes toward women's rights"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0848320.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/reactionary_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈakʃ(ə)n(ə)ri"
+                        }
+                    ],
+                    "text": "reactionary"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a reactionary person"
+                                    ],
+                                    "domains": [
+                                        "Politics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was later to become an extreme reactionary"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0848320.008"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/reactionary_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈakʃ(ə)n(ə)ri"
+                        }
+                    ],
+                    "text": "reactionary"
+                }
+            ],
+            "type": "headword",
+            "word": "reactionary"
+        }
+    ]
+}

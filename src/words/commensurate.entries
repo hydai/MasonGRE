@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "commensurate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from late Latin commensuratus, from com- ‘together’ + mensuratus, past participle of mensurare ‘to measure’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "corresponding in size or degree; in proportion"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "such heavy responsibility must receive commensurate reward"
+                                        },
+                                        {
+                                            "text": "salary will be commensurate with age and experience"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0203190.008"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/commensurate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kəˈmɛnʃ(ə)rət"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kəˈmɛnʃ(ə)rət"
+                        }
+                    ],
+                    "text": "commensurate"
+                }
+            ],
+            "type": "headword",
+            "word": "commensurate"
+        }
+    ]
+}

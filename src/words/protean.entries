@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "protean",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Proteus + -an"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "tending or able to change frequently or easily"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it is difficult to comprehend the whole of this protean subject"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0822880.011",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "able to do many different things; versatile"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "protean thinkers who scan the horizons of work and society"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0822880.014"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/protean_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prəʊˈtiːən"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/protean_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈprəʊtɪən"
+                        }
+                    ],
+                    "text": "protean"
+                }
+            ],
+            "type": "headword",
+            "word": "protean"
+        }
+    ]
+}

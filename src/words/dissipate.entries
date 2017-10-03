@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "dissipate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin dissipat- ‘scattered’, from the verb dissipare, from dis- ‘apart, widely’ + supare ‘to throw’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(with reference to a feeling or emotion) disappear or cause to disappear"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he wanted to dissipate his anger"
+                                        },
+                                        {
+                                            "text": "the concern she'd felt for him had wholly dissipated"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0283690.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "disperse or scatter"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the cloud of smoke dissipated"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0283690.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "waste or fritter away (money, energy, or resources)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he inherited, but then dissipated, his father's fortune"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0283690.015",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "cause (energy) to be lost through its conversion to heat"
+                                            ],
+                                            "domains": [
+                                                "Physics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "no power is dissipated in this sort of control element"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0283690.016"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/dissipate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdɪsɪpeɪt"
+                        }
+                    ],
+                    "text": "dissipate"
+                }
+            ],
+            "type": "headword",
+            "word": "dissipate"
+        }
+    ]
+}

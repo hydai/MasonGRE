@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "precedent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French, literally ‘preceding’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there are substantial precedents for using interactive media in training"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0808620.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a previous case or legal decision that may be or (binding precedent) must be followed in subsequent similar cases"
+                                            ],
+                                            "domains": [
+                                                "Law"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "we hope to set a legal precedent to protect hundreds of miles of green lanes"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0808620.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/precedent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈprɛsɪd(ə)nt"
+                        }
+                    ],
+                    "text": "precedent"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "preceding in time, order, or importance"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a precedent case"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0808620.018"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/precedent_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prɪˈsiːd(ə)nt"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈprɛsiːd(ə)nt"
+                        }
+                    ],
+                    "text": "precedent"
+                }
+            ],
+            "type": "headword",
+            "word": "precedent"
+        }
+    ]
+}

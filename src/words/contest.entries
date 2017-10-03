@@ -1,0 +1,161 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "contest",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (as a verb in the sense ‘swear to, attest’): from Latin contestari ‘call upon to witness, initiate (by calling witnesses)’, from con- ‘together’ + testare ‘to witness’. The senses ‘wrangle, struggle for’ arose in the early 17th century, whence the current noun and verb senses"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an event in which people compete for supremacy in a sport or other activity, or in a quality"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a tennis contest"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0214500.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a competition for a political position"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a leadership contest"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0214500.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a dispute or conflict"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a contest between traditional and liberal views"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0214500.009"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xcontest_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkɒntɛst"
+                        }
+                    ],
+                    "text": "contest"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "engage in competition to attain (a position of power)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she declared her intention to contest the presidency"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0214500.017",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "take part in (a competition or election)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a coalition was formed to contest the presidential elections"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0214500.027"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "oppose (an action or theory) as mistaken or wrong"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the former chairman contests his dismissal"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0214500.029",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "engage in dispute about"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the issues have been hotly contested"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0214500.030"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xcontest_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈtɛst"
+                        }
+                    ],
+                    "text": "contest"
+                }
+            ],
+            "type": "headword",
+            "word": "contest"
+        }
+    ]
+}

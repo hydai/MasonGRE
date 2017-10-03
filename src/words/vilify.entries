@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "vilify",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘lower in value’): from late Latin vilificare, from Latin vilis ‘of low value’ (see vile)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "speak or write about in an abusively disparaging manner"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he has been vilified in the press"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1129770.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/vilify_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈvɪlɪfʌɪ"
+                        }
+                    ],
+                    "text": "vilify"
+                }
+            ],
+            "type": "headword",
+            "word": "vilify"
+        }
+    ]
+}

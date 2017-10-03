@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "relinquish",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French relinquiss-, lengthened stem of relinquir, from Latin relinquere, from re- (expressing intensive force) + linquere ‘to leave’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "voluntarily cease to keep or claim; give up"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he relinquished his managerial role to become chief executive"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0859980.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/relinquish_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈlɪŋkwɪʃ"
+                        }
+                    ],
+                    "text": "relinquish"
+                }
+            ],
+            "type": "headword",
+            "word": "relinquish"
+        }
+    ]
+}

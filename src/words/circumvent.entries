@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "circumvent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin circumvent- ‘skirted around’, from the verb circumvenire, from circum ‘around’ + venire ‘come’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "find a way around (an obstacle)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "if you come to an obstruction in a road you can seek to circumvent it"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0185240.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "overcome (a problem or difficulty) in a clever and surreptitious way"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "it was always possible to circumvent the regulations"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0185240.016"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "deceive; outwit"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he's circumvented her with some of his stories"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0185240.018",
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/circumvent_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "səːkəmˈvɛnt"
+                        }
+                    ],
+                    "text": "circumvent"
+                }
+            ],
+            "type": "headword",
+            "word": "circumvent"
+        }
+    ]
+}

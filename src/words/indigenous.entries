@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "indigenous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin indigena ‘a native’ (see indigene) + -ous"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "originating or occurring naturally in a particular place; native"
+                                    ],
+                                    "domains": [
+                                        "Anthropology",
+                                        "Biology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the indigenous peoples of Siberia"
+                                        },
+                                        {
+                                            "text": "coriander is indigenous to southern Europe"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0504540.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/indigenous_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈdɪdʒɪnəs"
+                        }
+                    ],
+                    "text": "indigenous"
+                }
+            ],
+            "type": "headword",
+            "word": "indigenous"
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "provisional",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "arranged or existing for the present, possibly to be changed later"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a provisional government"
+                                        },
+                                        {
+                                            "text": "provisional bookings"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0824270.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a driving licence) to be obtained before starting to learn to drive and upgraded to a full licence on passing a driving test"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Norman as yet had only a provisional licence"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0824270.008",
+                                            "regions": [
+                                                "British"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a postage stamp) put into circulation temporarily, usually owing to the unavailability of the definitive issue."
+                                            ],
+                                            "domains": [
+                                                "Philately"
+                                            ],
+                                            "id": "m_en_gbus0824270.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "denoting the unofficial wings of the IRA and Sinn Fein established in 1969 and advocating terrorism"
+                                    ],
+                                    "domains": [
+                                        "Politics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Provisional IRA"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0824270.011",
+                                    "variantForms": [
+                                        {
+                                            "text": "Provisional"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/provisional_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prəˈvɪʒ(ə)n(ə)l"
+                        }
+                    ],
+                    "text": "provisional"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a provisional stamp."
+                                    ],
+                                    "domains": [
+                                        "Philately"
+                                    ],
+                                    "id": "m_en_gbus0824270.016"
+                                },
+                                {
+                                    "definitions": [
+                                        "a member of the Provisional wings of the IRA or Sinn Fein."
+                                    ],
+                                    "domains": [
+                                        "Politics"
+                                    ],
+                                    "id": "m_en_gbus0824270.021",
+                                    "variantForms": [
+                                        {
+                                            "text": "Provisional"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/provisional_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prəˈvɪʒ(ə)n(ə)l"
+                        }
+                    ],
+                    "text": "provisional"
+                }
+            ],
+            "type": "headword",
+            "word": "provisional"
+        }
+    ]
+}

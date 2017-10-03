@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ponderous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via French from Latin ponderosus, from pondus, ponder- ‘weight’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "slow and clumsy because of great weight"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a swarthy, ponderous giant of a man"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0798450.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(especially of speech or writing) dull or laborious"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the show is loaded down with ponderous one-liners"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0798450.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ponderous_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈpɒnd(ə)rəs"
+                        }
+                    ],
+                    "text": "ponderous"
+                }
+            ],
+            "type": "headword",
+            "word": "ponderous"
+        }
+    ]
+}

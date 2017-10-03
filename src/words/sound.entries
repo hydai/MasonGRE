@@ -1,0 +1,674 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "sound",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English soun, from Anglo-Norman French soun (noun), suner (verb), from Latin sonus. The form with -d was established in the 16th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear"
+                                    ],
+                                    "domains": [
+                                        "Physics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "light travels faster than sound"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0970160.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a thing that can be heard"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "don't make a sound"
+                                                },
+                                                {
+                                                    "text": "she heard the sound of voices in the hall"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0970160.010",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the area or distance within which something can be heard"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "we were always within sound of the train whistles"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0970160.013"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "sound produced by continuous and regular vibrations, as opposed to noise."
+                                    ],
+                                    "domains": [
+                                        "Music"
+                                    ],
+                                    "id": "m_en_gbus0970160.015",
+                                    "variantForms": [
+                                        {
+                                            "text": "musical sound"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "music, speech, and sound effects when recorded and used to accompany a film, video, or broadcast"
+                                    ],
+                                    "domains": [
+                                        "Video",
+                                        "Film"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a sound studio"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0970160.020",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "broadcasting by radio as distinct from television."
+                                            ],
+                                            "domains": [
+                                                "Broadcasting"
+                                            ],
+                                            "id": "m_en_gbus0970160.021"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the distinctive quality of the music of a particular composer or performer or of the sound produced by a particular instrument"
+                                            ],
+                                            "domains": [
+                                                "Music"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the sound of the Beatles"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0970160.022"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "popular music"
+                                            ],
+                                            "domains": [
+                                                "Popular Music"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "sounds of the Sixties"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0970160.023",
+                                            "notes": [
+                                                {
+                                                    "text": "\"sounds\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                "informal"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "an idea or impression conveyed by words"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "you've had a hard day, by the sound of it"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0970160.026",
+                                    "notes": [
+                                        {
+                                            "text": "in singular",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "301",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a long surgical probe, typically with a curved, blunt end."
+                                    ],
+                                    "domains": [
+                                        "Surgery"
+                                    ],
+                                    "id": "m_en_gbus0970180.023"
+                                }
+                            ]
+                        },
+                        {
+                            "etymologies": [
+                                "Middle English: from Old Norse sund ‘swimming, strait’; related to swim"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "700",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a narrow stretch of water forming an inlet or connecting two wider areas of water such as two seas or a sea and a lake."
+                                    ],
+                                    "domains": [
+                                        "Geography"
+                                    ],
+                                    "id": "m_en_gbus0970190.003",
+                                    "subsenses": [
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "another name for Øresund"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "%C3%B8resund",
+                                                    "text": "Øresund",
+                                                    "type": "see also"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0970190.006",
+                                            "variantForms": [
+                                                {
+                                                    "text": "the Sound"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/sound_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "saʊnd"
+                        }
+                    ],
+                    "text": "sound"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "101",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "emit or cause to emit sound"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she sounded the horn"
+                                        },
+                                        {
+                                            "text": "a loud buzzer sounded"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0970160.029",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "give an audible signal to indicate (something)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a different bell begins to sound midnight"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0970160.036",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "express or convey (a warning)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "pharmaceutical companies are sounding the alarm about counterfeit drugs"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0970160.037",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "pronounce"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "sound the rhymes clearly"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0970160.038",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "test (the lungs or another body cavity) by noting the sound they produce"
+                                            ],
+                                            "domains": [
+                                                "Medicine"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the doctor sounded her chest"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0970160.039",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "convey a specified impression when heard"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he sounded worried"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0970160.041",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of something or someone that has been described to one) convey a specified impression"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the house sounds lovely"
+                                                },
+                                                {
+                                                    "text": "it sounds as though you really do believe that"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0970160.042"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French sonder, based on Latin sub- ‘below’ + unda ‘wave’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "300",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "ascertain (the depth of water in the sea, a lake, or a river), typically by means of a line or pole or using sound echoes"
+                                    ],
+                                    "domains": [
+                                        "Nautical"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Mr Pattison was sounding the depth of the water with a pole"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0970180.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "find the depth of water in (a ship's hold)."
+                                            ],
+                                            "domains": [
+                                                "Nautical"
+                                            ],
+                                            "id": "m_en_gbus0970180.013"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "question (someone) discreetly or cautiously so as to ascertain their opinions on a subject"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we'll sound out parliament first"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0970180.016",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "inquire into (someone's opinions) discreetly or cautiously"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "officials arrived to sound out public opinion at meetings in factories"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0970180.017"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "examine (a person's bladder or other internal cavity) with a long surgical probe."
+                                    ],
+                                    "domains": [
+                                        "Medicine"
+                                    ],
+                                    "id": "m_en_gbus0970180.019"
+                                },
+                                {
+                                    "definitions": [
+                                        "(especially of a whale) dive down steeply to a great depth"
+                                    ],
+                                    "domains": [
+                                        "Zoology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he sounded, arching his back steeply and raising his rubbery flukes in the air"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0970180.021",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/sound_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "saʊnd"
+                        }
+                    ],
+                    "text": "sound"
+                },
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old English gesund, of West Germanic origin; related to Dutch gezond and German gesund"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "in good condition; not damaged, injured, or diseased"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was not of sound mind"
+                                        },
+                                        {
+                                            "text": "they returned safe and sound"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0970170.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "financially secure"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she could get her business on a sound footing for the first time"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0970170.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "excellent"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "He ate his lasagne with relish. ‘It's sound, this.’"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0970170.012",
+                                            "regions": [
+                                                "British"
+                                            ],
+                                            "registers": [
+                                                "informal"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "based on valid reason or good judgement"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the scientific content is sound"
+                                        },
+                                        {
+                                            "text": "sound advice for healthy living"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0970170.015",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "competent, reliable, or holding acceptable views"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he's very sound on his law"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0970170.016"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of sleep) deep and undisturbed"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a doze that deepened into a sound sleep"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0970170.018",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) tending to sleep deeply"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I am a sound sleeper"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0970170.019"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a beating) severe"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "such people should be given a sound thrashing"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0970170.021"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/sound_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "saʊnd"
+                        }
+                    ],
+                    "text": "sound"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "201",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "soundly"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was sound asleep"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0970170.023"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adverb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/sound_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "saʊnd"
+                        }
+                    ],
+                    "text": "sound"
+                }
+            ],
+            "type": "headword",
+            "word": "sound"
+        }
+    ]
+}

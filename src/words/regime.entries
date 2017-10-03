@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "regime",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘regimen’): French régime, from Latin regimen ‘rule’ (see regimen). Sense 1 dates from the late 18th century (with original reference to the Ancien Régime)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a government, especially an authoritarian one"
+                                    ],
+                                    "domains": [
+                                        "Politics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "ideological opponents of the regime"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0857410.009"
+                                },
+                                {
+                                    "definitions": [
+                                        "a system or ordered way of doing things"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a tax regime"
+                                        },
+                                        {
+                                            "text": "detention centres with a very tough physical regime"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0857410.015",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a coordinated programme for the promotion or restoration of health; a regimen"
+                                            ],
+                                            "domains": [
+                                                "Medicine"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a low-calorie, low-fat regime"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0857410.016"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the conditions under which a scientific or industrial process occurs."
+                                            ],
+                                            "id": "m_en_gbus0857410.017"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/regime_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "reɪˈʒiːm"
+                        }
+                    ],
+                    "text": "regime"
+                }
+            ],
+            "type": "headword",
+            "word": "regime"
+        }
+    ]
+}

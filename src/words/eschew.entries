@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "eschew",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French eschiver, ultimately of Germanic origin and related to German scheuen ‘shun’, also to shy"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "deliberately avoid using; abstain from"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he appealed to the crowd to eschew violence"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0332860.006"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛsˈtʃuː"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/eschew_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪsˈtʃuː"
+                        }
+                    ],
+                    "text": "eschew"
+                }
+            ],
+            "type": "headword",
+            "word": "eschew"
+        }
+    ]
+}

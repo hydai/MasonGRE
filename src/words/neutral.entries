@@ -1,0 +1,213 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "neutral",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as a noun): from Latin neutralis ‘of neuter gender’, from Latin neuter (see neuter)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not supporting or helping either side in a conflict, disagreement, etc.; impartial"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "neutral and non-aligned European nations"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0687340.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "belonging to an impartial group or state"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the trial should be held on neutral ground"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0687340.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "having no strongly marked or positive characteristics or features"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "her tone was neutral, devoid of sentiment"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0687340.011",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "of or denoting a pale grey, cream, or beige colour"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "walls are painted in neutral tones"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0687340.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "neither acid nor alkaline; having a pH of about 7"
+                                    ],
+                                    "domains": [
+                                        "Chemistry"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "neutral soil conditions"
+                                        },
+                                        {
+                                            "text": "a neutral solution"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0687340.014"
+                                },
+                                {
+                                    "definitions": [
+                                        "having neither a positive nor negative electrical charge"
+                                    ],
+                                    "domains": [
+                                        "Electrical"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "live and neutral contacts on plugs"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0687340.016"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/neutral_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈnjuːtr(ə)l"
+                        }
+                    ],
+                    "text": "neutral"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an impartial or unbiased state or person"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I attended the Cup Final as a neutral"
+                                        },
+                                        {
+                                            "text": "Sweden and its fellow neutrals"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0687340.019"
+                                },
+                                {
+                                    "definitions": [
+                                        "pale grey, cream, or beige"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "classic shades of navy, white, and neutral"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0687340.024",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a disengaged position of gears in which the engine is disconnected from the driven parts"
+                                    ],
+                                    "domains": [
+                                        "Motoring"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she slipped the gear into neutral"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0687340.027",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "an electrically neutral point, terminal, conductor, or wire."
+                                    ],
+                                    "domains": [
+                                        "Electrical"
+                                    ],
+                                    "id": "m_en_gbus0687340.029"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/neutral_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈnjuːtr(ə)l"
+                        }
+                    ],
+                    "text": "neutral"
+                }
+            ],
+            "type": "headword",
+            "word": "neutral"
+        }
+    ]
+}

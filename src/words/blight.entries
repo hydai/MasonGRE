@@ -1,0 +1,172 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "blight",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (denoting inflammation of the skin): of unknown origin"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a plant disease, typically one caused by fungi such as mildews, rusts, and smuts"
+                                    ],
+                                    "domains": [
+                                        "Botany"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the vines suffered blight and disease"
+                                        },
+                                        {
+                                            "text": "potato blight"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0103460.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "a thing that spoils or damages something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "her remorse could be a blight on that happiness"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0103460.010",
+                                    "notes": [
+                                        {
+                                            "text": "in singular",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the degeneration of a landscape or urban area as a result of neglect"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the city's high-rise social housing had become synonymous with urban blight"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0103460.012"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/blight_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "blʌɪt"
+                        }
+                    ],
+                    "text": "blight"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "infect (plants) with blight"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a peach tree blighted by leaf curl"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0103460.023",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "spoil, harm, or destroy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the scandal blighted the careers of several leading politicians"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0103460.030",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "subject (an urban area) to neglect"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "plans to establish enterprise zones in blighted areas"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0103460.031",
+                                            "notes": [
+                                                {
+                                                    "text": "usually as adjective \"blighted\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/blight_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "blʌɪt"
+                        }
+                    ],
+                    "text": "blight"
+                }
+            ],
+            "type": "headword",
+            "word": "blight"
+        }
+    ]
+}

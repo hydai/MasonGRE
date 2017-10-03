@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "forbear",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English forberan (see for-, bear). The original senses were ‘endure, bear with’, hence ‘endure the absence of, do without’, also ‘control oneself’, hence ‘refrain from’ ( Middle English)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "politely or patiently restrain an impulse to do something; refrain"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he modestly forbears to include his own work"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0379650.013",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "refrain from doing or using (something)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Rebecca could not forbear a smile"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0379650.023",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/forbear_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "fɔːˈbɛː"
+                        }
+                    ],
+                    "text": "forbear"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "variant spelling of forebear"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "forebear",
+                                            "text": "forebear",
+                                            "type": "variant spelling"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0379660.003"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/forbear_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfɔːbɛː"
+                        }
+                    ],
+                    "text": "forbear"
+                }
+            ],
+            "type": "headword",
+            "word": "forbear"
+        }
+    ]
+}

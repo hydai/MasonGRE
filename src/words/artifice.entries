@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "artifice",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘workmanship’): from Old French, from Latin artificium, based on ars, art- ‘art’ + facere ‘make’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "clever or cunning devices or expedients, especially as used to trick or deceive others"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an industry dominated by artifice"
+                                        },
+                                        {
+                                            "text": "the style is not free from the artifices of the period"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0049560.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/artifice_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɑːtɪfɪs"
+                        }
+                    ],
+                    "text": "artifice"
+                }
+            ],
+            "type": "headword",
+            "word": "artifice"
+        }
+    ]
+}

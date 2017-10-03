@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "pending",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: anglicized spelling of French pendant ‘hanging’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "awaiting decision or settlement"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "nine cases were still pending"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0762130.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "about to happen; imminent"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the pending lay-off of fifty staff"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0762130.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/pending_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈpɛndɪŋ"
+                        }
+                    ],
+                    "text": "pending"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "until (something) happens"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they were released on bail pending an appeal"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0762130.009"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Preposition",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/pending_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈpɛndɪŋ"
+                        }
+                    ],
+                    "text": "pending"
+                }
+            ],
+            "type": "headword",
+            "word": "pending"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "viable",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century: from French, from vie ‘life’, from Latin vita"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "capable of working successfully; feasible"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the proposed investment was economically viable"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1127210.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a seed or spore) able to germinate"
+                                            ],
+                                            "domains": [
+                                                "Botany"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "most clones can produce thousands of viable seeds"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1127210.007"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a plant, animal, or cell) capable of surviving or living successfully, especially under particular environmental conditions"
+                                            ],
+                                            "domains": [
+                                                "Biology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "little of the frozen semen has been viable when thawed"
+                                                },
+                                                {
+                                                    "text": "the largest and most viable population of this endangered vetch"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1127210.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a fetus or unborn child) able to live after birth"
+                                            ],
+                                            "domains": [
+                                                "Medicine"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "what if the fetus were viable?"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1127210.009"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/viable_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈvʌɪəb(ə)l"
+                        }
+                    ],
+                    "text": "viable"
+                }
+            ],
+            "type": "headword",
+            "word": "viable"
+        }
+    ]
+}

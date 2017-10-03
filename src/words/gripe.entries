@@ -1,0 +1,234 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "gripe",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English grīpan ‘grasp, clutch’, of Germanic origin; related to Dutch grijpen, German greifen ‘seize’, also to grip and grope. gripe (sense 2 of the verb) dates from the 17th century; gripe (sense 1 of the verb), of US origin, dates from the 1930s"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "complain about something in a persistent, irritating way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it's no use griping about your boss or your pay"
+                                        },
+                                        {
+                                            "text": "‘Holidays make no difference to Simon,’ Pat griped"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0434340.006",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "registers": [
+                                        "informal"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "affect with gastric or intestinal pain"
+                                    ],
+                                    "domains": [
+                                        "Medicine"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "spasmodic griping pains"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0434340.014",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        },
+                                        {
+                                            "text": "usually as adjective \"griping\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "grasp tightly; clutch"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Hilyard griped his dagger"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0434340.016",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "secure (a boat) with gripes."
+                                    ],
+                                    "domains": [
+                                        "Nautical"
+                                    ],
+                                    "id": "m_en_gbus0434340.018",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a ship) turn to face the wind despite the efforts of the helmsman."
+                                    ],
+                                    "domains": [
+                                        "Nautical"
+                                    ],
+                                    "id": "m_en_gbus0434340.020",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gripe_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɡrʌɪp"
+                        }
+                    ],
+                    "text": "gripe"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a minor complaint"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "my only gripe is the size of the page numbers"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0434340.023",
+                                    "registers": [
+                                        "informal"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "gastric or intestinal pain; colic"
+                                    ],
+                                    "domains": [
+                                        "Medicine"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "seeing your tiny baby suffering with wind and gripe"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0434340.027",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "an act of grasping something tightly"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he seized me by the arms with a rude gripe"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0434340.030",
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "lashings securing a boat in its place on deck or in davits."
+                                    ],
+                                    "domains": [
+                                        "Nautical"
+                                    ],
+                                    "id": "m_en_gbus0434340.032",
+                                    "notes": [
+                                        {
+                                            "text": "\"gripes\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gripe_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɡrʌɪp"
+                        }
+                    ],
+                    "text": "gripe"
+                }
+            ],
+            "type": "headword",
+            "word": "gripe"
+        }
+    ]
+}

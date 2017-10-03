@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "undermine",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from under- + the verb mine, probably suggested by Middle Dutch ondermineren"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "erode the base or foundation of (a rock formation)"
+                                    ],
+                                    "domains": [
+                                        "Geology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the flow of water had undermined pillars supporting the roof"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1096320.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "dig or excavate beneath (a building or fortification) so as to make it collapse"
+                                            ],
+                                            "domains": [
+                                                "Civil Engineering",
+                                                "Military History"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the demolition engineers did eventually undermine two of the tower's six sides"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1096320.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "lessen the effectiveness, power, or ability of, especially gradually or insidiously"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this could undermine years of hard work"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1096320.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/undermine_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ʌndəˈmʌɪn"
+                        }
+                    ],
+                    "text": "undermine"
+                }
+            ],
+            "type": "headword",
+            "word": "undermine"
+        }
+    ]
+}

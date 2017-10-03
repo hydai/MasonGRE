@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "mundane",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in mundane (sense 2)): from Old French mondain, from late Latin mundanus, from Latin mundus ‘world’. mundane (sense 1) dates from the late 19th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lacking interest or excitement; dull"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his mundane, humdrum existence"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0670380.007"
+                                },
+                                {
+                                    "definitions": [
+                                        "of this earthly world rather than a heavenly or spiritual one"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "according to the Shinto doctrine, spirits of the dead can act upon the mundane world"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0670380.011",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "relating to or denoting the branch of astrology that deals with the prediction of earthly events."
+                                            ],
+                                            "domains": [
+                                                "Astrology"
+                                            ],
+                                            "id": "m_en_gbus0670380.012"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/mundane_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "mʌnˈdeɪn"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/mundane_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈmʌndeɪn"
+                        }
+                    ],
+                    "text": "mundane"
+                }
+            ],
+            "type": "headword",
+            "word": "mundane"
+        }
+    ]
+}

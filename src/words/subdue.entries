@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "subdue",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Anglo-Norman French suduire, from Latin subducere, literally ‘draw from below’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "overcome, quieten, or bring under control (a feeling or person)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she managed to subdue an instinct to applaud"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1006760.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "bring (a country or people) under control by force"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Charles went on a campaign to subdue the Saxons"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1006760.016"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/subdue_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "səbˈdjuː"
+                        }
+                    ],
+                    "text": "subdue"
+                }
+            ],
+            "type": "headword",
+            "word": "subdue"
+        }
+    ]
+}

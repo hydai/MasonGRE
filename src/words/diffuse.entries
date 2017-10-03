@@ -1,0 +1,172 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "diffuse",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin diffus- ‘poured out’, from the verb diffundere, from dis- ‘away’ + fundere ‘pour’; the adjective via French diffus or Latin diffusus ‘extensive’, from diffundere"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "The verbs diffuse and defuse sound similar but have different meanings. Diffuse means, broadly, ‘disperse’, while the non-literal meaning of defuse is ‘reduce the danger or tension in’. Thus sentences such as Cooper successfully diffused the situation are regarded as incorrect, while Cooper successfully defused the situation would be correct. However, such uses of diffuse are widespread, and can make sense: the image in, for example, only peaceful dialogue between the two countries could diffuse tension is not of making a bomb safe but of reducing something dangerous to particles and dispersing them harmlessly",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "spread over a wide area or between a large number of people"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "technologies diffuse rapidly"
+                                        },
+                                        {
+                                            "text": "the problem is how to diffuse power without creating anarchy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0274810.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "intermingle with another substance by movement, typically in a specified direction or at specified speed"
+                                            ],
+                                            "domains": [
+                                                "Physics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "gas is diffused into the bladder"
+                                                },
+                                                {
+                                                    "text": "oxygen molecules diffuse across the membrane"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0274810.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "cause (light) to spread evenly to reduce glare and harsh shadows."
+                                            ],
+                                            "id": "m_en_gbus0274810.012",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/diffuse_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈfjuːz"
+                        }
+                    ],
+                    "text": "diffuse"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "notes": [
+                                {
+                                    "text": "The verbs diffuse and defuse sound similar but have different meanings. Diffuse means, broadly, ‘disperse’, while the non-literal meaning of defuse is ‘reduce the danger or tension in’. Thus sentences such as Cooper successfully diffused the situation are regarded as incorrect, while Cooper successfully defused the situation would be correct. However, such uses of diffuse are widespread, and can make sense: the image in, for example, only peaceful dialogue between the two countries could diffuse tension is not of making a bomb safe but of reducing something dangerous to particles and dispersing them harmlessly",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "spread out over a large area; not concentrated"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the light is more diffuse"
+                                        },
+                                        {
+                                            "text": "the diffuse community which centred on the church"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0274810.016",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of disease) not localized in the body"
+                                            ],
+                                            "domains": [
+                                                "Medicine"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "diffuse hyperplasia"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0274810.018"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "lacking clarity or conciseness"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the second argument is more diffuse"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0274810.020"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/diffuse_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈfjuːs"
+                        }
+                    ],
+                    "text": "diffuse"
+                }
+            ],
+            "type": "headword",
+            "word": "diffuse"
+        }
+    ]
+}

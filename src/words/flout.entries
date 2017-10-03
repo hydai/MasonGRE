@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "flout",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: perhaps from Dutch fluiten ‘whistle, play the flute, hiss (in derision)’; German dialect pfeifen auf, literally ‘pipe at’, has a similar extended meaning"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "Flout and flaunt do not have the same meaning: see flaunt",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "openly disregard (a rule, law, or convention)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the advertising code is being flouted"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0373720.006",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "mock; scoff"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the women pointed and flouted at her"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0373720.013",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/flout_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "flaʊt"
+                        }
+                    ],
+                    "text": "flout"
+                }
+            ],
+            "type": "headword",
+            "word": "flout"
+        }
+    ]
+}

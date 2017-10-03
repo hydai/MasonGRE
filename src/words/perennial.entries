@@ -1,0 +1,174 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "perennial",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century (in the sense ‘remaining leafy throughout the year, evergreen’): from Latin perennis ‘lasting the year through’ + -ial"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lasting or existing for a long or apparently infinite time; enduring or continually recurring"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "perennial manifestations of urban crisis"
+                                        },
+                                        {
+                                            "text": "his perennial distrust of the media"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0765340.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "apparently permanently engaged in a specified role or way of life"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he's a perennial student"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0765340.008",
+                                            "notes": [
+                                                {
+                                                    "text": "attributive",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Compare with annual, biennial"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "biennial",
+                                            "text": "biennial",
+                                            "type": "see also"
+                                        },
+                                        {
+                                            "id": "annual",
+                                            "text": "annual",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "(of a plant) living for several years"
+                                    ],
+                                    "domains": [
+                                        "Horticulture"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "cow parsley is perennial"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0765340.010"
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a stream or spring) flowing throughout the year"
+                                    ],
+                                    "domains": [
+                                        "Geography"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "spring streams rise from perennial springs"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0765340.012"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/perennial_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pəˈrɛnɪəl"
+                        }
+                    ],
+                    "text": "perennial"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "See also hardy perennial"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "hardy_perennial",
+                                            "text": "hardy perennial",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a perennial plant"
+                                    ],
+                                    "domains": [
+                                        "Horticulture"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "perennials will transform the garden in summer"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0765340.021"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/perennial_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pəˈrɛnɪəl"
+                        }
+                    ],
+                    "text": "perennial"
+                }
+            ],
+            "type": "headword",
+            "word": "perennial"
+        }
+    ]
+}

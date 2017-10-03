@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "arcane",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin arcanus, from arcere ‘to shut up’, from arca ‘chest’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "understood by few; mysterious or secret"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "arcane procedures for electing people"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0044580.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/arcane_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɑːˈkeɪn"
+                        }
+                    ],
+                    "text": "arcane"
+                }
+            ],
+            "type": "headword",
+            "word": "arcane"
+        }
+    ]
+}

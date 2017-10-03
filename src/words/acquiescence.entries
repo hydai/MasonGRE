@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "acquiescence",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the reluctant acceptance of something without protest"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "in silent acquiescence, she rose to her feet"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0007180.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/acquiescence_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌakwɪˈɛsns"
+                        }
+                    ],
+                    "text": "acquiescence"
+                }
+            ],
+            "type": "headword",
+            "word": "acquiescence"
+        }
+    ]
+}

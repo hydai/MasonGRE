@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "feckless",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Scots and northern English dialect feck (from effeck, variant of effect)+ -less"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lacking initiative or strength of character; irresponsible"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "her feckless younger brother"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0354720.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/feckless_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfɛkləs"
+                        }
+                    ],
+                    "text": "feckless"
+                }
+            ],
+            "type": "headword",
+            "word": "feckless"
+        }
+    ]
+}

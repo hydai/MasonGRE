@@ -1,0 +1,114 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "mandatory",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from late Latin mandatorius, from Latin mandatum ‘something commanded’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "required by law or mandate; compulsory"
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "wearing helmets was made mandatory for pedal cyclists"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0613460.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "of or conveying a command"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he did not want the guidelines to be mandatory"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0613460.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/mandatory_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈmandət(ə)ri"
+                        }
+                    ],
+                    "text": "mandatory"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "variant spelling of mandatary"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "mandatary",
+                                            "text": "mandatary",
+                                            "type": "variant spelling"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0613460.009"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/mandatory_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈmandət(ə)ri"
+                        }
+                    ],
+                    "text": "mandatory"
+                }
+            ],
+            "type": "headword",
+            "word": "mandatory"
+        }
+    ]
+}

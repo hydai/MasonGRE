@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "contingent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘of uncertain occurrence’): from Latin contingere ‘befall’, from con- ‘together with’ + tangere ‘to touch’. The noun sense was originally ‘something happening by chance’, then ‘a person's share resulting from a division, a quota’; the current sense dates from the early 18th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "subject to chance"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the contingent nature of the job"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0214820.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of losses, liabilities, etc.) that can be anticipated to arise if a particular event occurs."
+                                            ],
+                                            "domains": [
+                                                "Finance"
+                                            ],
+                                            "id": "m_en_gbus0214820.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "true by virtue of the way things in fact are and not by logical necessity"
+                                            ],
+                                            "domains": [
+                                                "Logic"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "that men are living creatures is a contingent fact"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0214820.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "occurring or existing only if (certain circumstances) are the case; dependent on"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his fees were contingent on the success of his search"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0214820.011",
+                                    "notes": [
+                                        {
+                                            "text": "\"contingent on/upon\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xcontingent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈtɪndʒ(ə)nt"
+                        }
+                    ],
+                    "text": "contingent"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a group of people sharing a common feature, forming part of a larger group"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a contingent of Japanese businessmen attending a conference"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0214820.013",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a body of troops or police sent to join a larger force"
+                                            ],
+                                            "domains": [
+                                                "Military",
+                                                "Police"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "six warships were stationed off the coast with a contingent of 2,000 marines"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0214820.016"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xcontingent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈtɪndʒ(ə)nt"
+                        }
+                    ],
+                    "text": "contingent"
+                }
+            ],
+            "type": "headword",
+            "word": "contingent"
+        }
+    ]
+}

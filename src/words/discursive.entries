@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "discursive",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from medieval Latin discursivus, from Latin discurs-, literally ‘gone hastily to and fro’, from the verb discurrere (see discourse)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "digressing from subject to subject"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "students often write dull, second-hand, discursive prose"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0280790.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a style of speech or writing) fluent and expansive"
+                                            ],
+                                            "domains": [
+                                                "Literature"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the short story is concentrated, whereas the novel is discursive"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0280790.008"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to discourse or modes of discourse"
+                                    ],
+                                    "domains": [
+                                        "Linguistics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the attempt to transform utterances from one discursive context to another"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0280790.010"
+                                },
+                                {
+                                    "definitions": [
+                                        "proceeding by argument or reasoning rather than by intuition."
+                                    ],
+                                    "domains": [
+                                        "Philosophy"
+                                    ],
+                                    "id": "m_en_gbus0280790.012",
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/discursive_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪsˈkəːsɪv"
+                        }
+                    ],
+                    "text": "discursive"
+                }
+            ],
+            "type": "headword",
+            "word": "discursive"
+        }
+    ]
+}

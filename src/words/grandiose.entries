@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "grandiose",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 19th century: from French, from Italian grandioso, from grande ‘grand’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "extravagantly or pretentiously imposing in appearance or style"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the court's grandiose facade"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0427490.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "conceived on a very grand or ambitious scale"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "grandiose plans to reform the world"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0427490.009"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/grandiose_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɡrandɪəʊs"
+                        }
+                    ],
+                    "text": "grandiose"
+                }
+            ],
+            "type": "headword",
+            "word": "grandiose"
+        }
+    ]
+}

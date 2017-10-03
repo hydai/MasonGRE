@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "contrite",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French contrit, from Latin contritus, past participle of conterere ‘grind down, wear away’, from con- ‘together’ + terere ‘rub’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "feeling or expressing remorse at the recognition that one has done wrong"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a contrite tone"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0215760.008"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xcontrite_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈtrʌɪt"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xcontrite_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkɒntrʌɪt"
+                        }
+                    ],
+                    "text": "contrite"
+                }
+            ],
+            "type": "headword",
+            "word": "contrite"
+        }
+    ]
+}

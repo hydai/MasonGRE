@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "infinite",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin infinitus, from in- ‘not’ + finitus ‘finished, finite’ (see finite)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "limitless or endless in space, extent, or size; impossible to measure or calculate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the infinite number of stars in the universe"
+                                        },
+                                        {
+                                            "text": "the infinite mercy of God"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0507630.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "very great in amount or degree"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he bathed the wound with infinite care"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0507630.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "greater than any assignable quantity or countable number."
+                                            ],
+                                            "domains": [
+                                                "Mathematics"
+                                            ],
+                                            "id": "m_en_gbus0507630.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a series) able to be continued indefinitely."
+                                            ],
+                                            "domains": [
+                                                "Mathematics"
+                                            ],
+                                            "id": "m_en_gbus0507630.010"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "another term for non-finite"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "nonfinite",
+                                            "text": "nonfinite",
+                                            "type": "another term for"
+                                        },
+                                        {
+                                            "id": "non-finite",
+                                            "text": "non-finite",
+                                            "type": "another term for"
+                                        }
+                                    ],
+                                    "domains": [
+                                        "Grammar"
+                                    ],
+                                    "id": "m_en_gbus0507630.012"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/infinite_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɪnfɪnɪt"
+                        }
+                    ],
+                    "text": "infinite"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a space or quantity that is infinite"
+                                    ],
+                                    "domains": [
+                                        "Mathematics",
+                                        "Physics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "beyond the infinite, the space traveller is transformed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0507630.014",
+                                    "notes": [
+                                        {
+                                            "text": "\"the infinite\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "God"
+                                            ],
+                                            "domains": [
+                                                "Religion"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "intimations of the infinite"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0507630.016",
+                                            "notes": [
+                                                {
+                                                    "text": "\"the Infinite\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/infinite_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɪnfɪnɪt"
+                        }
+                    ],
+                    "text": "infinite"
+                }
+            ],
+            "type": "headword",
+            "word": "infinite"
+        }
+    ]
+}

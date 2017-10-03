@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "condone",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 19th century: from Latin condonare ‘refrain from punishing’, from con- ‘altogether’ + donare ‘give’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "accept (behaviour that is considered morally wrong or offensive)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the college cannot condone any behaviour that involves illicit drugs"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0209340.005",
+                                    "notes": [
+                                        {
+                                            "text": "with object, often with negative",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "approve or sanction (something), especially with reluctance"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "those arrested were released and the exhibition was officially condoned a few weeks later"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0209340.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xcondone_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈdəʊn"
+                        }
+                    ],
+                    "text": "condone"
+                }
+            ],
+            "type": "headword",
+            "word": "condone"
+        }
+    ]
+}

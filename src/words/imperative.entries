@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "imperative",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as a grammatical term): from late Latin imperativus (literally ‘specially ordered’, translating Greek prostatikē enklisis ‘imperative mood’), from imperare ‘to command’, from in- ‘towards’ + parare ‘make ready’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of vital importance; crucial"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "immediate action was imperative"
+                                        },
+                                        {
+                                            "text": "it is imperative that standards are maintained"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0498410.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "giving an authoritative command; peremptory"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the bell pealed again, a final imperative call"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0498410.009",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "denoting the mood of a verb that expresses a command or exhortation, as in come here!"
+                                            ],
+                                            "domains": [
+                                                "Grammar"
+                                            ],
+                                            "id": "m_en_gbus0498410.010"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/imperative_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪmˈpɛrətɪv"
+                        }
+                    ],
+                    "text": "imperative"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an essential or urgent thing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "free movement of labour was an economic imperative"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0498410.013",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a factor or influence making something necessary"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the biological imperatives which guide male and female behaviour"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0498410.016"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a verb or phrase in the imperative mood."
+                                    ],
+                                    "domains": [
+                                        "Grammar"
+                                    ],
+                                    "id": "m_en_gbus0498410.019",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the imperative mood."
+                                            ],
+                                            "domains": [
+                                                "Grammar"
+                                            ],
+                                            "id": "m_en_gbus0498410.020",
+                                            "notes": [
+                                                {
+                                                    "text": "\"the imperative\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/imperative_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪmˈpɛrətɪv"
+                        }
+                    ],
+                    "text": "imperative"
+                }
+            ],
+            "type": "headword",
+            "word": "imperative"
+        }
+    ]
+}

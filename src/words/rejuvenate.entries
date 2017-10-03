@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "rejuvenate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century: from re- ‘again’ + Latin juvenis ‘young’ + -ate, suggested by French rajeunir"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (someone or something) look or feel better, younger, or more vital"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the rejuvenating effects of therapeutic clay"
+                                        },
+                                        {
+                                            "text": "a bid to rejuvenate the town centre"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0859110.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "restore (a river or stream) to a condition characteristic of a younger landscape"
+                                            ],
+                                            "domains": [
+                                                "Geography"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a rejuvenated stream"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0859110.011",
+                                            "notes": [
+                                                {
+                                                    "text": "often as adjective \"rejuvenated\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/rejuvenate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈdʒuːvəneɪt"
+                        }
+                    ],
+                    "text": "rejuvenate"
+                }
+            ],
+            "type": "headword",
+            "word": "rejuvenate"
+        }
+    ]
+}

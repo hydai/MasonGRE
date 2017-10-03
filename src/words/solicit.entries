@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "solicit",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French solliciter, from Latin sollicitare ‘agitate’, from sollicitus ‘anxious’, from sollus ‘entire’ + citus (past participle of ciere ‘set in motion’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "ask for or try to obtain (something) from someone"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he called a meeting to solicit their views"
+                                        },
+                                        {
+                                            "text": "don't solicit for money"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0966750.006",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "ask (someone) for something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "historians and critics are solicited for opinions by the auction houses"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0966750.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "accost someone and offer one's or someone else's services as a prostitute"
+                                    ],
+                                    "domains": [
+                                        "Sex"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "although prostitution was not itself an offence, soliciting was"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0966750.014",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/solicit_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "səˈlɪsɪt"
+                        }
+                    ],
+                    "text": "solicit"
+                }
+            ],
+            "type": "headword",
+            "word": "solicit"
+        }
+    ]
+}

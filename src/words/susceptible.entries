@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "susceptible",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from late Latin susceptibilis, from Latin suscipere ‘take up, sustain’, from sub- ‘from below’ + capere ‘take’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "likely or liable to be influenced or harmed by a particular thing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "patients with liver disease may be susceptible to infection"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1017890.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) easily influenced by feelings or emotions; sensitive"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they only do it to tease him—he's too susceptible"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1017890.008"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "capable or admitting of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the problem is not susceptible of a simple solution"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1017890.010",
+                                    "notes": [
+                                        {
+                                            "text": "\"susceptible of\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/susceptible_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "səˈsɛptɪb(ə)l"
+                        }
+                    ],
+                    "text": "susceptible"
+                }
+            ],
+            "type": "headword",
+            "word": "susceptible"
+        }
+    ]
+}

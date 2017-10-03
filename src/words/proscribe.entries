@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "proscribe",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘to outlaw’): from Latin proscribere, from pro- ‘in front of’ + scribere ‘write’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "Proscribe does not have the same meaning as prescribe: see prescribe",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "forbid, especially by law"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "strikes remained proscribed in the armed forces"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0822190.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "denounce or condemn"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "certain customary practices which the Catholic Church proscribed, such as polygyny"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0822190.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "outlaw (someone)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a plaque on which were the names of proscribed traitors"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0822190.012",
+                                            "registers": [
+                                                "historical"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/proscribe_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prə(ʊ)ˈskrʌɪb"
+                        }
+                    ],
+                    "text": "proscribe"
+                }
+            ],
+            "type": "headword",
+            "word": "proscribe"
+        }
+    ]
+}

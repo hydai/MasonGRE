@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ebb",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English ebba (noun), ebbian (verb), of West Germanic origin; related to Dutch ebbe (noun), ebben (verb), and ultimately to of which had the primary sense ‘away from’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the movement of the tide out to sea"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the ebb tide"
+                                        },
+                                        {
+                                            "text": "the tide was on the ebb"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0309410.005",
+                                    "notes": [
+                                        {
+                                            "text": "usually \"the ebb\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ebb_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛb"
+                        }
+                    ],
+                    "text": "ebb"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Compare with flow"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "flow",
+                                            "text": "flow",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "(of tidewater) move away from the land; recede"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the tide began to ebb"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0309410.009"
+                                },
+                                {
+                                    "definitions": [
+                                        "(of an emotion or quality) gradually decrease"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "my enthusiasm was ebbing away"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0309410.016"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ebb_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛb"
+                        }
+                    ],
+                    "text": "ebb"
+                }
+            ],
+            "type": "headword",
+            "word": "ebb"
+        }
+    ]
+}

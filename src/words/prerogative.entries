@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "prerogative",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Old French from Latin praerogativa ‘(the verdict of) the political division which was chosen to vote first in the assembly’, feminine (used as noun) of praerogativus ‘asked first’, from prae ‘before’ + rogare ‘ask’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a right or privilege exclusive to a particular individual or class"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "in some countries, higher education is predominantly the prerogative of the rich"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0811960.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the right of the sovereign, which in British law is theoretically subject to no restriction."
+                                            ],
+                                            "domains": [
+                                                "Law",
+                                                "Politics"
+                                            ],
+                                            "id": "m_en_gbus0811960.008",
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "variantForms": [
+                                                {
+                                                    "text": "royal prerogative"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a faculty or property distinguishing a person or class"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "it's not a female prerogative to feel insecure"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0811960.012"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/prerogative_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prɪˈrɒɡətɪv"
+                        }
+                    ],
+                    "text": "prerogative"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "arising from the prerogative of the Crown (usually delegated to the government or the judiciary) and based in common law rather than statutory law"
+                                    ],
+                                    "domains": [
+                                        "Law",
+                                        "Politics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the monarch retained the formal prerogative power to appoint the Prime Minister"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0811960.014",
+                                    "regions": [
+                                        "British"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/prerogative_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prɪˈrɒɡətɪv"
+                        }
+                    ],
+                    "text": "prerogative"
+                }
+            ],
+            "type": "headword",
+            "word": "prerogative"
+        }
+    ]
+}

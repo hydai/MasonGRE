@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "variability",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lack of consistency or fixed pattern; liability to vary or change"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "seasonal variability in water levels"
+                                        },
+                                        {
+                                            "text": "our results showed substantial variabilities in laboratory practices"
+                                        },
+                                        {
+                                            "text": "a great deal of variability in quality"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1120830.004"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "vɛːrɪəˈbɪlɪti"
+                        }
+                    ],
+                    "text": "variability"
+                }
+            ],
+            "type": "headword",
+            "word": "variability"
+        }
+    ]
+}

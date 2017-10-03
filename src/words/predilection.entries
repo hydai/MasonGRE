@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "predilection",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: from French prédilection, from Latin praedilect- ‘preferred’, from the verb praediligere, from prae ‘in advance’ + diligere ‘to select’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a preference or special liking for something; a bias in favour of something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "your predilection for pretty girls"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0809620.007"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/predilection_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌpriːdɪˈlɛkʃ(ə)n"
+                        }
+                    ],
+                    "text": "predilection"
+                }
+            ],
+            "type": "headword",
+            "word": "predilection"
+        }
+    ]
+}

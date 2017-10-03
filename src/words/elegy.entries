@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "elegy",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from French élégie, or via Latin, from Greek elegeia, from elegos ‘mournful poem’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(in modern literature) a poem of serious reflection, typically a lament for the dead."
+                                    ],
+                                    "domains": [
+                                        "Prosody"
+                                    ],
+                                    "id": "m_en_gbus0317630.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "(in Greek and Latin verse) a poem written in elegiac couplets, as notably by Catullus and Propertius."
+                                    ],
+                                    "domains": [
+                                        "Prosody"
+                                    ],
+                                    "id": "m_en_gbus0317630.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/elegy_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɛlɪdʒi"
+                        }
+                    ],
+                    "text": "elegy"
+                }
+            ],
+            "type": "headword",
+            "word": "elegy"
+        }
+    ]
+}

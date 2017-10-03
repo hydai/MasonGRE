@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "absurd",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin absurdus ‘out of tune’, hence ‘irrational’; related to surdus ‘deaf, dull’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "wildly unreasonable, illogical, or inappropriate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the allegations are patently absurd"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0003560.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "arousing amusement or derision; ridiculous"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "it may look absurd, but having a treadmill desk could improve your attention span"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0003560.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/absurd_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əbˈsəːd"
+                        }
+                    ],
+                    "text": "absurd"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an absurd state of affairs"
+                                    ],
+                                    "domains": [
+                                        "Philosophy",
+                                        "Literature"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the incidents that followed bordered on the absurd"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0003560.013",
+                                    "notes": [
+                                        {
+                                            "text": "\"the absurd\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/absurd_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əbˈsəːd"
+                        }
+                    ],
+                    "text": "absurd"
+                }
+            ],
+            "type": "headword",
+            "word": "absurd"
+        }
+    ]
+}

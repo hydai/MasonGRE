@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ominous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Latin ominosus, from omen, omin- ‘omen’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "giving the worrying impression that something bad is going to happen; threateningly inauspicious"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there were ominous dark clouds gathering overhead"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0718210.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ominous_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɒmɪnəs"
+                        }
+                    ],
+                    "text": "ominous"
+                }
+            ],
+            "type": "headword",
+            "word": "ominous"
+        }
+    ]
+}

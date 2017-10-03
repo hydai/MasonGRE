@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "parody",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: via late Latin from Greek parōidia ‘burlesque poem’, from para- ‘beside’ (expressing alteration) + ōidē ‘ode’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an imitation of the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his provocative use of parody"
+                                        },
+                                        {
+                                            "text": "the film is a parody of the horror genre"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0750690.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an imitation or version of something that falls far short of the real thing; a travesty"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he gave her a parody of a smile"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0750690.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/parody_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈparədi"
+                        }
+                    ],
+                    "text": "parody"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "produce a humorously exaggerated imitation of (a writer, artist, or genre)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his speciality was parodying schoolgirl fiction"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0750690.010",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "mimic humorously"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he parodied his friend's voice"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0750690.016"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/parody_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈparədi"
+                        }
+                    ],
+                    "text": "parody"
+                }
+            ],
+            "type": "headword",
+            "word": "parody"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "deprecate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century (in the sense ‘pray against’): from Latin deprecat- ‘prayed against (as being evil)’, from the verb deprecari, from de- (expressing reversal) + precari ‘pray’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "express disapproval of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "what I deprecate is persistent indulgence"
+                                        },
+                                        {
+                                            "text": "he sniffed in a deprecating way"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0265970.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(chiefly of a software feature) be usable but regarded as obsolete and best avoided, typically because it has been superseded"
+                                            ],
+                                            "domains": [
+                                                "Computing"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "avoid the deprecated <blink> element that causes text to flash on and off"
+                                                },
+                                                {
+                                                    "text": "this feature is deprecated and will be removed in later versions"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0265970.012",
+                                            "notes": [
+                                                {
+                                                    "text": "\"be deprecated\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "another term for depreciate (sense 2)"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "depreciate",
+                                            "text": "depreciate",
+                                            "type": "another term for"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he deprecates the value of children's television"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0265970.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/deprecate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdɛprɪkeɪt"
+                        }
+                    ],
+                    "text": "deprecate"
+                }
+            ],
+            "type": "headword",
+            "word": "deprecate"
+        }
+    ]
+}

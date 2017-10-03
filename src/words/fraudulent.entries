@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "fraudulent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French, or from Latin fraudulentus, from fraus, fraud- ‘deceit, injury’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "obtained, done by, or involving deception, especially criminal deception"
+                                    ],
+                                    "domains": [
+                                        "Crime"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "fraudulent share dealing"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0386860.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "unjustifiably claiming or being credited with particular accomplishments or qualities"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "fraudulent psychics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0386860.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/fraudulent_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfrɔːdjʊl(ə)nt"
+                        }
+                    ],
+                    "text": "fraudulent"
+                }
+            ],
+            "type": "headword",
+            "word": "fraudulent"
+        }
+    ]
+}

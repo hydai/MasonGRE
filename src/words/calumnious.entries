@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "calumnious",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "calumny",
+                            "text": "calumny"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000"
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/calumnious_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kəˈlʌmnɪəs"
+                        }
+                    ],
+                    "text": "calumnious"
+                }
+            ],
+            "type": "headword",
+            "word": "calumnious"
+        }
+    ]
+}

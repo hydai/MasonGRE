@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "propaganda",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Italian, from modern Latin congregatio de propaganda fide ‘congregation for propagation of the faith’ (see propaganda (sense 2)). propaganda (sense 1) dates from the early 20th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "information, especially of a biased or misleading nature, used to promote a political cause or point of view"
+                                    ],
+                                    "domains": [
+                                        "Politics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was charged with distributing enemy propaganda"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0821050.006",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the dissemination of propaganda as a political strategy"
+                                            ],
+                                            "domains": [
+                                                "Politics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the party's leaders believed that a long period of education and propaganda would be necessary"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0821050.008"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a committee of cardinals of the Roman Catholic Church responsible for foreign missions, founded in 1622 by Pope Gregory XV."
+                                    ],
+                                    "domains": [
+                                        "Roman Catholic Church"
+                                    ],
+                                    "id": "m_en_gbus0821050.010",
+                                    "variantForms": [
+                                        {
+                                            "text": "Propaganda"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/propaganda_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prɒpəˈɡandə"
+                        }
+                    ],
+                    "text": "propaganda"
+                }
+            ],
+            "type": "headword",
+            "word": "propaganda"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "humility",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French humilite, from Latin humilitas, from humilis (see humble)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the quality of having a modest or low view of one's importance"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he needs the humility to accept that their way may be better"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0485380.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/humility_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "hjʊˈmɪlɪti"
+                        }
+                    ],
+                    "text": "humility"
+                }
+            ],
+            "type": "headword",
+            "word": "humility"
+        }
+    ]
+}

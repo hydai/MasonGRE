@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "resurge",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 18th century; earliest use found in Miscellanea Curiosa; containing a collection of some of the principal phaenomena in nature. From re- + surge"
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "A further or fresh surge; a surge back or backwards."
+                                    ],
+                                    "id": "m_en_gb_oed244384.001"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌriːˈsəːdʒ"
+                        }
+                    ],
+                    "text": "resurge"
+                },
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century; earliest use found in R. B. (d. 1561). From classical Latin resurgere to get up again, to return to a higher level, to rise above the horizon again, to spring up again, to become active again, revive, in post-classical Latin also to rise again (from the dead) (Vetus Latina) from re- + surgere to rise. Compare Spanish resurgir, Portuguese resurgir, Italian risorgere, and also Middle French, French ressourdre. Compare resurging and resurging. Compare earlier resurrection"
+                            ],
+                            "homographNumber": "001",
+                            "pronunciations": [
+                                {
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "rɪˈsəːdʒ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "To rise again, be resurgent."
+                                    ],
+                                    "id": "m_en_gb_oed164093.001",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "etymologies": [
+                                "mid 19th century. From re- + surge. Compare earlier resurge"
+                            ],
+                            "homographNumber": "002",
+                            "pronunciations": [
+                                {
+                                    "phoneticNotation": "IPA",
+                                    "phoneticSpelling": "ˌriːˈsəːdʒ"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "To surge back again."
+                                    ],
+                                    "id": "m_en_gb_oed164094.001",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "text": "resurge"
+                }
+            ],
+            "type": "headword",
+            "word": "resurge"
+        }
+    ]
+}

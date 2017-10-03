@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "novelty",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French novelte, from novel ‘new, fresh’ (see novel)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the quality of being new, original, or unusual"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the novelty of being a married woman wore off"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0703260.006",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a new or unfamiliar thing or experience"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "in 1914 air travel was still a novelty"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0703260.008",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "denoting an object intended to be amusing as a result of its unusual design"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a novelty teapot"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0703260.011",
+                                            "notes": [
+                                                {
+                                                    "text": "as modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a small and inexpensive toy or ornament"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he bought chocolate novelties to decorate the Christmas tree"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0703260.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/novelty_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈnɒv(ə)lti"
+                        }
+                    ],
+                    "text": "novelty"
+                }
+            ],
+            "type": "headword",
+            "word": "novelty"
+        }
+    ]
+}

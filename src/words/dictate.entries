@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "dictate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (in dictate (sense 2 of the verb)): from Latin dictat- ‘dictated’, from the verb dictare"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "state or order authoritatively"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the tsar's attempts to dictate policy"
+                                        },
+                                        {
+                                            "text": "that doesn't give you the right to dictate to me"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0273730.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "control or decisively affect; determine"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "choice is often dictated by availability"
+                                                },
+                                                {
+                                                    "text": "a review process can be changed as circumstances dictate"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0273730.014"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "say or read aloud (words to be typed, written down, or recorded on tape)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I have four letters to dictate"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0273730.016"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/dictate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪkˈteɪt"
+                        }
+                    ],
+                    "text": "dictate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an order or principle that must be obeyed"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the dictates of fashion"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0273730.021",
+                                    "notes": [
+                                        {
+                                            "text": "usually \"dictates\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/dictate_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdɪkteɪt"
+                        }
+                    ],
+                    "text": "dictate"
+                }
+            ],
+            "type": "headword",
+            "word": "dictate"
+        }
+    ]
+}

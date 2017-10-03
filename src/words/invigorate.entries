@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "invigorate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from medieval Latin invigorat- ‘made strong’, from the verb invigorare, from in- ‘towards’ + Latin vigorare ‘make strong’ (from vigor ‘vigour’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "give strength or energy to"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the shower had invigorated her"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0520040.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/invigorate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈvɪɡəreɪt"
+                        }
+                    ],
+                    "text": "invigorate"
+                }
+            ],
+            "type": "headword",
+            "word": "invigorate"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "underline",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "draw a line under (a word or phrase) to give emphasis or indicate special type"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "certain phrases had been underlined"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1096220.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "emphasize (something)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the improvement in retail sales was underlined by these figures"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1096220.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/underline_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ʌndəˈlʌɪn"
+                        }
+                    ],
+                    "text": "underline"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a line drawn under a word or phrase, especially for emphasis"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "sub-headings have an underline in blue"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1096220.017"
+                                },
+                                {
+                                    "definitions": [
+                                        "the line of the lower part of an animal's body"
+                                    ],
+                                    "domains": [
+                                        "Farming",
+                                        "Zoology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she has a white tail and underline"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1096220.022"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/underline_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈʌndəlʌɪn"
+                        }
+                    ],
+                    "text": "underline"
+                }
+            ],
+            "type": "headword",
+            "word": "underline"
+        }
+    ]
+}

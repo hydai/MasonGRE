@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "encumber",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘cause trouble to, entangle’; formerly also as incumber): from Old French encombrer ‘block up’, from en- ‘in’ + combre ‘river barrage’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "restrict or impede (someone or something) in such a way that free action or movement is difficult"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they had arrived encumbered with families"
+                                        },
+                                        {
+                                            "text": "she was encumbered by her heavy skirts"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0322840.008"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛnˈkʌmbə"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/encumber_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈkʌmbə"
+                        }
+                    ],
+                    "text": "encumber"
+                }
+            ],
+            "type": "headword",
+            "word": "encumber"
+        }
+    ]
+}

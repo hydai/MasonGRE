@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "transcendent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin transcendent- ‘climbing over’, from the verb transcendere (see transcend)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "beyond or above the range of normal or physical human experience"
+                                    ],
+                                    "domains": [
+                                        "Religion"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the search for a transcendent level of knowledge"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1068730.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "surpassing the ordinary; exceptional"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "her transcendent beauty"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1068730.009"
+                                        },
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "Often contrasted with immanent"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "immanent",
+                                                    "text": "immanent",
+                                                    "type": "related"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "(of God) existing apart from and not subject to the limitations of the material universe."
+                                            ],
+                                            "domains": [
+                                                "Religion"
+                                            ],
+                                            "id": "m_en_gbus1068730.010"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(in scholastic philosophy) higher than or not included in any of Aristotle's ten categories."
+                                    ],
+                                    "domains": [
+                                        "Philosophy"
+                                    ],
+                                    "id": "m_en_gbus1068730.012",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(in Kantian philosophy) not realizable in experience."
+                                            ],
+                                            "domains": [
+                                                "Philosophy"
+                                            ],
+                                            "id": "m_en_gbus1068730.013"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/transcendent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "tranˈsɛnd(ə)nt"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌtrɑːnˈsɛnd(ə)nt"
+                        }
+                    ],
+                    "text": "transcendent"
+                }
+            ],
+            "type": "headword",
+            "word": "transcendent"
+        }
+    ]
+}

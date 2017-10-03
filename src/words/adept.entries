@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "adept",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin adeptus ‘achieved’, past participle of adipisci ‘obtain, attain’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "very skilled or proficient at something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she is adept at cutting through red tape"
+                                        },
+                                        {
+                                            "text": "an adept negotiator"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0009830.006"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/adept_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈdɛpt"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/adept_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈadɛpt"
+                        }
+                    ],
+                    "text": "adept"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who is skilled or proficient at something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he is an adept at imitation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0009830.015"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/adept_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈadɛpt"
+                        }
+                    ],
+                    "text": "adept"
+                }
+            ],
+            "type": "headword",
+            "word": "adept"
+        }
+    ]
+}

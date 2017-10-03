@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "commonplace",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (originally common place): translation of Latin locus communis, rendering Greek koinos topos ‘general theme’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not unusual; ordinary"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "unemployment was commonplace in his trade"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0204160.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "not interesting or original; trite"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the usual commonplace remarks"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0204160.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/commonplace_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkɒmənpleɪs"
+                        }
+                    ],
+                    "text": "commonplace"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a usual or ordinary thing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "bombing has become almost a commonplace of public life there"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0204160.010",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a trite saying or topic; a platitude"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "it is a commonplace to talk of the young being alienated"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0204160.013"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a notable passage in a work copied into a commonplace book."
+                                    ],
+                                    "id": "m_en_gbus0204160.015"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/commonplace_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkɒmənpleɪs"
+                        }
+                    ],
+                    "text": "commonplace"
+                }
+            ],
+            "type": "headword",
+            "word": "commonplace"
+        }
+    ]
+}

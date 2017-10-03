@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "legitimate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘born of parents lawfully married to each other’): from medieval Latin legitimatus ‘made legal’, from the verb legitimare, from Latin legitimus ‘lawful’, from lex, leg- ‘law’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "conforming to the law or to rules"
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his claims to legitimate authority"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0574000.004",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a child) born of parents lawfully married to each other"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a legitimate male heir"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0574000.006"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a sovereign) having a title based on strict hereditary right"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the last legitimate Anglo-Saxon king"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0574000.007"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "able to be defended with logic or justification; valid"
+                                    ],
+                                    "domains": [
+                                        "Theatre"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a legitimate excuse for being late"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0574000.009"
+                                },
+                                {
+                                    "definitions": [
+                                        "constituting or relating to serious drama as distinct from musical comedy, revue, etc."
+                                    ],
+                                    "domains": [
+                                        "Theatre"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the legitimate theatre"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0574000.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/legitimate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "lɪˈdʒɪtɪmət"
+                        }
+                    ],
+                    "text": "legitimate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make lawful or justify"
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the regime was not legitimated by popular support"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0574000.025"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/legitimate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "lɪˈdʒɪtɪmeɪt"
+                        }
+                    ],
+                    "text": "legitimate"
+                }
+            ],
+            "type": "headword",
+            "word": "legitimate"
+        }
+    ]
+}

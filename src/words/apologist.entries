@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "apologist",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from French apologiste, from Greek apologizesthai ‘give an account’ (see apologize)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who offers an argument in defence of something controversial"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an enthusiastic apologist for fascism in the 1920s"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0040740.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/apologist_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈpɒlədʒɪst"
+                        }
+                    ],
+                    "text": "apologist"
+                }
+            ],
+            "type": "headword",
+            "word": "apologist"
+        }
+    ]
+}

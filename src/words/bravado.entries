@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "bravado",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Spanish bravada, from bravo ‘bold’ (see brave, -ado)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a bold manner or a show of boldness intended to impress or intimidate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he possesses none of the classic wheeler-dealer's casual bravado"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0122650.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/bravado_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "brəˈvɑːdəʊ"
+                        }
+                    ],
+                    "text": "bravado"
+                }
+            ],
+            "type": "headword",
+            "word": "bravado"
+        }
+    ]
+}

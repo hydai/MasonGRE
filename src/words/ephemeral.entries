@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ephemeral",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Greek ephēmeros (see ephemera) + -al"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lasting for a very short time"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "fashions are ephemeral: new ones regularly drive out the old"
+                                        },
+                                        {
+                                            "text": "works of more than ephemeral interest"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0328340.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(chiefly of plants) having a very short life cycle"
+                                            ],
+                                            "domains": [
+                                                "Biology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "chickweed is an ephemeral weed, producing several generations in one season"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0328340.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˈfiːm(ə)r(ə)l"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ephemeral_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˈfɛm(ə)r(ə)l"
+                        }
+                    ],
+                    "text": "ephemeral"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an ephemeral plant"
+                                    ],
+                                    "domains": [
+                                        "Botany"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "ephemerals avoid the periods of drought as seeds"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0328340.010"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ephemeral_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˈfɛm(ə)r(ə)l"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˈfiːm(ə)r(ə)l"
+                        }
+                    ],
+                    "text": "ephemeral"
+                }
+            ],
+            "type": "headword",
+            "word": "ephemeral"
+        }
+    ]
+}

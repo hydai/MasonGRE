@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "symmetry",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (denoting proportion): from French symétrie or Latin symmetria, from Greek, from sun- ‘with’ + metron ‘measure’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the quality of being made up of exactly similar parts facing each other or around an axis"
+                                    ],
+                                    "domains": [
+                                        "Geometry"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this series has a line of symmetry through its centre"
+                                        },
+                                        {
+                                            "text": "a crystal structure with hexagonal symmetry"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1022840.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "correct or pleasing proportion of the parts of a thing"
+                                            ],
+                                            "domains": [
+                                                "Art"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the overall symmetry makes the poem pleasant to the ear"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1022840.007"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "similarity or exact correspondence between different things"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the political symmetry between the two debates"
+                                                },
+                                                {
+                                                    "text": "history sometimes exhibits weird symmetries between events"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1022840.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a law or operation where a physical property or process has an equivalence in two or more directions."
+                                            ],
+                                            "domains": [
+                                                "Physics"
+                                            ],
+                                            "id": "m_en_gbus1022840.011",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/symmetry_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈsɪmɪtri"
+                        }
+                    ],
+                    "text": "symmetry"
+                }
+            ],
+            "type": "headword",
+            "word": "symmetry"
+        }
+    ]
+}

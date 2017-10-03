@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "amorphous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: from modern Latin amorphus, from Greek amorphos ‘shapeless’ (from a- ‘without’ + morphē ‘form’) + -ous"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "without a clearly defined shape or form"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an amorphous, characterless conurbation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0029290.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "lacking a clear structure or focus"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an amorphous and leaderless legislature"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0029290.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a solid) not crystalline, or not apparently crystalline"
+                                            ],
+                                            "domains": [
+                                                "Crystallography",
+                                                "Chemistry"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an amorphous polymer"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0029290.009"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/amorphous_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈmɔːfəs"
+                        }
+                    ],
+                    "text": "amorphous"
+                }
+            ],
+            "type": "headword",
+            "word": "amorphous"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "protagonist",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century: from Greek prōtagōnistēs, from prōtos ‘first in importance’ + agōnistēs ‘actor’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "The basic sense of protagonist, as originally used in connection with ancient Greek drama, is ‘the main character in a play’. Some traditionalists object to the looser use to refer to a number of characters (rather than just the main one) in a play, film, etc., as for example the play's half-dozen protagonists were well cast, although this is both common and well established. Traditionalists also dislike the meaning ‘a supporter of a cause’, as in he's a strenuous protagonist of the new agricultural policy. This sense, recorded from the 19th century, probably arose by analogy with antagonist, the pro- in protagonist being interpreted as meaning ‘in favour of’. In fact, prot- here derives from the Greek root meaning ‘first’",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the leading character or one of the major characters in a play, film, novel, etc."
+                                    ],
+                                    "domains": [
+                                        "Literature",
+                                        "Theatre"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the hard-boiled protagonist of the movie Blade Runner"
+                                        },
+                                        {
+                                            "text": "the novel's main protagonist is an American intelligence officer"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0822800.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the main figure or one of the most prominent figures in a situation"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "in this colonial struggle the main protagonists were Great Britain and France"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0822800.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "an advocate or champion of a particular cause or idea"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he's a strenuous protagonist of the new agricultural policy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0822800.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/protagonist_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prəˈtaɡ(ə)nɪst"
+                        }
+                    ],
+                    "text": "protagonist"
+                }
+            ],
+            "type": "headword",
+            "word": "protagonist"
+        }
+    ]
+}

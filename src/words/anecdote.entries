@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "anecdote",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century: from French, or via modern Latin from Greek anekdota ‘things unpublished’, from an- ‘not’ + ekdotos, from ekdidōnai ‘publish’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a short amusing or interesting story about a real incident or person"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he told anecdotes about his job"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0032620.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an account regarded as unreliable or hearsay"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his wife's death has long been the subject of rumour and anecdote"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0032620.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the depiction of a minor narrative incident in a painting"
+                                            ],
+                                            "domains": [
+                                                "Art"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the use of inversions of hierarchy, anecdote, and paradox by Magritte, Dali, and others"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0032620.009",
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/anecdote_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈanɪkdəʊt"
+                        }
+                    ],
+                    "text": "anecdote"
+                }
+            ],
+            "type": "headword",
+            "word": "anecdote"
+        }
+    ]
+}

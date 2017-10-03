@@ -1,0 +1,279 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "gauge",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (denoting a standard measure): from Old French gauge (noun), gauger (verb), variant of Old Northern French jauge (noun), jauger (verb), of unknown origin"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an instrument that measures and gives a visual display of the amount, level, or contents of something"
+                                    ],
+                                    "domains": [
+                                        "Civil Engineering"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a fuel gauge"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0405170.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a tool for checking whether something conforms to a desired dimension"
+                                            ],
+                                            "domains": [
+                                                "Tools"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "mark out the details of the angled surfaces with a knife and gauge"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0405170.013"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a means of estimating something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "emigration is perhaps the best gauge of public unease"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0405170.014"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the thickness, size, or capacity of something, especially as a standard measure."
+                                    ],
+                                    "id": "m_en_gbus0405170.016",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the diameter of a wire, fibre, tube, etc."
+                                            ],
+                                            "domains": [
+                                                "Textiles"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a fine 0.018-inch gauge wire"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0405170.017"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a measure of the diameter of a gun barrel, or of its ammunition, expressed as the number of spherical pieces of shot of the same diameter as the barrel that can be made from 1 lb (454 g) of lead"
+                                            ],
+                                            "domains": [
+                                                "Weapons"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a 12-gauge shotgun"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0405170.018",
+                                            "notes": [
+                                                {
+                                                    "text": "in combination",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the thickness of sheet metal or plastic"
+                                            ],
+                                            "domains": [
+                                                "Mechanics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "500-gauge polythene"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0405170.019",
+                                            "notes": [
+                                                {
+                                                    "text": "in combination",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the distance between the rails of a line of railway track"
+                                            ],
+                                            "domains": [
+                                                "Railways"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the line was laid to a gauge of 2 ft 9 ins"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0405170.020"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the position of a sailing ship to windward (the weather gage) or leeward (the lee gage) of another"
+                                    ],
+                                    "domains": [
+                                        "Nautical"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the French fleet was heavily outnumbered but had the weather gage"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0405170.022",
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "gage"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gauge_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɡeɪdʒ"
+                        }
+                    ],
+                    "text": "gauge"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "estimate or determine the amount, level, or volume of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "astronomers can gauge the star's intrinsic brightness"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0405170.033",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "judge or assess (a situation, mood, etc.)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she was unable to gauge his mood"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0405170.044"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "measure the dimensions of (an object) with a gauge"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "when dry the assemblies can be gauged exactly"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0405170.046",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "made in standard dimensions"
+                                            ],
+                                            "domains": [
+                                                "Mechanics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "gauged sets of strings"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0405170.047",
+                                            "notes": [
+                                                {
+                                                    "text": "as adjective \"gauged\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "gage"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gauge_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɡeɪdʒ"
+                        }
+                    ],
+                    "text": "gauge"
+                }
+            ],
+            "type": "headword",
+            "word": "gauge"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "disrupt",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin disrupt- ‘broken apart’, from the verb disrumpere"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "interrupt (an event, activity, or process) by causing a disturbance or problem"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "flooding disrupted rail services"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0283330.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "drastically alter or destroy the structure of"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "alcohol can disrupt the chromosomes of an unfertilized egg"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0283330.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/disrupt_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪsˈrʌpt"
+                        }
+                    ],
+                    "text": "disrupt"
+                }
+            ],
+            "type": "headword",
+            "word": "disrupt"
+        }
+    ]
+}

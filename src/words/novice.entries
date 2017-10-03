@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "novice",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French, from late Latin novicius, from novus ‘new’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person new to and inexperienced in a job or situation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was a complete novice in foreign affairs"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0703320.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an animal, especially a racehorse, that has not yet won a major prize or reached a sufficient level of performance to qualify for important events"
+                                            ],
+                                            "domains": [
+                                                "Racing"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "last season as a novice he won three races"
+                                                },
+                                                {
+                                                    "text": "the novice hurdles"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0703320.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a person who has entered a religious order and is under probation, before taking vows."
+                                    ],
+                                    "domains": [
+                                        "Christian"
+                                    ],
+                                    "id": "m_en_gbus0703320.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/novice_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈnɒvɪs"
+                        }
+                    ],
+                    "text": "novice"
+                }
+            ],
+            "type": "headword",
+            "word": "novice"
+        }
+    ]
+}

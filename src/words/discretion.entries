@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "discretion",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘discernment’): via Old French from Latin discretio(n-) ‘separation’ (in late Latin ‘discernment’), from discernere (see discern)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the quality of behaving or speaking in such a way as to avoid causing offence or revealing confidential information"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she knew she could rely on his discretion"
+                                        },
+                                        {
+                                            "text": "I'll be the soul of discretion"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0280630.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "the freedom to decide what should be done in a particular situation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "local authorities should use their discretion in setting the charges"
+                                        },
+                                        {
+                                            "text": "honorary fellowships may be awarded at the discretion of the council"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0280630.009"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/discretion_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈskrɛʃ(ə)n"
+                        }
+                    ],
+                    "text": "discretion"
+                }
+            ],
+            "type": "headword",
+            "word": "discretion"
+        }
+    ]
+}

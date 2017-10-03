@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "intrinsic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the general sense ‘interior, inner’): from French intrinsèque, from late Latin intrinsecus, from the earlier adverb intrinsecus ‘inwardly, inwards’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "belonging naturally; essential"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "access to the arts is intrinsic to a high quality of life"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0518770.007"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/intrinsic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈtrɪnsɪk"
+                        }
+                    ],
+                    "text": "intrinsic"
+                }
+            ],
+            "type": "headword",
+            "word": "intrinsic"
+        }
+    ]
+}

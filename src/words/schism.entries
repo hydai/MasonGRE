@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "schism",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French scisme, via ecclesiastical Latin from Greek skhisma ‘cleft’, from skhizein ‘to split’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a split or division between strongly opposed sections or parties, caused by differences in opinion or belief"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the widening schism between Church leaders and politicians"
+                                        },
+                                        {
+                                            "text": "the persistence of this group could produce schism within society"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0906520.006",
+                                    "subsenses": [
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "See also Great Schism"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "great_schism",
+                                                    "text": "Great Schism",
+                                                    "type": "see also"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "the formal separation of a Church into two Churches or the secession of a group owing to doctrinal and other differences."
+                                            ],
+                                            "domains": [
+                                                "Roman Catholic Church"
+                                            ],
+                                            "id": "m_en_gbus0906520.010"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/schism_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈsɪz(ə)m"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/schism_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈskɪz(ə)m"
+                        }
+                    ],
+                    "text": "schism"
+                }
+            ],
+            "type": "headword",
+            "word": "schism"
+        }
+    ]
+}

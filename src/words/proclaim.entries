@@ -1,0 +1,119 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "proclaim",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English proclame, from Latin proclamare ‘cry out’, from pro- ‘forth’ + clamare ‘to shout’. The change in the second syllable was due to association with the verb claim"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "announce officially or publicly"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the government's chief scientific adviser proclaimed that the epidemic was under control"
+                                        },
+                                        {
+                                            "text": "army commanders proclaimed a state of emergency"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0818120.008",
+                                    "notes": [
+                                        {
+                                            "text": "with clause",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "declare officially or publicly to be"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he proclaimed King James II as King of England"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0818120.014",
+                                            "notes": [
+                                                {
+                                                    "text": "with object and complement",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "say something emphatically; declare"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he proclaimed the car to be in sound condition"
+                                                },
+                                                {
+                                                    "text": "she proclaimed that what I had said was untrue"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0818120.015"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "indicate clearly"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he had a rolling gait that proclaimed him a man of the sea"
+                                        },
+                                        {
+                                            "text": "his high, intelligent forehead proclaimed a strength of mind that was almost tangible"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0818120.017",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/proclaim_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prəˈkleɪm"
+                        }
+                    ],
+                    "text": "proclaim"
+                }
+            ],
+            "type": "headword",
+            "word": "proclaim"
+        }
+    ]
+}

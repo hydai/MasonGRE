@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "insouciance",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 18th century: French, from insouciant, from in- ‘not’ + souciant ‘worrying’ (present participle of soucier)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "casual lack of concern; indifference"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an impression of boyish insouciance"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0512630.009"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/insouciance_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈsuːsɪəns"
+                        }
+                    ],
+                    "text": "insouciance"
+                }
+            ],
+            "type": "headword",
+            "word": "insouciance"
+        }
+    ]
+}

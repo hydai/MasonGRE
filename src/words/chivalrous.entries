@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "chivalrous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘characteristic of a medieval knight’): from Old French chevalerous, from chevalier (see chevalier)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a man or his behaviour) courteous and gallant, especially towards women"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "shall I be chivalrous and offer you my coat?"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0178430.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "relating to the historical concept of chivalry"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the concept of chivalrous combat"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0178430.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/chivalrous_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈʃɪv(ə)lrəs"
+                        }
+                    ],
+                    "text": "chivalrous"
+                }
+            ],
+            "type": "headword",
+            "word": "chivalrous"
+        }
+    ]
+}

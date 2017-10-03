@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "didactic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Greek didaktikos, from didaskein ‘teach’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "intended to teach, particularly in having moral instruction as an ulterior motive"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a didactic novel that set out to expose social injustice"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0273870.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "in the manner of a teacher, particularly so as to appear patronizing"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his tone ranged from didactic to backslapping"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0273870.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/didactic_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈdaktɪk"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dʌɪˈdaktɪk"
+                        }
+                    ],
+                    "text": "didactic"
+                }
+            ],
+            "type": "headword",
+            "word": "didactic"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "vestige",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from French, from Latin vestigium ‘footprint’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a trace or remnant of something that is disappearing or no longer exists"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the last vestiges of colonialism"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1126730.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the smallest amount"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he waited patiently, but without a vestige of sympathy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1126730.009",
+                                            "notes": [
+                                                {
+                                                    "text": "usually with negative",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a part or organ of an organism which has become reduced or functionless in the course of evolution."
+                                    ],
+                                    "domains": [
+                                        "Biology"
+                                    ],
+                                    "id": "m_en_gbus1126730.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/vestige_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈvɛstɪdʒ"
+                        }
+                    ],
+                    "text": "vestige"
+                }
+            ],
+            "type": "headword",
+            "word": "vestige"
+        }
+    ]
+}

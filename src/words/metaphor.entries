@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "metaphor",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from French métaphore, via Latin from Greek metaphora, from metapherein ‘to transfer’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable"
+                                    ],
+                                    "domains": [
+                                        "Rhetoric",
+                                        "Linguistics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "when we speak of gene maps and gene mapping, we use a cartographic metaphor"
+                                        },
+                                        {
+                                            "text": "her poetry depends on suggestion and metaphor"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0636440.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a thing regarded as representative or symbolic of something else"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the amounts of money being lost by the company were enough to make it a metaphor for an industry that was teetering"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0636440.012"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/metaphor_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈmɛtəfə"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈmɛtəfɔː"
+                        }
+                    ],
+                    "text": "metaphor"
+                }
+            ],
+            "type": "headword",
+            "word": "metaphor"
+        }
+    ]
+}

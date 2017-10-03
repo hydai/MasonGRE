@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "mentor",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: via French and Latin from Greek Mentōr, the name of the adviser of the young Telemachus in Homer's Odyssey"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an experienced and trusted adviser"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was her friend and mentor until his death"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0633110.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an experienced person in a company or educational institution who trains and counsels new employees or students"
+                                            ],
+                                            "domains": [
+                                                "Education"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "regular meetings between mentor and trainee help guide young engineers through their early years"
+                                                },
+                                                {
+                                                    "text": "a mentor program"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0633110.010"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/mentor_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈmɛntɔː"
+                        }
+                    ],
+                    "text": "mentor"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "advise or train (someone, especially a younger colleague)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "both trainees were expertly mentored by a site supervisor"
+                                        },
+                                        {
+                                            "text": "mentoring should be encouraged"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0633110.012"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/mentor_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈmɛntɔː"
+                        }
+                    ],
+                    "text": "mentor"
+                }
+            ],
+            "type": "headword",
+            "word": "mentor"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "paradigm",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: via late Latin from Greek paradeigma, from paradeiknunai ‘show side by side’, from para- ‘beside’ + deiknunai ‘to show’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a typical example or pattern of something; a pattern or model"
+                                    ],
+                                    "domains": [
+                                        "Philosophy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "society's paradigm of the ‘ideal woman’"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0747490.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a world view underlying the theories and methodology of a particular scientific subject"
+                                            ],
+                                            "domains": [
+                                                "Philosophy"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the discovery of universal gravitation became the paradigm of successful science"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0747490.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Often contrasted with syntagm"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "syntagm",
+                                            "text": "syntagm",
+                                            "type": "related"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a set of linguistic items that form mutually exclusive choices in particular syntactic roles"
+                                    ],
+                                    "domains": [
+                                        "Grammar"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "English determiners form a paradigm: we can say ‘a book’ or ‘his book’ but not ‘a his book’"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0747490.011"
+                                },
+                                {
+                                    "definitions": [
+                                        "(in the traditional grammar of Latin, Greek, and other inflected languages) a table of all the inflected forms of a particular verb, noun, or adjective, serving as a model for other words of the same conjugation or declension."
+                                    ],
+                                    "domains": [
+                                        "Grammar"
+                                    ],
+                                    "id": "m_en_gbus0747490.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/paradigm_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈparədʌɪm"
+                        }
+                    ],
+                    "text": "paradigm"
+                }
+            ],
+            "type": "headword",
+            "word": "paradigm"
+        }
+    ]
+}

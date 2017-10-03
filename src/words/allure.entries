@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "allure",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘tempt, entice’): from Old French aleurier ‘attract’, from a- (from Latin ad ‘to’) + luere ‘a lure’ (originally a falconry term)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the quality of being powerfully and mysteriously attractive or fascinating"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "people for whom gold holds no allure"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0024720.006"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/allure_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈljʊə"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈljɔː"
+                        }
+                    ],
+                    "text": "allure"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "powerfully attract or charm; tempt"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "will sponsors really be allured by such opportunities?"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0024720.012"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈljɔː"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/allure_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈljʊə"
+                        }
+                    ],
+                    "text": "allure"
+                }
+            ],
+            "type": "headword",
+            "word": "allure"
+        }
+    ]
+}

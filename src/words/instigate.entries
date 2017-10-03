@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "instigate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (in the sense ‘urge on’): from Latin instigat- ‘urged, incited’, from the verb instigare, from in- ‘towards’ + stigare ‘prick, incite’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "bring about or initiate (an action or event)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I will be instigating legal proceedings"
+                                        },
+                                        {
+                                            "text": "they instigated a reign of terror"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0513190.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "incite someone to do something, especially something bad"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "instigating men to refuse allegiance to the civil powers"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0513190.011",
+                                            "notes": [
+                                                {
+                                                    "text": "\"instigate someone to/to do something\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/instigate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɪnstɪɡeɪt"
+                        }
+                    ],
+                    "text": "instigate"
+                }
+            ],
+            "type": "headword",
+            "word": "instigate"
+        }
+    ]
+}

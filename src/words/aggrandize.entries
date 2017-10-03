@@ -1,0 +1,79 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "aggrandize",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century (in the general sense ‘increase, magnify’): from French agrandiss-, lengthened stem of agrandir, probably from Italian aggrandire, from Latin grandis ‘large’. The ending was changed by association with verbs ending in -ize"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "increase the power, status, or wealth of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an action intended to aggrandize the Frankish dynasty"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0016040.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "enhance the reputation of (someone) beyond what is justified by the facts"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he hoped to aggrandize himself by dying a hero's death"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0016040.017"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "aggrandise"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/aggrandize_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈɡrandʌɪz"
+                        }
+                    ],
+                    "text": "aggrandize"
+                }
+            ],
+            "type": "headword",
+            "word": "aggrandize"
+        }
+    ]
+}

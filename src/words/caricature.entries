@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "caricature",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: from French, from Italian caricatura, from caricare ‘load, exaggerate’, from Latin carricare (see charge)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a picture, description, or imitation of a person in which certain striking characteristics are exaggerated in order to create a comic or grotesque effect"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a crude caricature of the Prime Minister"
+                                        },
+                                        {
+                                            "text": "there are elements of caricature in the portrayal of the hero"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0153690.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a ludicrous or grotesque version of someone or something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he looked a caricature of his normal self"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0153690.014"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/caricature_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkarɪkətjʊə"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkarɪkətʃɔː"
+                        }
+                    ],
+                    "text": "caricature"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make or give a caricature of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was famous enough to be caricatured by Private Eye"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0153690.016"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/caricature_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkarɪkətjʊə"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkarɪkətʃɔː"
+                        }
+                    ],
+                    "text": "caricature"
+                }
+            ],
+            "type": "headword",
+            "word": "caricature"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "impervious",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin impervius (from in- ‘not’ + pervius ‘pervious’) + -ous"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not allowing fluid to pass through"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an impervious layer of basaltic clay"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0498780.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "unable to be affected by"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he worked, apparently impervious to the heat"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0498780.009",
+                                    "notes": [
+                                        {
+                                            "text": "\"impervious to\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/impervious_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪmˈpəːvɪəs"
+                        }
+                    ],
+                    "text": "impervious"
+                }
+            ],
+            "type": "headword",
+            "word": "impervious"
+        }
+    ]
+}

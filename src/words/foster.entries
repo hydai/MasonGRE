@@ -1,0 +1,101 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "foster",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English fōstrian ‘feed, nourish’, from fōster ‘food, nourishment’, of Germanic origin; related to food. The sense ‘bring up another's (originally also one's own) child’ dates from Middle English. See also foster-"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "encourage the development of (something, especially something desirable)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the teacher's task is to foster learning"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0383560.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "develop (a feeling or idea) in oneself"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "appropriate praise helps a child foster a sense of self-worth"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0383560.014"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "bring up (a child that is not one's own by birth)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a person who would foster Holly was found"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0383560.016",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a parent or authority) assign (a child) to be brought up by someone other than its parents"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "when fostering out a child, placement workers will be looking for a home similar to their own"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0383560.017",
+                                            "regions": [
+                                                "British"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/foster_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfɒstə"
+                        }
+                    ],
+                    "text": "foster"
+                }
+            ],
+            "type": "headword",
+            "word": "foster"
+        }
+    ]
+}

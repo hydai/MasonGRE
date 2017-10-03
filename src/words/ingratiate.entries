@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ingratiate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin in gratiam ‘into favour’, on the pattern of obsolete Italian ingratiare, earlier form of ingraziare"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "bring oneself into favour with someone by flattering or trying to please them"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a sycophantic attempt to ingratiate herself with the local aristocracy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0509220.005",
+                                    "notes": [
+                                        {
+                                            "text": "\"ingratiate oneself\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ingratiate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈɡreɪʃɪeɪt"
+                        }
+                    ],
+                    "text": "ingratiate"
+                }
+            ],
+            "type": "headword",
+            "word": "ingratiate"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "jubilation",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a feeling of great happiness and triumph"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "unbelievable scenes of jubilation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0536500.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/jubilation_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dʒuːbɪˈleɪʃn"
+                        }
+                    ],
+                    "text": "jubilation"
+                }
+            ],
+            "type": "headword",
+            "word": "jubilation"
+        }
+    ]
+}

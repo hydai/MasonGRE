@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "obscure",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French obscur, from Latin obscurus ‘dark’, from an Indo-European root meaning ‘cover’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not discovered or known about; uncertain"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his origins and parentage are obscure"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0709210.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "not important or well known"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a relatively obscure actor"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0709210.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "not clearly expressed or easily understood"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "obscure references to Proust"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0709210.014",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "hard to make out or define; vague"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "grey and obscure on the horizon rose a low island"
+                                                },
+                                                {
+                                                    "registers": [
+                                                        "figurative"
+                                                    ],
+                                                    "text": "I feel an obscure resentment"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0709210.015"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/obscure_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əbˈskjʊə"
+                        }
+                    ],
+                    "text": "obscure"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "keep from being seen; conceal"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "grey clouds obscure the sun"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0709210.032",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "make unclear and difficult to understand"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the debate has become obscured by conflicting ideological perspectives"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0709210.042"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "keep from being known"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "none of this should obscure the skill and perseverance of the workers"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0709210.043"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/obscure_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əbˈskjʊə"
+                        }
+                    ],
+                    "text": "obscure"
+                }
+            ],
+            "type": "headword",
+            "word": "obscure"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "obviate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from late Latin obviat- ‘prevented’, from the verb obviare, based on Latin via ‘way’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "remove (a need or difficulty)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the presence of roller blinds obviated the need for curtains"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0709820.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "avoid or prevent (something undesirable)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a parachute can be used to obviate disaster"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0709820.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/obviate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɒbvɪeɪt"
+                        }
+                    ],
+                    "text": "obviate"
+                }
+            ],
+            "type": "headword",
+            "word": "obviate"
+        }
+    ]
+}

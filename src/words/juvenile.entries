@@ -1,0 +1,173 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "juvenile",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin juvenilis, from juvenis ‘young, a young person’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "for or relating to young people"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "juvenile crime"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0539230.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "denoting a theatrical or film role representing a young person"
+                                            ],
+                                            "domains": [
+                                                "Theatre",
+                                                "Film"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the romantic juvenile lead"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0539230.010"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "relating to young birds and animals"
+                                            ],
+                                            "domains": [
+                                                "Botany",
+                                                "Zoology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the prey of juvenile owls"
+                                                },
+                                                {
+                                                    "text": "juvenile mortality in whelks"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0539230.011"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "childish; immature"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she's bored with my juvenile conversation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0539230.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/juvenile_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdʒuːvənʌɪl"
+                        }
+                    ],
+                    "text": "juvenile"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a young person."
+                                    ],
+                                    "id": "m_en_gbus0539230.021",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a person below the age at which ordinary criminal prosecution is possible (18 in most countries)"
+                                            ],
+                                            "domains": [
+                                                "Law"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the law relating to the sentencing of juveniles"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0539230.024"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "an actor playing a juvenile role."
+                                            ],
+                                            "id": "m_en_gbus0539230.025"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a young bird or animal"
+                                            ],
+                                            "domains": [
+                                                "Zoology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the light-coloured plumage of a juvenile"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0539230.026"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/juvenile_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdʒuːvənʌɪl"
+                        }
+                    ],
+                    "text": "juvenile"
+                }
+            ],
+            "type": "headword",
+            "word": "juvenile"
+        }
+    ]
+}

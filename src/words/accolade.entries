@@ -1,0 +1,87 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "accolade",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from French, from Provençal acolada, literally ‘embrace around the neck (when bestowing knighthood)’, from Latin ad- ‘at, to’ + collum ‘neck’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an award or privilege granted as a special honour or as an acknowledgement of merit"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the hotel has won numerous accolades"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0004900.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an expression of praise or admiration"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "poignant accolades and urgent testimonials of thanks"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0004900.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a touch on a person's shoulders with a sword at the bestowing of a knighthood."
+                                    ],
+                                    "domains": [
+                                        "Honour"
+                                    ],
+                                    "id": "m_en_gbus0004900.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/accolade_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌakəˈleɪd"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/accolade_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈakəleɪd"
+                        }
+                    ],
+                    "text": "accolade"
+                }
+            ],
+            "type": "headword",
+            "word": "accolade"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "insipid",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from French insipide or late Latin insipidus, from in- ‘not’ + sapidus (see sapid)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lacking flavour; weak or tasteless"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "mugs of insipid coffee"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0512430.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "lacking vigour or interest"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "many artists continued to churn out insipid, shallow works"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0512430.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/insipid_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈsɪpɪd"
+                        }
+                    ],
+                    "text": "insipid"
+                }
+            ],
+            "type": "headword",
+            "word": "insipid"
+        }
+    ]
+}

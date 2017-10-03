@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "proximity",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from French proximité, from Latin proximitas, from proximus ‘nearest’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "nearness in space, time, or relationship"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "do not operate microphones in close proximity to television sets"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0824590.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/proximity_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prɒkˈsɪmɪti"
+                        }
+                    ],
+                    "text": "proximity"
+                }
+            ],
+            "type": "headword",
+            "word": "proximity"
+        }
+    ]
+}

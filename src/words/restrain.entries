@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "restrain",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French restreign-, stem of restreindre, from Latin restringere, from re- ‘back’ + stringere ‘to tie, pull tight’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "prevent (someone or something) from doing something; keep under control or within limits"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Cara put a restraining hand on his arm"
+                                        },
+                                        {
+                                            "text": "he had to be restrained from walking out"
+                                        },
+                                        {
+                                            "text": "the need to restrain public expenditure"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0866440.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "control (a strong urge or emotion)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Amiss had to restrain his impatience"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0866440.013"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "deprive (someone) of freedom of movement or personal liberty"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "leg cuffs are used for restraining and transporting violent criminals"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0866440.014"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a seat belt) hold (a person or part of their body) down and back while in a vehicle seat"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "all front seats must be equipped with seat belts which restrain the upper part of the body"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0866440.015"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/restrain_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈstreɪn"
+                        }
+                    ],
+                    "text": "restrain"
+                }
+            ],
+            "type": "headword",
+            "word": "restrain"
+        }
+    ]
+}

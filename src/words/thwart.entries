@@ -1,0 +1,194 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "thwart",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English thwerte, from the adjective thwert ‘perverse, obstinate, adverse’, from Old Norse thvert, neuter of thverr ‘transverse’, from an Indo-European root shared by Latin torquere ‘to twist’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "prevent (someone) from accomplishing something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he never did anything to thwart his father"
+                                        },
+                                        {
+                                            "text": "he was thwarted in his desire to punish Uncle Fred"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1051750.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "oppose (a plan, attempt, or ambition) successfully"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the government had been able to thwart all attempts by opposition leaders to form new parties"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1051750.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/thwart_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "θwɔːt"
+                        }
+                    ],
+                    "text": "thwart"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a structural crosspiece forming a seat for a rower in a boat."
+                                    ],
+                                    "domains": [
+                                        "Nautical"
+                                    ],
+                                    "id": "m_en_gbus1051750.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/thwart_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "θwɔːt"
+                        }
+                    ],
+                    "text": "thwart"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "002",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "from one side to another side of; across"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a pink-tinged cloud spread thwart the shore"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1051750.017",
+                                    "registers": [
+                                        "literary",
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Preposition",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/thwart_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "θwɔːt"
+                        }
+                    ],
+                    "text": "thwart"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "003",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "from one side to another side of; across"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a pink-tinged cloud spread thwart the shore"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1051750.017-pos-2",
+                                    "registers": [
+                                        "literary",
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adverb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/thwart_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "θwɔːt"
+                        }
+                    ],
+                    "text": "thwart"
+                }
+            ],
+            "type": "headword",
+            "word": "thwart"
+        }
+    ]
+}

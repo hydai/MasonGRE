@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "furtive",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from French furtif, -ive or Latin furtivus, from furtum ‘theft’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he stole a furtive glance at her"
+                                        },
+                                        {
+                                            "text": "they spent a furtive day together"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0397160.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "suggestive of guilty nervousness"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the look in his eyes became furtive"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0397160.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/furtive_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfəːtɪv"
+                        }
+                    ],
+                    "text": "furtive"
+                }
+            ],
+            "type": "headword",
+            "word": "furtive"
+        }
+    ]
+}

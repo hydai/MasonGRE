@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "mire",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old Norse mýrr, of Germanic origin; related to moss"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a stretch of swampy or boggy ground"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "acres of land had been reduced to a mire"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0647610.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "soft mud or dirt"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the roads retained their winter mire"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0647610.009",
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a wetland area or ecosystem based on peat."
+                                            ],
+                                            "domains": [
+                                                "Ecology"
+                                            ],
+                                            "id": "m_en_gbus0647610.011"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a complicated or unpleasant situation from which it is difficult to extricate oneself"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the service is sinking in the mire of its own regulations"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0647610.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/mire_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "mʌɪə"
+                        }
+                    ],
+                    "text": "mire"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause to become stuck in mud"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "sometimes a heavy truck gets mired down"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0647610.015",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "cover or spatter with mud"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the horse waded through the red mud that mired it to its hocks"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0647610.021"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "involve someone or something in (a difficult situation)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the economy is mired in its longest recession since the war"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0647610.022",
+                                            "notes": [
+                                                {
+                                                    "text": "\"mire someone/something in\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/mire_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "mʌɪə"
+                        }
+                    ],
+                    "text": "mire"
+                }
+            ],
+            "type": "headword",
+            "word": "mire"
+        }
+    ]
+}

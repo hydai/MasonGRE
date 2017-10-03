@@ -1,0 +1,69 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "vacuous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century (in the sense ‘empty of matter’): from Latin vacuus ‘empty’ + -ous"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having or showing a lack of thought or intelligence; mindless"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "vacuous slogans"
+                                        },
+                                        {
+                                            "text": "a vacuous smile"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1117970.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "empty."
+                                    ],
+                                    "id": "m_en_gbus1117970.009",
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/vacuous_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈvakjʊəs"
+                        }
+                    ],
+                    "text": "vacuous"
+                }
+            ],
+            "type": "headword",
+            "word": "vacuous"
+        }
+    ]
+}

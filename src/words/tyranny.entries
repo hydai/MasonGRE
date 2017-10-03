@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "tyranny",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French tyrannie, from late Latin tyrannia, from Latin turannus (see tyrant)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cruel and oppressive government or rule"
+                                    ],
+                                    "domains": [
+                                        "Politics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "refugees fleeing tyranny and oppression"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1087210.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a state under cruel and oppressive government."
+                                            ],
+                                            "domains": [
+                                                "Politics"
+                                            ],
+                                            "id": "m_en_gbus1087210.008",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "cruel, unreasonable, or arbitrary use of power or control"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the tyranny of her stepmother"
+                                                },
+                                                {
+                                                    "registers": [
+                                                        "figurative"
+                                                    ],
+                                                    "text": "the tyranny of the nine-to-five day"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1087210.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(especially in ancient Greece) rule by one who has absolute power without legal right."
+                                            ],
+                                            "domains": [
+                                                "Greek History"
+                                            ],
+                                            "id": "m_en_gbus1087210.010"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/tyranny_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈtɪr(ə)ni"
+                        }
+                    ],
+                    "text": "tyranny"
+                }
+            ],
+            "type": "headword",
+            "word": "tyranny"
+        }
+    ]
+}

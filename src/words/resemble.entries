@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "resemble",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French resembler, based on Latin similare (from similis ‘like’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "have a similar appearance to or qualities in common with (someone or something); look or seem like"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they resembled each other closely"
+                                        },
+                                        {
+                                            "text": "some people resemble their dogs"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0864450.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/resemble_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈzɛmb(ə)l"
+                        }
+                    ],
+                    "text": "resemble"
+                }
+            ],
+            "type": "headword",
+            "word": "resemble"
+        }
+    ]
+}

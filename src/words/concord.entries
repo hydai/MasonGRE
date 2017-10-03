@@ -1,0 +1,178 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "concord",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French concorde, from Latin concordia, from concors ‘of one mind’, from con- ‘together’ + cor, cord- ‘heart’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "agreement or harmony between people or groups"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a pact of peace and concord"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0208690.006",
+                                    "registers": [
+                                        "formal"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a treaty"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a concord was to be drawn up"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0208690.008",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "agreement between words in gender, number, case, person, or any other grammatical category which affects the forms of the words."
+                                    ],
+                                    "domains": [
+                                        "Grammar"
+                                    ],
+                                    "id": "m_en_gbus0208690.012"
+                                },
+                                {
+                                    "definitions": [
+                                        "a chord that is pleasing or satisfactory in itself."
+                                    ],
+                                    "domains": [
+                                        "Music"
+                                    ],
+                                    "id": "m_en_gbus0208690.014",
+                                    "notes": [
+                                        {
+                                            "text": "count noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconcord_1_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkɒŋkɔːd"
+                        }
+                    ],
+                    "text": "concord"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Proper",
+                                    "type": "Properness"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the state capital of New Hampshire; population 42,255 (est. 2008)."
+                                    ],
+                                    "id": "m_en_gbus0208700.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "a town in NE Massachusetts; population 17,450 (est. 2008). Battles there and at Lexington in April 1775 marked the start of the War of American Independence."
+                                    ],
+                                    "domains": [
+                                        "War of American Independence"
+                                    ],
+                                    "id": "m_en_gbus0208700.009"
+                                }
+                            ]
+                        },
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "300",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a variety of dessert grape developed at Concord, Massachusetts."
+                                    ],
+                                    "domains": [
+                                        "Variety"
+                                    ],
+                                    "id": "m_en_gbus0208710.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconcord_1_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkɒŋkɔːd"
+                        }
+                    ],
+                    "text": "Concord"
+                }
+            ],
+            "type": "headword",
+            "word": "concord"
+        }
+    ]
+}

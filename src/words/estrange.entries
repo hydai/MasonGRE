@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "estrange",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from Old French estranger, from Latin extraneare ‘treat as a stranger’, from extraneus ‘not belonging to the family’, used as a noun to mean ‘stranger’. Compare with strange"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause (someone) to be no longer on friendly terms with someone"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he became estranged from his father"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0334190.006"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛˈstreɪn(d)ʒ"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/estrange_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˈstreɪn(d)ʒ"
+                        }
+                    ],
+                    "text": "estrange"
+                }
+            ],
+            "type": "headword",
+            "word": "estrange"
+        }
+    ]
+}

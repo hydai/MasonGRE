@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "propriety",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘peculiarity, essential quality’): from Old French propriete, from Latin proprietas (see property)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "conformity to conventionally accepted standards of behaviour or morals"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he always behaved with the utmost propriety"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0821930.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the details or rules of behaviour conventionally considered to be correct"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she's a great one for the proprieties"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0821930.007",
+                                            "notes": [
+                                                {
+                                                    "text": "\"proprieties\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the condition of being right, appropriate, or fitting"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they questioned the propriety of certain investments made by the council"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0821930.009"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/propriety_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prəˈprʌɪəti"
+                        }
+                    ],
+                    "text": "propriety"
+                }
+            ],
+            "type": "headword",
+            "word": "propriety"
+        }
+    ]
+}

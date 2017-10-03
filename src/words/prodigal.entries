@@ -1,0 +1,123 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "prodigal",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from late Latin prodigalis, from Latin prodigus ‘lavish’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "spending money or using resources freely and recklessly; wastefully extravagant"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "prodigal habits die hard"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0818510.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "having or giving something on a lavish scale"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the dessert was prodigal with whipped cream"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0818510.009"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/prodigal_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈprɒdɪɡ(ə)l"
+                        }
+                    ],
+                    "text": "prodigal"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who spends money in a recklessly extravagant way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the government wished to clip the wings of the local authority prodigals"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0818510.011",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a person who leaves home to lead a prodigal life but later makes a repentant return."
+                                            ],
+                                            "id": "m_en_gbus0818510.014",
+                                            "variantForms": [
+                                                {
+                                                    "text": "prodigal son"
+                                                },
+                                                {
+                                                    "text": "daughter"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/prodigal_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈprɒdɪɡ(ə)l"
+                        }
+                    ],
+                    "text": "prodigal"
+                }
+            ],
+            "type": "headword",
+            "word": "prodigal"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "adversary",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French adversarie, from Latin adversarius ‘opposed, opponent’, from adversus (see adverse)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "one's opponent in a contest, conflict, or dispute"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Davis beat his old adversary in the quarter-finals"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0012150.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/adversary_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈadvəs(ə)ri"
+                        }
+                    ],
+                    "text": "adversary"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "another term for adversarial"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "adversarial",
+                                            "text": "adversarial",
+                                            "type": "another term for"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the confrontations of adversary politics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0012150.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/adversary_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈadvəs(ə)ri"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "adˈvəːsəri"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/adversary_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈadvəs(ə)ri"
+                        }
+                    ],
+                    "text": "adversary"
+                }
+            ],
+            "type": "headword",
+            "word": "adversary"
+        }
+    ]
+}

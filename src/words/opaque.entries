@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "opaque",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English opake, from Latin opacus ‘darkened’. The current spelling (rare before the 19th century) has been influenced by the French form"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not able to be seen through; not transparent"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "bottles filled with a pale opaque liquid"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0721050.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(especially of language) hard or impossible to understand"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "technical jargon that was opaque to her"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0721050.009"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/opaque_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ə(ʊ)ˈpeɪk"
+                        }
+                    ],
+                    "text": "opaque"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an opaque thing."
+                                    ],
+                                    "id": "m_en_gbus0721050.011",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a substance for producing opaque areas on negatives."
+                                            ],
+                                            "domains": [
+                                                "Photography"
+                                            ],
+                                            "id": "m_en_gbus0721050.014",
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/opaque_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ə(ʊ)ˈpeɪk"
+                        }
+                    ],
+                    "text": "opaque"
+                }
+            ],
+            "type": "headword",
+            "word": "opaque"
+        }
+    ]
+}

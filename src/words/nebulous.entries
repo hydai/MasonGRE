@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "nebulous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘cloudy’): from French nébuleux or Latin nebulosus, from nebula ‘mist’. nebulous (sense 2 of the adjective) dates from the early 19th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "in the form of a cloud or haze; hazy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a giant nebulous glow"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0682570.006",
+                                    "subsenses": [
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "another term for nebular"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "nebular",
+                                                    "text": "nebular",
+                                                    "type": "another term for"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0682570.008"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a concept) vague or ill-defined"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "nebulous concepts like quality of life"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0682570.010"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/nebulous_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈnɛbjʊləs"
+                        }
+                    ],
+                    "text": "nebulous"
+                }
+            ],
+            "type": "headword",
+            "word": "nebulous"
+        }
+    ]
+}

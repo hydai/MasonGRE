@@ -1,0 +1,162 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "intrigue",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century (in the sense ‘deceive, cheat’): from French intrigue ‘plot’, intriguer ‘to tangle, to plot’, via Italian from Latin intricare (see intricate). intrigue (sense 1 of the verb), which was influenced by a later French sense ‘to puzzle, make curious’, arose in the late 19th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "arouse the curiosity or interest of; fascinate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I was intrigued by your question"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0518740.009",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "make secret plans to do something illicit or detrimental to someone"
+                                    ],
+                                    "domains": [
+                                        "Crime"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Henry and Louis intrigued with the local nobles"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0518740.020",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/intrigue_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈtriːɡ"
+                        }
+                    ],
+                    "text": "intrigue"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the secret planning of something illicit or detrimental"
+                                    ],
+                                    "domains": [
+                                        "Crime"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the cabinet was a nest of intrigue"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0518740.029",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a secret love affair."
+                                            ],
+                                            "id": "m_en_gbus0518740.031",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a mysterious or fascinating quality"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "within the region's borders is a wealth of interest and intrigue"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0518740.035"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/intrigue_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈtriːɡ"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/intrigue_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɪntriːɡ"
+                        }
+                    ],
+                    "text": "intrigue"
+                }
+            ],
+            "type": "headword",
+            "word": "intrigue"
+        }
+    ]
+}

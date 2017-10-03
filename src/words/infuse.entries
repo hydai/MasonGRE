@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "infuse",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin infus- ‘poured in’, from the verb infundere, from in- ‘into’ + fundere ‘pour’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "fill; pervade"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "her work is infused with an anger born of pain and oppression"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0508890.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "instil (a quality) in someone or something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he did his best to infuse good humour into his voice"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0508890.013"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "soak (tea, herbs, etc.) in liquid to extract the flavour or healing properties"
+                                    ],
+                                    "domains": [
+                                        "Tea"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "infuse the dried flowers in boiling water"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0508890.015",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of tea, herbs, etc.) release flavour or healing properties while being soaked"
+                                            ],
+                                            "domains": [
+                                                "Tea"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "allow the mixture to infuse for 15 minutes"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0508890.016",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "allow (a liquid) to flow into a vein or tissue"
+                                    ],
+                                    "domains": [
+                                        "Medicine"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "saline was infused into the aorta"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0508890.018"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/infuse_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈfjuːz"
+                        }
+                    ],
+                    "text": "infuse"
+                }
+            ],
+            "type": "headword",
+            "word": "infuse"
+        }
+    ]
+}

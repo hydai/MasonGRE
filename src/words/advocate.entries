@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "advocate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French avocat, from Latin advocatus, past participle (used as a noun) of advocare ‘call (to one's aid)’, from ad- ‘to’ + vocare ‘to call’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who publicly supports or recommends a particular cause or policy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was an untiring advocate of economic reform"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0012420.004"
+                                },
+                                {
+                                    "definitions": [
+                                        "a person who puts a case on someone else's behalf"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "care managers can become advocates for their clients"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0012420.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a professional pleader in a court of justice"
+                                            ],
+                                            "domains": [
+                                                "Law"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "solicitors may act as advocates in Crown Courts"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0012420.009"
+                                        },
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "Scottish and South African term for barrister"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "barrister",
+                                                    "text": "barrister",
+                                                    "type": "another term for"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0012420.010"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/advocate_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈadvəkət"
+                        }
+                    ],
+                    "text": "advocate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "publicly recommend or support"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "voters supported candidates who advocated an Assembly"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0012420.023"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/advocate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈadvəkeɪt"
+                        }
+                    ],
+                    "text": "advocate"
+                }
+            ],
+            "type": "headword",
+            "word": "advocate"
+        }
+    ]
+}

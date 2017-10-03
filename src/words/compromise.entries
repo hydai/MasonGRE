@@ -1,0 +1,204 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "compromise",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (denoting mutual consent to arbitration): from Old French compromis, from late Latin compromissum ‘a consent to arbitration’, neuter past participle of compromittere, from com- ‘together’ + promittere (see promise)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an agreement or settlement of a dispute that is reached by each side making concessions"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "eventually they reached a compromise"
+                                        },
+                                        {
+                                            "text": "the secret of a happy marriage is compromise"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0207110.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an intermediate state between conflicting alternatives reached by mutual concession"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a compromise between the freedom of the individual and the need to ensure orderly government"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0207110.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the expedient acceptance of standards that are lower than is desirable"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "sexism should be tackled without compromise"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0207110.011",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/compromise_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkɒmprəmʌɪz"
+                        }
+                    ],
+                    "text": "compromise"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "settle a dispute by mutual concession"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "in the end we compromised and deferred the issue"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0207110.020",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "expediently accept standards that are lower than is desirable"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we were not prepared to compromise on safety"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0207110.028",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "weaken or harm by accepting standards that are lower than is desirable"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he won't accept any decisions which compromise his principles"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0207110.029",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "bring into disrepute or danger by indiscreet, foolish, or reckless behaviour"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "situations in which his troops could be compromised"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0207110.031",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "cause to become vulnerable or function less effectively"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "yo-yo dieting can compromise your immune system"
+                                                },
+                                                {
+                                                    "text": "last month's leak of source code will not compromise your IT security"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0207110.032"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/compromise_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkɒmprəmʌɪz"
+                        }
+                    ],
+                    "text": "compromise"
+                }
+            ],
+            "type": "headword",
+            "word": "compromise"
+        }
+    ]
+}

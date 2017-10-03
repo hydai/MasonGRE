@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "peripheral",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to or situated on the edge or periphery of something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the peripheral areas of Europe"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0766720.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "of secondary or minor importance; marginal"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she will see their problems as peripheral to her own"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0766720.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "near the surface of the body, with special reference to the circulation and nervous system"
+                                            ],
+                                            "domains": [
+                                                "Anatomy"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "lymphocytes from peripheral blood"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0766720.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a device) able to be attached to and used with a computer, though not an integral part of it"
+                                    ],
+                                    "domains": [
+                                        "Computing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a peripheral control processor"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0766720.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/peripheral_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pəˈrɪf(ə)r(ə)l"
+                        }
+                    ],
+                    "text": "peripheral"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a peripheral device"
+                                    ],
+                                    "domains": [
+                                        "Computing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "printers and other peripherals"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0766720.019"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/peripheral_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pəˈrɪf(ə)r(ə)l"
+                        }
+                    ],
+                    "text": "peripheral"
+                }
+            ],
+            "type": "headword",
+            "word": "peripheral"
+        }
+    ]
+}

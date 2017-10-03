@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "debunk",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "expose the falseness or hollowness of (an idea or belief)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she debunks all the usual rubbish about acting"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0255660.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "reduce the inflated reputation of (someone)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "comedy takes delight in debunking heroes"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0255660.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/debunk_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "diːˈbʌŋk"
+                        }
+                    ],
+                    "text": "debunk"
+                }
+            ],
+            "type": "headword",
+            "word": "debunk"
+        }
+    ]
+}

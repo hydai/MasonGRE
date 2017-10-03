@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "equilibrium",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century (in the sense ‘well-balanced state of mind’): from Latin aequilibrium, from aequi- ‘equal’ + libra ‘balance’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a state in which opposing forces or influences are balanced"
+                                    ],
+                                    "domains": [
+                                        "Physics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the task is the maintenance of social equilibrium"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0330380.011",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a state of physical balance"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I stumbled over a rock and recovered my equilibrium"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0330380.015"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a calm state of mind"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his intensity could unsettle his equilibrium"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0330380.017"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a state in which a process and its reverse are occurring at equal rates so that no overall change is taking place"
+                                            ],
+                                            "domains": [
+                                                "Chemistry"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "ice is in equilibrium with water"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0330380.018"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a situation in which supply and demand are matched and prices stable"
+                                            ],
+                                            "domains": [
+                                                "Economics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the equilibrium level of income"
+                                                },
+                                                {
+                                                    "text": "the market is in equilibrium"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0330380.019"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/equilibrium_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌiːkwɪˈlɪbrɪəm"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌɛkwɪˈlɪbrɪəm"
+                        }
+                    ],
+                    "text": "equilibrium"
+                }
+            ],
+            "type": "headword",
+            "word": "equilibrium"
+        }
+    ]
+}

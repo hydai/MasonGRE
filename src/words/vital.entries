@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "vital",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (describing the animating principle of living beings, also in vital (sense 2 of the adjective)): via Old French from Latin vitalis, from vita ‘life’. The sense ‘essential’ dates from the early 17th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "absolutely necessary; essential"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "secrecy is of vital importance"
+                                        },
+                                        {
+                                            "text": "it is vital that the system is regularly maintained"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1132680.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "indispensable to the continuance of life"
+                                            ],
+                                            "domains": [
+                                                "Physiology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the vital organs"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1132680.008"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "full of energy; lively"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a beautiful, vital girl"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1132680.010"
+                                },
+                                {
+                                    "definitions": [
+                                        "fatal"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the wound is vital"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1132680.012",
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/vital_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈvʌɪt(ə)l"
+                        }
+                    ],
+                    "text": "vital"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the body's important internal organs"
+                                    ],
+                                    "domains": [
+                                        "Anatomy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he felt the familiar knot contract in his vitals"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1132680.014",
+                                    "notes": [
+                                        {
+                                            "text": "\"vitals\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/vital_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈvʌɪt(ə)l"
+                        }
+                    ],
+                    "text": "vital"
+                }
+            ],
+            "type": "headword",
+            "word": "vital"
+        }
+    ]
+}

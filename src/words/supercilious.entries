@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "supercilious",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from Latin superciliosus ‘haughty’, from supercilium ‘eyebrow’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "behaving or looking as though one thinks one is superior to others"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a supercilious lady's maid"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1014070.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/supercilious_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "suːpəˈsɪlɪəs"
+                        }
+                    ],
+                    "text": "supercilious"
+                }
+            ],
+            "type": "headword",
+            "word": "supercilious"
+        }
+    ]
+}

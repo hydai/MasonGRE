@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "pertain",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French partenir, from Latin pertinere ‘extend to, have reference to’, from per- ‘through’ + tenere ‘to hold’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "be appropriate, related, or applicable to"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "matters pertaining to the organization of government"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0769380.006",
+                                    "notes": [
+                                        {
+                                            "text": "\"pertain to\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "belong to something as a part, appendage, or accessory"
+                                            ],
+                                            "domains": [
+                                                "Law"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the shop premises and stock and all assets pertaining to the business"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0769380.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "be in effect or existence in a specified place or at a specified time"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "their economic circumstances are vastly different from those which pertained in their land of origin"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0769380.014",
+                                    "registers": [
+                                        "formal"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/pertain_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pəˈteɪn"
+                        }
+                    ],
+                    "text": "pertain"
+                }
+            ],
+            "type": "headword",
+            "word": "pertain"
+        }
+    ]
+}

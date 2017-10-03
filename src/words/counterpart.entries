@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "counterpart",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person or thing that corresponds to or has the same function as another person or thing in a different place or situation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the minister held talks with his French counterpart"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0225800.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "one of two copies of a legal document."
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "id": "m_en_gbus0225800.010"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/counterpart_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkaʊntəpɑːt"
+                        }
+                    ],
+                    "text": "counterpart"
+                }
+            ],
+            "type": "headword",
+            "word": "counterpart"
+        }
+    ]
+}

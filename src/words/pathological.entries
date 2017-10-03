@@ -1,0 +1,90 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "pathological",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to pathology"
+                                    ],
+                                    "domains": [
+                                        "Pathology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the interpretation of pathological studies"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0754990.008"
+                                },
+                                {
+                                    "definitions": [
+                                        "involving or caused by a physical or mental disease"
+                                    ],
+                                    "domains": [
+                                        "Pathology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "glands with a pathological abnormality"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0754990.012"
+                                },
+                                {
+                                    "definitions": [
+                                        "compulsive; obsessive"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a pathological gambler"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0754990.014",
+                                    "registers": [
+                                        "informal"
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "pathologic"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/pathological_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "paθəˈlɒdʒɪk(ə)l"
+                        }
+                    ],
+                    "text": "pathological"
+                }
+            ],
+            "type": "headword",
+            "word": "pathological"
+        }
+    ]
+}

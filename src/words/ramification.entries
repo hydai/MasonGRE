@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ramification",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from French, from ramifier ‘form branches’ (see ramify)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a complex or unwelcome consequence of an action or event"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "any change is bound to have legal ramifications"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0843820.005",
+                                    "notes": [
+                                        {
+                                            "text": "usually \"ramifications\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a subdivision of a complex structure or process"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an extended family with its ramifications of neighbouring in-laws"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0843820.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the action of ramifying or the state of being ramified"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a coronary angiogram showed ramification of the right coronary artery close to the ostium"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0843820.009",
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                "technical",
+                                                "formal"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ramification_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌramɪfɪˈkeɪʃ(ə)n"
+                        }
+                    ],
+                    "text": "ramification"
+                }
+            ],
+            "type": "headword",
+            "word": "ramification"
+        }
+    ]
+}

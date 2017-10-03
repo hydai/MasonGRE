@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "discrepancy",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin discrepantia, from discrepare ‘be discordant’, from dis- ‘apart, away’ + crepare ‘to creak’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an illogical or surprising lack of compatibility or similarity between two or more facts"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there's a discrepancy between your account and his"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0280600.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/discrepancy_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪsˈkrɛp(ə)nsi"
+                        }
+                    ],
+                    "text": "discrepancy"
+                }
+            ],
+            "type": "headword",
+            "word": "discrepancy"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "malodorous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "smelling very unpleasant"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "leaking taps and malodorous drains"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0611690.006"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/malodorous_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "malˈəʊd(ə)rəs"
+                        }
+                    ],
+                    "text": "malodorous"
+                }
+            ],
+            "type": "headword",
+            "word": "malodorous"
+        }
+    ]
+}

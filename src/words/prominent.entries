@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "prominent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘projecting’): from Latin prominent- ‘jutting out’, from the verb prominere. Compare with eminent"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "important; famous"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she was a prominent member of the city council"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0820360.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "projecting from something; protuberant"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a man with big, prominent eyes like a lobster's"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0820360.009"
+                                },
+                                {
+                                    "definitions": [
+                                        "situated so as to catch the attention; noticeable"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the new housing estates are prominent landmarks"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0820360.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/prominent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈprɒmɪnənt"
+                        }
+                    ],
+                    "text": "prominent"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a stout drab-coloured moth with tufts on the forewings which stick up while at rest, the caterpillars of which typically have fleshy growths on the back."
+                                    ],
+                                    "domains": [
+                                        "Insect"
+                                    ],
+                                    "id": "m_en_gbus0820360.013",
+                                    "notes": [
+                                        {
+                                            "text": "Family \"Notodontidae\": many species",
+                                            "type": "technicalNote"
+                                        }
+                                    ],
+                                    "variantForms": [
+                                        {
+                                            "text": "prominent moth"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/prominent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈprɒmɪnənt"
+                        }
+                    ],
+                    "text": "prominent"
+                }
+            ],
+            "type": "headword",
+            "word": "prominent"
+        }
+    ]
+}

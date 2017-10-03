@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "frivolous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin frivolus ‘silly, trifling’ + -ous"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not having any serious purpose or value"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "rules to stop frivolous lawsuits"
+                                        },
+                                        {
+                                            "text": "frivolous ribbons and lacy frills"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0391170.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) carefree and superficial"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the frivolous, fun-loving flappers of the twenties"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0391170.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/frivolous_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfrɪv(ə)ləs"
+                        }
+                    ],
+                    "text": "frivolous"
+                }
+            ],
+            "type": "headword",
+            "word": "frivolous"
+        }
+    ]
+}

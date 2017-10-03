@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ossify",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 18th century: from French ossifier, from Latin os, oss- ‘bone’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "turn into bone or bony tissue"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "these tracheal cartilages may ossify"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0729140.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "cease developing; stagnate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "ossified political institutions"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0729140.013",
+                                    "notes": [
+                                        {
+                                            "text": "often as adjective \"ossified\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ossify_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɒsɪfʌɪ"
+                        }
+                    ],
+                    "text": "ossify"
+                }
+            ],
+            "type": "headword",
+            "word": "ossify"
+        }
+    ]
+}

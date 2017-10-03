@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "mercurial",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in mercurial (sense 3 of the adjective)): from Latin mercurialis ‘relating to the god Mercury’, from Mercurius ‘Mercury’. mercurial (sense 1 of the adjective) dates from the mid 17th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "subject to sudden or unpredictable changes of mood or mind"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his mercurial temperament"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0633750.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "of or containing the element mercury"
+                                    ],
+                                    "domains": [
+                                        "Chemistry"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "gels containing organic mercurial compounds"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0633750.010"
+                                },
+                                {
+                                    "definitions": [
+                                        "of the planet Mercury."
+                                    ],
+                                    "domains": [
+                                        "Astronomy"
+                                    ],
+                                    "id": "m_en_gbus0633750.012",
+                                    "variantForms": [
+                                        {
+                                            "text": "Mercurial"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/mercurial_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "məːˈkjʊərɪəl"
+                        }
+                    ],
+                    "text": "mercurial"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a drug or other compound containing mercury"
+                                    ],
+                                    "domains": [
+                                        "Pharmaceutics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "for twenty years organic mercurials were the most potent diuretics in clinical use"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0633750.016"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/mercurial_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "məːˈkjʊərɪəl"
+                        }
+                    ],
+                    "text": "mercurial"
+                }
+            ],
+            "type": "headword",
+            "word": "mercurial"
+        }
+    ]
+}

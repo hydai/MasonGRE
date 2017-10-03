@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "welter",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘writhe, wallow’): from Middle Dutch, Middle Low German welteren"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "move in a turbulent fashion"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the streams foam and welter"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1150010.008",
+                                    "registers": [
+                                        "literary"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "lie soaked in blood."
+                                    ],
+                                    "id": "m_en_gbus1150010.015",
+                                    "registers": [
+                                        "literary"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/welter_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈwɛltə"
+                        }
+                    ],
+                    "text": "welter"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "101",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a large number of items in no order; a confused mass"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there's such a welter of conflicting rules"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1150010.025",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a state of general disorder"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the attack petered out in a welter of bloody, confused fighting"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1150010.028"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "300",
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "short for welterweight"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "welterweight",
+                                            "text": "welterweight",
+                                            "type": "abbreviation"
+                                        }
+                                    ],
+                                    "domains": [
+                                        "Boxing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "also selected was Willie Egan at welter"
+                                        },
+                                        {
+                                            "text": "although welter John Green fights only once, his brother Andy, a lightweight, faces two fights"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1150020.007"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/welter_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈwɛltə"
+                        }
+                    ],
+                    "text": "welter"
+                }
+            ],
+            "type": "headword",
+            "word": "welter"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ingest",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin ingest- ‘brought in’, from the verb ingerere, from in- ‘into’ + gerere ‘carry’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "take (food, drink, or another substance) into the body by swallowing or absorbing it"
+                                    ],
+                                    "domains": [
+                                        "Zoology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they ingest oxygen from the air"
+                                        },
+                                        {
+                                            "text": "lead will poison anyone if enough is ingested"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0509050.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "absorb (information)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he spent his days ingesting the contents of the library"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0509050.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ingest_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈdʒɛst"
+                        }
+                    ],
+                    "text": "ingest"
+                }
+            ],
+            "type": "headword",
+            "word": "ingest"
+        }
+    ]
+}

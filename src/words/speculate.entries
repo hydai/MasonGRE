@@ -1,0 +1,78 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "speculate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Latin speculat- ‘observed from a vantage point’, from the verb speculari, from specula ‘watchtower’, from specere ‘to look’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "form a theory or conjecture about a subject without firm evidence"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "my colleagues speculate about my private life"
+                                        },
+                                        {
+                                            "text": "observers speculated that the authorities wished to improve their image"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0976060.007"
+                                },
+                                {
+                                    "definitions": [
+                                        "invest in stocks, property, or other ventures in the hope of gain but with the risk of loss"
+                                    ],
+                                    "domains": [
+                                        "Commerce"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he didn't look as though he had the money to speculate in shares"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0976060.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/speculate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈspɛkjʊleɪt"
+                        }
+                    ],
+                    "text": "speculate"
+                }
+            ],
+            "type": "headword",
+            "word": "speculate"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "exonerate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin exonerat- ‘freed from a burden’, from the verb exonerare, from ex- ‘from’ + onus, oner- ‘a burden’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of an official body) absolve (someone) from blame for a fault or wrongdoing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they should exonerate these men from this crime"
+                                        },
+                                        {
+                                            "text": "an inquiry exonerated those involved"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0341630.007"
+                                },
+                                {
+                                    "definitions": [
+                                        "release someone from (a duty or obligation)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Pope Clement V exonerated the king from his oath to the barons"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0341630.018",
+                                    "notes": [
+                                        {
+                                            "text": "\"exonerate someone from\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛɡˈzɒnəreɪt"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/exonerate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪɡˈzɒnəreɪt"
+                        }
+                    ],
+                    "text": "exonerate"
+                }
+            ],
+            "type": "headword",
+            "word": "exonerate"
+        }
+    ]
+}

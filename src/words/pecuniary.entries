@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "pecuniary",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century: from Latin pecuniarius, from pecunia ‘money’, from pecu ‘cattle, money’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to or consisting of money"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he admitted obtaining a pecuniary advantage by deception"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0759550.005",
+                                    "registers": [
+                                        "formal"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/pecuniary_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pɪˈkjuːnɪəri"
+                        }
+                    ],
+                    "text": "pecuniary"
+                }
+            ],
+            "type": "headword",
+            "word": "pecuniary"
+        }
+    ]
+}

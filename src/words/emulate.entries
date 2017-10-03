@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "emulate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Latin aemulat- ‘rivalled, equalled’, from the verb aemulari, from aemulus ‘rival’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "match or surpass (a person or achievement), typically by imitation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "most rulers wished to emulate Alexander the Great"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0321810.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "imitate"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "hers is not a hairstyle I wish to emulate"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0321810.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "reproduce the function or action of (a different computer, software system, etc.)"
+                                            ],
+                                            "domains": [
+                                                "Computing"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the adaptor is factory set to emulate a Hercules graphics board"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0321810.012"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/emulate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɛmjʊleɪt"
+                        }
+                    ],
+                    "text": "emulate"
+                }
+            ],
+            "type": "headword",
+            "word": "emulate"
+        }
+    ]
+}

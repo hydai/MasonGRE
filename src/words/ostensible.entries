@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ostensible",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: from French, from medieval Latin ostensibilis from Latin ostens- ‘stretched out to view’, from the verb ostendere, from ob- ‘in view of’ + tendere ‘to stretch’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "stated or appearing to be true, but not necessarily so"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the real dispute which lay behind the ostensible complaint"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0729260.007",
+                                    "notes": [
+                                        {
+                                            "text": "attributive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ostensible_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɒˈstɛnsɪb(ə)l"
+                        }
+                    ],
+                    "text": "ostensible"
+                }
+            ],
+            "type": "headword",
+            "word": "ostensible"
+        }
+    ]
+}

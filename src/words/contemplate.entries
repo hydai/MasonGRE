@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "contemplate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Latin contemplat- ‘surveyed, observed, contemplated’, from the verb contemplari, based on templum ‘place for observation’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "look thoughtfully for a long time at"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he contemplated his image in the mirrors"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0214260.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "think about"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she couldn't even begin to contemplate the future"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0214260.016"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "think deeply and at length"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he sat morosely contemplating"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0214260.017",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "have in view as a probable intention"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he was contemplating action for damages"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0214260.018"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkɒntəmpleɪt"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xcontemplate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkɒntɛmpleɪt"
+                        }
+                    ],
+                    "text": "contemplate"
+                }
+            ],
+            "type": "headword",
+            "word": "contemplate"
+        }
+    ]
+}

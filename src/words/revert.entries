@@ -1,0 +1,193 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "revert",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French revertir or Latin revertere ‘turn back’. Early senses included ‘recover consciousness’ and ‘return to a position’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "return to (a previous state, practice, topic, etc.)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he ignored her words by reverting to the former subject"
+                                        },
+                                        {
+                                            "text": "he reverted to his native language"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0869450.006",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        },
+                                        {
+                                            "text": "\"revert to\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "convert to (the Islamic faith)"
+                                            ],
+                                            "domains": [
+                                                "Islam"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I reverted to Islam five years ago"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0869450.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "return to (a former or ancestral type)"
+                                            ],
+                                            "domains": [
+                                                "Biology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "it is impossible that a fishlike mammal will actually revert to being a true fish"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0869450.013"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of property) return to (the original owner) by reversion"
+                                            ],
+                                            "domains": [
+                                                "Law"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "in the event of the building ceasing to become a school, ownership would revert to the Church"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0869450.014"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "reply or respond to someone"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we texted both Farah and Shirish, but neither of them reverted"
+                                        },
+                                        {
+                                            "text": "if interested, kindly revert with your updated resume"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0869450.016",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "regions": [
+                                        "Indian"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "turn (one's eyes or steps) back"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "on reverting our eyes, every step presented some new and admirable scene"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0869450.018",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/revert_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈvəːt"
+                        }
+                    ],
+                    "text": "revert"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who has converted to the Islamic faith."
+                                    ],
+                                    "domains": [
+                                        "Islam"
+                                    ],
+                                    "id": "m_en_gbus0869450.023"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈriːvəːt"
+                        }
+                    ],
+                    "text": "revert"
+                }
+            ],
+            "type": "headword",
+            "word": "revert"
+        }
+    ]
+}

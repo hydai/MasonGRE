@@ -1,0 +1,155 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "alternative",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (in the sense ‘alternating, alternate’): from French alternatif, -ive or medieval Latin alternativus, from Latin alternare ‘interchange’ (see alternate)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "Some traditionalists maintain that you can only have a maximum of two alternatives, because the word alternative comes from Latin alter ‘other (of two)’) and that uses where there are more than two alternatives are wrong. Such uses are, however, normal in modern standard English. See also alternate",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of one or more things) available as another possibility or choice"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the various alternative methods for resolving disputes"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0026180.007",
+                                    "notes": [
+                                        {
+                                            "text": "attributive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of two things) mutually exclusive"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the facts fit two alternative scenarios"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0026180.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to activities that depart from or challenge traditional norms"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an alternative lifestyle"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0026180.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɒlˈtəːnətɪv"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/alternative_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɔːlˈtəːnətɪv"
+                        }
+                    ],
+                    "text": "alternative"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "notes": [
+                                {
+                                    "text": "Some traditionalists maintain that you can only have a maximum of two alternatives, because the word alternative comes from Latin alter ‘other (of two)’) and that uses where there are more than two alternatives are wrong. Such uses are, however, normal in modern standard English. See also alternate",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "one of two or more available possibilities"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "audio cassettes are an interesting alternative to reading"
+                                        },
+                                        {
+                                            "text": "she had no alternative but to break the law"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0026180.018"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɒlˈtəːnətɪv"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/alternative_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɔːlˈtəːnətɪv"
+                        }
+                    ],
+                    "text": "alternative"
+                }
+            ],
+            "type": "headword",
+            "word": "alternative"
+        }
+    ]
+}

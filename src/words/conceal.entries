@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "conceal",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French conceler, from Latin concelare, from con- ‘completely’ + celare ‘hide’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not allow to be seen; hide"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a line of sand dunes concealed the distant sea"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0207800.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "prevent (something) from being known; keep secret"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they were at great pains to conceal that information from the public"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0207800.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconceal_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈsiːl"
+                        }
+                    ],
+                    "text": "conceal"
+                }
+            ],
+            "type": "headword",
+            "word": "conceal"
+        }
+    ]
+}

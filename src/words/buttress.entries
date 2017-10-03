@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "buttress",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French (ars) bouterez ‘thrusting (arch)’, from boter ‘to strike or thrust’ (see butt)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a structure of stone or brick built against a wall to strengthen or support it"
+                                    ],
+                                    "domains": [
+                                        "Architecture"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the cathedral's massive buttresses"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0139700.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a projecting portion of a hill or mountain."
+                                            ],
+                                            "id": "m_en_gbus0139700.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a source of defence or support"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the political police were the main buttress of the regime"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0139700.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/buttress_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈbʌtrɪs"
+                        }
+                    ],
+                    "text": "buttress"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "provide (a building or structure) with buttresses"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a buttressed wall"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0139700.014"
+                                },
+                                {
+                                    "definitions": [
+                                        "increase the strength of or justification for; reinforce"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "authority was buttressed by religious belief"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0139700.021"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/buttress_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈbʌtrɪs"
+                        }
+                    ],
+                    "text": "buttress"
+                }
+            ],
+            "type": "headword",
+            "word": "buttress"
+        }
+    ]
+}

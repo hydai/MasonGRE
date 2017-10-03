@@ -1,0 +1,222 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "duplicate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘having two corresponding parts’): from Latin duplicat- ‘doubled’, from the verb duplicare, from duplic- ‘twofold’ (see duplex)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "exactly like something else, especially through having been copied"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a duplicate set of keys"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0304160.006",
+                                    "notes": [
+                                        {
+                                            "text": "attributive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "having two corresponding or identical parts."
+                                    ],
+                                    "id": "m_en_gbus0304160.010",
+                                    "notes": [
+                                        {
+                                            "text": "attributive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "registers": [
+                                        "technical"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/duplicate_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdjuːplɪkət"
+                        }
+                    ],
+                    "text": "duplicate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "one of two or more identical things"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "books may be disposed of if they are duplicates"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0304160.016",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a copy of an original"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "locksmiths can make duplicates of most keys"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0304160.021"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "short for duplicate bridge"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "duplicate_bridge",
+                                            "text": "duplicate bridge",
+                                            "type": "abbreviation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0304160.023"
+                                },
+                                {
+                                    "definitions": [
+                                        "a pawnbroker's ticket."
+                                    ],
+                                    "id": "m_en_gbus0304160.027",
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/duplicate_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdjuːplɪkət"
+                        }
+                    ],
+                    "text": "duplicate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "002",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make or be an exact copy of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they have not been able to duplicate his successes"
+                                        },
+                                        {
+                                            "text": "information sheets had to be typed and duplicated"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0304160.032",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "multiply by two; double"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the normal amount of DNA has been duplicated thousands of times"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0304160.044"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "do (something) again unnecessarily"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "most of these proposals duplicated work already done"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0304160.045"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/duplicate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdjuːplɪkeɪt"
+                        }
+                    ],
+                    "text": "duplicate"
+                }
+            ],
+            "type": "headword",
+            "word": "duplicate"
+        }
+    ]
+}

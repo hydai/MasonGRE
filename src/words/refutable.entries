@@ -1,0 +1,47 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "refutable",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "derivativeOf": [
+                        {
+                            "id": "refute",
+                            "text": "refute"
+                        }
+                    ],
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000"
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/refutable_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈfjuːtəb(ə)l"
+                        }
+                    ],
+                    "text": "refutable"
+                }
+            ],
+            "type": "headword",
+            "word": "refutable"
+        }
+    ]
+}

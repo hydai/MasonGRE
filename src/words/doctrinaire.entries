@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "doctrinaire",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century: from French, from doctrine (see doctrine)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "seeking to impose a doctrine in all circumstances without regard to practical considerations"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the administration's doctrinaire economic policy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0287280.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/doctrinaire_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌdɒktrɪˈnɛː"
+                        }
+                    ],
+                    "text": "doctrinaire"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a doctrinaire person."
+                                    ],
+                                    "id": "m_en_gbus0287280.008"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/doctrinaire_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌdɒktrɪˈnɛː"
+                        }
+                    ],
+                    "text": "doctrinaire"
+                }
+            ],
+            "type": "headword",
+            "word": "doctrinaire"
+        }
+    ]
+}

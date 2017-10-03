@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "demise",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as a legal term): from Anglo-Norman French, past participle (used as a noun) of Old French desmettre ‘dismiss’, (in reflexive) ‘abdicate’, based on Latin dimittere (see dismiss)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person's death"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Mr Grisenthwaite's tragic demise"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0263140.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the end or failure of an enterprise or institution"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the demise of industry"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0263140.008"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "conveyance or transfer of property or a title by will or lease."
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "id": "m_en_gbus0263140.010",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/demise_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈmʌɪz"
+                        }
+                    ],
+                    "text": "demise"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "convey or grant (an estate) by will or lease"
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the demised property"
+                                        },
+                                        {
+                                            "text": "the manor and the mill were demised for twenty-one-year terms"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0263140.012",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "transmit (a sovereign's title) by death or abdication."
+                                            ],
+                                            "domains": [
+                                                "Royalty",
+                                                "Law"
+                                            ],
+                                            "id": "m_en_gbus0263140.018"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/demise_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈmʌɪz"
+                        }
+                    ],
+                    "text": "demise"
+                }
+            ],
+            "type": "headword",
+            "word": "demise"
+        }
+    ]
+}

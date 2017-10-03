@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "exude",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Latin exsudare, from ex- ‘out’ + sudare ‘to sweat’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(with reference to moisture or a smell) discharge or be discharged slowly and steadily"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the beetle exudes a caustic liquid"
+                                        },
+                                        {
+                                            "text": "slime exudes from the fungus"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0344860.007"
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a person) display (an emotion or quality) strongly and openly"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Sir Thomas exuded goodwill"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0344860.019",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a place) have a strong atmosphere of"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the building exudes an air of tranquillity"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0344860.021"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/exude_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪɡˈzjuːd"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛɡˈzjuːd"
+                        }
+                    ],
+                    "text": "exude"
+                }
+            ],
+            "type": "headword",
+            "word": "exude"
+        }
+    ]
+}

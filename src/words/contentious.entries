@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "contentious",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French contentieux, from Latin contentiosus, from content- ‘striven’, from the verb contendere"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "causing or likely to cause an argument; controversial"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a contentious issue"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0214430.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "involving heated argument"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the socio-economic plan had been the subject of contentious debate"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0214430.007"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a person) given to provoking argument."
+                                            ],
+                                            "id": "m_en_gbus0214430.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "relating to or involving differences between contending parties."
+                                            ],
+                                            "domains": [
+                                                "Law"
+                                            ],
+                                            "id": "m_en_gbus0214430.009"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xcontentious_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈtɛnʃəs"
+                        }
+                    ],
+                    "text": "contentious"
+                }
+            ],
+            "type": "headword",
+            "word": "contentious"
+        }
+    ]
+}

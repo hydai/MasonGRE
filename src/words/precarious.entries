@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "precarious",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin precarius ‘obtained by entreaty’ (from prex, prec- ‘prayer’) + -ous"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not securely held or in position; dangerously likely to fall or collapse"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a precarious ladder"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0808520.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "dependent on chance; uncertain"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he made a precarious living as a painter"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0808520.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/precarious_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prɪˈkɛːrɪəs"
+                        }
+                    ],
+                    "text": "precarious"
+                }
+            ],
+            "type": "headword",
+            "word": "precarious"
+        }
+    ]
+}

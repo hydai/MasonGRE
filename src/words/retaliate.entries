@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "retaliate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin retaliat- ‘returned in kind’, from the verb retaliare, from re- ‘back’ + talis ‘such’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make an attack in return for a similar attack"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the blow stung and she retaliated immediately"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0867090.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "repay (an injury or insult) in kind"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they used their abilities to retaliate the injury"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0867090.011",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/retaliate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈtalɪeɪt"
+                        }
+                    ],
+                    "text": "retaliate"
+                }
+            ],
+            "type": "headword",
+            "word": "retaliate"
+        }
+    ]
+}

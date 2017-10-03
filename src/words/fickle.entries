@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "fickle",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English ficol ‘deceitful’, of Germanic origin"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "changing frequently, especially as regards one's loyalties or affections"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "celebs trying to appeal to an increasingly fickle public"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0359180.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/fickle_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfɪk(ə)l"
+                        }
+                    ],
+                    "text": "fickle"
+                }
+            ],
+            "type": "headword",
+            "word": "fickle"
+        }
+    ]
+}

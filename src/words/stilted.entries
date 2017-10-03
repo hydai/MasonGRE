@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "stilted",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a manner of talking or writing) stiff and self-conscious or unnatural"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we made stilted conversation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0995520.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "standing on stilts"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "villages of stilted houses"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0995520.009",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of an arch) with pieces of upright masonry between the imposts and the springers."
+                                            ],
+                                            "domains": [
+                                                "Architecture"
+                                            ],
+                                            "id": "m_en_gbus0995520.010"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/stilted_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈstɪltɪd"
+                        }
+                    ],
+                    "text": "stilted"
+                }
+            ],
+            "type": "headword",
+            "word": "stilted"
+        }
+    ]
+}

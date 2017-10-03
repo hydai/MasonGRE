@@ -1,0 +1,216 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "static",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (denoting the science of weight and its effects): via modern Latin from Greek statikē (tekhnē) ‘science of weighing’; the adjective from modern Latin staticus, from Greek statikos ‘causing to stand’, from the verb histanai. Sense 1 of the adjective dates from the mid 19th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lacking in movement, action, or change, especially in an undesirable or uninteresting way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the whole ballet appeared too static"
+                                        },
+                                        {
+                                            "text": "demand has grown in what was a fairly static market"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0989920.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a process or variable) not able to be changed during a set period, for example while a program is running."
+                                            ],
+                                            "domains": [
+                                                "Computing"
+                                            ],
+                                            "id": "m_en_gbus0989920.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Often contrasted with dynamic"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "dynamic",
+                                            "text": "dynamic",
+                                            "type": "related"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "concerned with bodies at rest or forces in equilibrium."
+                                    ],
+                                    "domains": [
+                                        "Physics"
+                                    ],
+                                    "id": "m_en_gbus0989920.011",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "acting as weight but not moving."
+                                            ],
+                                            "domains": [
+                                                "Physics"
+                                            ],
+                                            "id": "m_en_gbus0989920.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "relating to statics."
+                                            ],
+                                            "domains": [
+                                                "Physics"
+                                            ],
+                                            "id": "m_en_gbus0989920.013"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of an electric charge) having gathered on or in an object that cannot conduct a current"
+                                    ],
+                                    "domains": [
+                                        "Physics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the film is vulnerable to the collection of static charges"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0989920.015"
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a memory or store) not needing to be periodically refreshed by an applied voltage."
+                                    ],
+                                    "domains": [
+                                        "Computing"
+                                    ],
+                                    "id": "m_en_gbus0989920.017"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/static_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈstatɪk"
+                        }
+                    ],
+                    "text": "static"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "crackling or hissing noises on a telephone, radio, or other telecommunication system"
+                                    ],
+                                    "domains": [
+                                        "Telecommunications"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the phone was full of static that sounded distant"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0989920.019",
+                                    "subsenses": [
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "short for static electricity"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "static_electricity",
+                                                    "text": "static electricity",
+                                                    "type": "abbreviation"
+                                                }
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she felt the tingle of static from the cat's fur"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0989920.021"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "angry or critical talk or behaviour"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the reception was going sour, breaking up into static"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0989920.022",
+                                            "regions": [
+                                                "North American"
+                                            ],
+                                            "registers": [
+                                                "informal"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/static_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈstatɪk"
+                        }
+                    ],
+                    "text": "static"
+                }
+            ],
+            "type": "headword",
+            "word": "static"
+        }
+    ]
+}

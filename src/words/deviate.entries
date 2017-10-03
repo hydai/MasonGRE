@@ -1,0 +1,162 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "deviate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (as an adjective in the sense ‘remote’): from late Latin deviat- ‘turned out of the way’, from the verb deviare, from de- ‘away from’ + via ‘way’. The verb dates from the mid 17th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "depart from an established course"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "you must not deviate from the agreed route"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0270360.005",
+                                    "notes": [
+                                        {
+                                            "text": "usually \"deviate from\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "depart from usual or accepted standards"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "those who deviate from society's values"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0270360.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/deviate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdiːvɪeɪt"
+                        }
+                    ],
+                    "text": "deviate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "old-fashioned term for deviant"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "deviant",
+                                            "text": "deviant",
+                                            "type": "another term for"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0270360.016"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/deviate_gb_2_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdiːvɪət"
+                        }
+                    ],
+                    "text": "deviate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "002",
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "old-fashioned term for deviant"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "deviant",
+                                            "text": "deviant",
+                                            "type": "another term for"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0270360.016-pos-2"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/deviate_gb_2_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdiːvɪət"
+                        }
+                    ],
+                    "text": "deviate"
+                }
+            ],
+            "type": "headword",
+            "word": "deviate"
+        }
+    ]
+}

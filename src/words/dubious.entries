@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "dubious",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (in dubious (sense 2)): from Latin dubiosus, from dubium ‘a doubt’, neuter of dubius ‘doubtful’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "hesitating or doubting"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I was rather dubious about the whole idea"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0301440.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "not to be relied upon; suspect"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "extremely dubious assumptions"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0301440.009",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "morally suspect"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "timeshare has been brought into disrepute by dubious sales methods"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0301440.010"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "of questionable value"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he holds the dubious distinction of being relegated with every club he has played for"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0301440.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/dubious_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdjuːbɪəs"
+                        }
+                    ],
+                    "text": "dubious"
+                }
+            ],
+            "type": "headword",
+            "word": "dubious"
+        }
+    ]
+}

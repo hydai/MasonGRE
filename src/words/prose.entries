@@ -1,0 +1,168 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "prose",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: via Old French from Latin prosa (oratio) ‘straightforward (discourse’), feminine of prosus, earlier prorsus ‘direct’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "written or spoken language in its ordinary form, without metrical structure"
+                                    ],
+                                    "domains": [
+                                        "Literature"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a short story in prose"
+                                        },
+                                        {
+                                            "text": "a prose passage"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0822210.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a passage of prose for translation into a foreign language."
+                                            ],
+                                            "id": "m_en_gbus0822210.008",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "plain or dull writing, discourse, or expression"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "closely typed in best office prose"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0822210.011"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "another term for sequence (sense 4 of the noun)"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "sequence",
+                                            "text": "sequence",
+                                            "type": "another term for"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0822210.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/prose_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prəʊz"
+                        }
+                    ],
+                    "text": "prose"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "talk tediously"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was still prosing away about the advantages of a warm climate"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0822210.016",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "compose in or convert into prose."
+                                    ],
+                                    "domains": [
+                                        "Literature"
+                                    ],
+                                    "id": "m_en_gbus0822210.023",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "registers": [
+                                        "dated"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/prose_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prəʊz"
+                        }
+                    ],
+                    "text": "prose"
+                }
+            ],
+            "type": "headword",
+            "word": "prose"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "contravene",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from late Latin contravenire, from Latin contra- ‘against’ + venire ‘come’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "offend against the prohibition or order of (a law, treaty, or code of conduct)"
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he contravened the Official Secrets Act"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0215640.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "conflict with (a right, principle, etc.), especially to its detriment"
+                                            ],
+                                            "domains": [
+                                                "Law"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the Privy Council held that the prosecution contravened the rights of the individual"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0215640.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xcontravene_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌkɒntrəˈviːn"
+                        }
+                    ],
+                    "text": "contravene"
+                }
+            ],
+            "type": "headword",
+            "word": "contravene"
+        }
+    ]
+}

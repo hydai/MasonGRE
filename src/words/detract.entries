@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "detract",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin detract- ‘drawn away’, from the verb detrahere, from de- ‘away from’ + trahere ‘draw’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "diminish the worth or value of (a quality or achievement)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "these quibbles in no way detract from her achievement"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0269660.005",
+                                    "notes": [
+                                        {
+                                            "text": "\"detract from\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "take away (a specified amount) from the worth or value of a quality or achievement"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "it is detracting nothing from his ability to say that he owed the championship to a superior car"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0269660.011",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/detract_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈtrakt"
+                        }
+                    ],
+                    "text": "detract"
+                }
+            ],
+            "type": "headword",
+            "word": "detract"
+        }
+    ]
+}

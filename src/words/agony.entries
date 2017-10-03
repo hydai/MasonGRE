@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "agony",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (originally denoting mental anguish alone): via Old French and late Latin from Greek agōnia, from agōn ‘contest’. The sense of physical suffering dates from the early 17th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "extreme physical or mental suffering"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he crashed to the ground in agony"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0016700.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the final stages of a difficult or painful death"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his last agony"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0016700.009"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/agony_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈaɡəni"
+                        }
+                    ],
+                    "text": "agony"
+                }
+            ],
+            "type": "headword",
+            "word": "agony"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "animadvert",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘pay attention to’): from Latin animadvertere, from animus ‘mind’ + advertere (from ad- ‘towards’ + vertere ‘to turn’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "pass criticism or censure on; speak out against"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we shall be obliged to animadvert most severely upon you in our report"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0034260.005",
+                                    "notes": [
+                                        {
+                                            "text": "\"animadvert on/upon/against\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "registers": [
+                                        "formal"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/animadvert_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌanɪmədˈvəːt"
+                        }
+                    ],
+                    "text": "animadvert"
+                }
+            ],
+            "type": "headword",
+            "word": "animadvert"
+        }
+    ]
+}

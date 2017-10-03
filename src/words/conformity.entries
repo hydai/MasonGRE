@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "conformity",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French conformite or late Latin conformitas, from conformare ‘to form, fashion’ (see conform)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "compliance with standards, rules, or laws"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "conformity to regulations"
+                                        },
+                                        {
+                                            "text": "the goods were in conformity with the contract"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0210470.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "behaviour in accordance with socially accepted conventions"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a word of praise or an encouraging smile provide rewards for conformity to social norms"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0210470.007"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "compliance with the practices of the Church of England."
+                                            ],
+                                            "domains": [
+                                                "Religion"
+                                            ],
+                                            "id": "m_en_gbus0210470.008",
+                                            "regions": [
+                                                "British"
+                                            ],
+                                            "registers": [
+                                                "historical"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "similarity in form or type; agreement in character"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "these changes are intended to ensure conformity between all schemes"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0210470.009"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconformity_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈfɔːmɪti"
+                        }
+                    ],
+                    "text": "conformity"
+                }
+            ],
+            "type": "headword",
+            "word": "conformity"
+        }
+    ]
+}

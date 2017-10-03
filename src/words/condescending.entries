@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "condescending",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having or showing an attitude of patronizing superiority"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she thought the teachers were arrogant and condescending"
+                                        },
+                                        {
+                                            "text": "a condescending smile"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0209160.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xcondescending_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kɒndɪˈsɛndɪŋ"
+                        }
+                    ],
+                    "text": "condescending"
+                }
+            ],
+            "type": "headword",
+            "word": "condescending"
+        }
+    ]
+}

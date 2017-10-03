@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "sterling",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: probably from steorra ‘star’ + -ling (because some early Norman pennies bore a small star). Until recently one popular theory was that the coin was originally made by Easterling moneyers (from the ‘eastern’ Hanse towns), but the stressed first syllable would not have been dropped"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "British money"
+                                    ],
+                                    "domains": [
+                                        "Economics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "issues of sterling bonds"
+                                        },
+                                        {
+                                            "text": "prices in sterling are shown"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0993890.006"
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "short for sterling silver"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "sterling_silver",
+                                            "text": "sterling silver",
+                                            "type": "abbreviation"
+                                        }
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a sterling spoon"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0993890.009"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/sterling_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈstəːlɪŋ"
+                        }
+                    ],
+                    "text": "sterling"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person or their work or qualities) excellent or valuable"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this organization does sterling work for youngsters"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0993890.015"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/sterling_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈstəːlɪŋ"
+                        }
+                    ],
+                    "text": "sterling"
+                }
+            ],
+            "type": "headword",
+            "word": "sterling"
+        }
+    ]
+}

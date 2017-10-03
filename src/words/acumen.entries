@@ -1,0 +1,69 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "acumen",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from Latin, ‘sharpness, point’, from acuere ‘sharpen’ (see acute)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the ability to make good judgements and take quick decisions"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she hides a shrewd business acumen"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0008420.008"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/acumen_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈkjuːmən"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/acumen_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈakjʊmən"
+                        }
+                    ],
+                    "text": "acumen"
+                }
+            ],
+            "type": "headword",
+            "word": "acumen"
+        }
+    ]
+}

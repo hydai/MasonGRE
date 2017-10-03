@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "convergent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 18th century: from late Latin convergent- ‘inclining together’, from the verb convergere (see converge)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "coming closer together; converging"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a convergent boundary"
+                                        },
+                                        {
+                                            "text": "there are a number of convergent reasons for the growth of interest in pragmatics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0216370.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of thought) tending to follow only well-established patterns."
+                                            ],
+                                            "domains": [
+                                                "Psychology"
+                                            ],
+                                            "id": "m_en_gbus0216370.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "relating to or denoting evolutionary convergence"
+                                            ],
+                                            "domains": [
+                                                "Biology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "one of the most bizarre examples of convergent evolution concerns the so-called periodical cicadas"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0216370.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a series) approaching a definite limit as more of its terms are added."
+                                    ],
+                                    "domains": [
+                                        "Mathematics"
+                                    ],
+                                    "id": "m_en_gbus0216370.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconvergent_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈvəːdʒ(ə)nt"
+                        }
+                    ],
+                    "text": "convergent"
+                }
+            ],
+            "type": "headword",
+            "word": "convergent"
+        }
+    ]
+}

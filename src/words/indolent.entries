@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "indolent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from late Latin indolent-, from in- ‘not’ + dolere ‘suffer or give pain’. The sense ‘idle’ arose in the early 18th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "wanting to avoid activity or exertion; lazy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they were indolent and addicted to a life of pleasure"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0505330.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a disease or condition) causing little or no pain."
+                                    ],
+                                    "domains": [
+                                        "Medicine"
+                                    ],
+                                    "id": "m_en_gbus0505330.009",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(especially of an ulcer) slow to develop, progress, or heal; persistent."
+                                            ],
+                                            "domains": [
+                                                "Medicine"
+                                            ],
+                                            "id": "m_en_gbus0505330.010"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/indolent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɪnd(ə)l(ə)nt"
+                        }
+                    ],
+                    "text": "indolent"
+                }
+            ],
+            "type": "headword",
+            "word": "indolent"
+        }
+    ]
+}

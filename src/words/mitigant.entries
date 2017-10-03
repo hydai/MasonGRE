@@ -1,0 +1,42 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "mitigant",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (in an earlier sense). From Middle French mitigant from classical Latin mītigant-, mītigāns, present participle of mītigāre"
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "A mitigating agent or influence; something that alleviates, soothes, or tempers."
+                                    ],
+                                    "id": "m_en_gb_oed120277.001"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈmɪtɪɡ(ə)nt"
+                        }
+                    ],
+                    "text": "mitigant"
+                }
+            ],
+            "type": "headword",
+            "word": "mitigant"
+        }
+    ]
+}

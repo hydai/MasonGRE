@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "assimilate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin assimilat- ‘absorbed, incorporated’, from the verb assimilare, from ad- ‘to’ + similis ‘like’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "take in and understand fully (information or ideas)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Marie tried to assimilate the week's events"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0052760.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "absorb and integrate (people, ideas, or culture) into a wider society or culture"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "pop trends are assimilated into the mainstream with alarming speed"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0052760.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "become absorbed and integrated into a society or culture"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the older generation had more trouble assimilating"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0052760.013",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of the body or any biological system) absorb and digest (food or nutrients)"
+                                            ],
+                                            "domains": [
+                                                "Biology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the sugars in the fruit are readily assimilated by the body"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0052760.014"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "regard as similar; liken"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "philosophers had assimilated thought to perception"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0052760.016",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "become similar"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the Churches assimilated to a certain cultural norm"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0052760.017",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "make (a sound) more like another in the same or next word"
+                                            ],
+                                            "domains": [
+                                                "Phonetics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the ‘v’ in ‘fivepence’ may be assimilated to a voiceless ‘f’ (because of the ‘p’)"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0052760.018"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/assimilate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈsɪmɪleɪt"
+                        }
+                    ],
+                    "text": "assimilate"
+                }
+            ],
+            "type": "headword",
+            "word": "assimilate"
+        }
+    ]
+}

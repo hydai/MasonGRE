@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "disingenuous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not candid or sincere, typically by pretending that one knows less about something than one really does"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this journalist was being somewhat disingenuous as well as cynical"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0281800.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/disingenuous_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌdɪsɪnˈdʒɛnjʊəs"
+                        }
+                    ],
+                    "text": "disingenuous"
+                }
+            ],
+            "type": "headword",
+            "word": "disingenuous"
+        }
+    ]
+}

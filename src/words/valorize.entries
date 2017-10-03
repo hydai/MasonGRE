@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "valorize",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "1920s: back-formation from valorization (from French valorisation, from valeur ‘value’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "give or ascribe value or validity to"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the culture valorizes the individual"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1119170.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "raise or fix the price or value of (a commodity or currency) by artificial means, especially by government action."
+                                            ],
+                                            "domains": [
+                                                "Economics"
+                                            ],
+                                            "id": "m_en_gbus1119170.017"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "valorise"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/valorize_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈvalərʌɪz"
+                        }
+                    ],
+                    "text": "valorize"
+                }
+            ],
+            "type": "headword",
+            "word": "valorize"
+        }
+    ]
+}

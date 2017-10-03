@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "lethal",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (in the sense ‘causing spiritual death’): from Latin lethalis, from lethum, a variant (influenced by Greek lēthē ‘forgetfulness’), of letum ‘death’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "sufficient to cause death"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a lethal cocktail of drink and pills"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0576720.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "very harmful or destructive"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the Krakatoa eruption was the most lethal on record"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0576720.007"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(in a sporting context) very accurate or skilful"
+                                            ],
+                                            "domains": [
+                                                "Sport"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a lethal drop-shot"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0576720.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/lethal_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈliːθ(ə)l"
+                        }
+                    ],
+                    "text": "lethal"
+                }
+            ],
+            "type": "headword",
+            "word": "lethal"
+        }
+    ]
+}

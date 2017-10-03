@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "extraneous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin extraneus + -ous"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "irrelevant or unrelated to the subject being dealt with"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "one is obliged to wade through many pages of extraneous material"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0344340.007"
+                                },
+                                {
+                                    "definitions": [
+                                        "of external origin"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "when the transmitter pack is turned off no extraneous noise is heard"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0344340.010",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "separate from the object to which it is attached"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "other insects attach extraneous objects or material to themselves"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0344340.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛkˈstreɪnɪəs"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/extraneous_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪkˈstreɪnɪəs"
+                        }
+                    ],
+                    "text": "extraneous"
+                }
+            ],
+            "type": "headword",
+            "word": "extraneous"
+        }
+    ]
+}

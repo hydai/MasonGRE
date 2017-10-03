@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "rectitude",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (denoting straightness): from Old French, from late Latin rectitudo, from Latin rectus ‘right, straight’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "morally correct behaviour or thinking; righteousness"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Mattie is a model of rectitude"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0852430.005",
+                                    "registers": [
+                                        "formal"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/rectitude_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈrɛktɪtjuːd"
+                        }
+                    ],
+                    "text": "rectitude"
+                }
+            ],
+            "type": "headword",
+            "word": "rectitude"
+        }
+    ]
+}

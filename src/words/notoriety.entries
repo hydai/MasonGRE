@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "notoriety",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the state of being famous or well known for some bad quality or deed"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the song has gained some notoriety in the press"
+                                        },
+                                        {
+                                            "text": "she has a certain notoriety"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0702700.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/notoriety_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "nəʊtəˈrʌɪɪti"
+                        }
+                    ],
+                    "text": "notoriety"
+                }
+            ],
+            "type": "headword",
+            "word": "notoriety"
+        }
+    ]
+}

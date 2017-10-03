@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "reciprocity",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: from French réciprocité, from réciproque, from Latin reciprocus ‘moving backwards and forwards’ (see reciprocate)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the practice of exchanging things with others for mutual benefit, especially privileges granted by one country or organization to another"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Community intends to start discussions on reciprocity with third countries"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0851000.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/reciprocity_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌrɛsɪˈprɒsɪti"
+                        }
+                    ],
+                    "text": "reciprocity"
+                }
+            ],
+            "type": "headword",
+            "word": "reciprocity"
+        }
+    ]
+}

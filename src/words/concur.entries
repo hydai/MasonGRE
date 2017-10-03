@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "concur",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (also in the senses ‘collide’ and ‘act in combination’): from Latin concurrere ‘run together, assemble in crowds’, from con- ‘together with’ + currere ‘to run’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "be of the same opinion; agree"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the authors concurred with the majority"
+                                        },
+                                        {
+                                            "text": "‘That's right,’ the chairman concurred"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0208960.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "agree with (a decision or opinion)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "we strongly concur with this recommendation"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0208960.018",
+                                            "notes": [
+                                                {
+                                                    "text": "\"concur with\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "happen or occur at the same time; coincide"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "in tests, cytogenetic determination has been found to concur with enzymatic determination"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0208960.020"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconcur_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈkəː"
+                        }
+                    ],
+                    "text": "concur"
+                }
+            ],
+            "type": "headword",
+            "word": "concur"
+        }
+    ]
+}

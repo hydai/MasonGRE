@@ -1,0 +1,124 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "evade",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from French évader, from Latin evadere from e- (variant of ex-) ‘out of’ + vadere ‘go’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "escape or avoid (someone or something), especially by guile or trickery"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "friends helped him to evade capture for a time"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0337280.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of an abstract thing) elude (someone)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "sleep still evaded her"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0337280.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "avoid giving a direct answer to (a question)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he denied evading the question"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0337280.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "avoid dealing with or accepting (something unpleasant or morally or legally required)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he never sought to evade responsibility for his actions"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0337280.013"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "escape paying (tax or duty), especially by illegitimate presentation of one's finances"
+                                            ],
+                                            "domains": [
+                                                "Finance"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she was sentenced on three counts of conspiracy to evade taxes"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0337280.014"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "act contrary to the intention of (a law or rule), especially while complying with its letter"
+                                            ],
+                                            "domains": [
+                                                "Law"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "suppliers can evade or manipulate regulations"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0337280.015"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/evade_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˈveɪd"
+                        }
+                    ],
+                    "text": "evade"
+                }
+            ],
+            "type": "headword",
+            "word": "evade"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "suppress",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin suppress- ‘pressed down’, from the verb supprimere, from sub- ‘down’ + premere ‘to press’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "forcibly put an end to"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the rising was savagely suppressed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1016120.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "prevent the development, action, or expression of (a feeling, impulse, idea, etc.); restrain"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she could not suppress a rising panic"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1016120.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "prevent the dissemination of (information)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the report had been suppressed"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1016120.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "prevent or inhibit (a process or reaction)"
+                                            ],
+                                            "domains": [
+                                                "Medicine"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "use of the drug suppressed the immune response"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1016120.013"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "partly or wholly eliminate (electrical interference)."
+                                            ],
+                                            "domains": [
+                                                "Electrical"
+                                            ],
+                                            "id": "m_en_gbus1016120.014"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "consciously inhibit (an unpleasant idea or memory) to avoid considering it."
+                                            ],
+                                            "domains": [
+                                                "Psychology"
+                                            ],
+                                            "id": "m_en_gbus1016120.016"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/suppress_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "səˈprɛs"
+                        }
+                    ],
+                    "text": "suppress"
+                }
+            ],
+            "type": "headword",
+            "word": "suppress"
+        }
+    ]
+}

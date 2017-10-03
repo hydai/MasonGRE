@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "censure",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘judicial sentence’): from Old French censurer (verb), censure (noun), from Latin censura ‘judgement, assessment’, from censere ‘assess’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "Censure and censor, although quite different in meaning, are frequently confused. Both words can function as verbs and nouns, but censure means ‘express severe disapproval of’ (the country was censured for human rights abuses) or ‘the expression of severe disapproval’, while censor means ‘examine (a book, film, etc.) and suppress unacceptable parts of it’ (the letters she received were censored) or ‘an official who censors books, films, etc.’",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "express severe disapproval of (someone or something), especially in a formal statement"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "shareholders censured the bank for its extravagance"
+                                        },
+                                        {
+                                            "text": "the company was heavily censured by inspectors from the Department of Trade"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0163370.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/censure_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈsɛnʃə"
+                        }
+                    ],
+                    "text": "censure"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "notes": [
+                                {
+                                    "text": "Censure and censor, although quite different in meaning, are frequently confused. Both words can function as verbs and nouns, but censure means ‘express severe disapproval of’ (the country was censured for human rights abuses) or ‘the expression of severe disapproval’, while censor means ‘examine (a book, film, etc.) and suppress unacceptable parts of it’ (the letters she received were censored) or ‘an official who censors books, films, etc.’",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the formal expression of severe disapproval"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "two MPs were singled out for censure"
+                                        },
+                                        {
+                                            "text": "despite episcopal censures, the practice continued"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0163370.012"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/censure_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈsɛnʃə"
+                        }
+                    ],
+                    "text": "censure"
+                }
+            ],
+            "type": "headword",
+            "word": "censure"
+        }
+    ]
+}

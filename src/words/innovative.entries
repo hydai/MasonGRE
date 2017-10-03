@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "innovative",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a product, idea, etc.) featuring new methods; advanced and original"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "innovative ways to help unemployed people"
+                                        },
+                                        {
+                                            "text": "innovative designs"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0511000.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) introducing new ideas; original and creative in thinking"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "writers who are now viewed as innovative"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0511000.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/innovative_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɪnəvətɪv"
+                        }
+                    ],
+                    "text": "innovative"
+                }
+            ],
+            "type": "headword",
+            "word": "innovative"
+        }
+    ]
+}

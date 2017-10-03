@@ -1,0 +1,174 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "conservative",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘aiming to preserve’): from late Latin conservativus, from conservat- ‘conserved’, from the verb conservare (see conserve). Current senses date from the mid 19th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "averse to change or innovation and holding traditional values"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they were very conservative in their outlook"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0212450.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of dress or taste) sober and conventional"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a conservative suit"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0212450.008"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(in a political context) favouring free enterprise, private ownership, and socially conservative ideas."
+                                    ],
+                                    "domains": [
+                                        "Politics"
+                                    ],
+                                    "id": "m_en_gbus0212450.010",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "relating to the Conservative Party of Great Britain or a similar party elsewhere"
+                                            ],
+                                            "domains": [
+                                                "Politics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the Conservative government"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0212450.011",
+                                            "variantForms": [
+                                                {
+                                                    "text": "Conservative"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of an estimate) purposely low for the sake of caution"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "police placed the value of the haul at a conservative £500,000"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0212450.015"
+                                },
+                                {
+                                    "definitions": [
+                                        "(of surgery or medical treatment) intended to control rather than eliminate a condition, with existing tissue preserved as far as possible."
+                                    ],
+                                    "domains": [
+                                        "Medicine",
+                                        "Surgery"
+                                    ],
+                                    "id": "m_en_gbus0212450.017"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconservative_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈsəːvətɪv"
+                        }
+                    ],
+                    "text": "conservative"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who is averse to change and holds traditional values"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he remains a conservative in constitutional matters"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0212450.029"
+                                },
+                                {
+                                    "definitions": [
+                                        "a supporter or member of the Conservative Party of Great Britain or a similar party elsewhere."
+                                    ],
+                                    "domains": [
+                                        "Politics"
+                                    ],
+                                    "id": "m_en_gbus0212450.033",
+                                    "variantForms": [
+                                        {
+                                            "text": "Conservative"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconservative_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈsəːvətɪv"
+                        }
+                    ],
+                    "text": "conservative"
+                }
+            ],
+            "type": "headword",
+            "word": "conservative"
+        }
+    ]
+}

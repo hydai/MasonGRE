@@ -1,0 +1,172 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "vernacular",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin vernaculus ‘domestic, native’ (from verna ‘home-born slave’) + -ar"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the language or dialect spoken by the ordinary people of a country or region"
+                                    ],
+                                    "domains": [
+                                        "Linguistics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he wrote in the vernacular to reach a larger audience"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1125380.006",
+                                    "notes": [
+                                        {
+                                            "text": "usually \"the vernacular\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the terminology used by people belonging to a specified group or engaging in a specialized activity"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "gardening vernacular"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1125380.008",
+                                            "notes": [
+                                                {
+                                                    "text": "with adjective or noun modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                "informal"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "architecture concerned with domestic and functional rather than public or monumental buildings"
+                                    ],
+                                    "domains": [
+                                        "Architecture"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "buildings in which Gothic merged into farmhouse vernacular"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1125380.012",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/vernacular_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "vəˈnakjʊlə"
+                        }
+                    ],
+                    "text": "vernacular"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of language) spoken as one's mother tongue; not learned or imposed as a second language."
+                                    ],
+                                    "domains": [
+                                        "Linguistics"
+                                    ],
+                                    "id": "m_en_gbus1125380.019",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of speech or written works) using the mother tongue of a country or region"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "vernacular literature"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1125380.021"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of architecture) concerned with domestic and functional rather than public buildings"
+                                    ],
+                                    "domains": [
+                                        "Architecture"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "vernacular buildings"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1125380.023"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/vernacular_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "vəˈnakjʊlə"
+                        }
+                    ],
+                    "text": "vernacular"
+                }
+            ],
+            "type": "headword",
+            "word": "vernacular"
+        }
+    ]
+}

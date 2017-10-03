@@ -1,0 +1,85 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "excoriate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin excoriat- ‘skinned’, from the verb excoriare, from ex- ‘out, from’ + corium ‘skin, hide’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "damage or remove part of the surface of (the skin)"
+                                    ],
+                                    "domains": [
+                                        "Medicine"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the discharge is acrid and excoriates the skin of the nose"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0340100.009"
+                                },
+                                {
+                                    "definitions": [
+                                        "criticize (someone) severely"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he excoriated the government for censorship"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0340100.028",
+                                    "registers": [
+                                        "formal"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛkˈskɔːrɪeɪt"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/excoriate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪkˈskɔːrɪeɪt"
+                        }
+                    ],
+                    "text": "excoriate"
+                }
+            ],
+            "type": "headword",
+            "word": "excoriate"
+        }
+    ]
+}

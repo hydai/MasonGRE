@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "chronic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from French chronique, via Latin from Greek khronikos ‘of time’, from khronos ‘time’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Often contrasted with acute"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "acute",
+                                            "text": "acute",
+                                            "type": "related"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "(of an illness) persisting for a long time or constantly recurring"
+                                    ],
+                                    "domains": [
+                                        "Medicine"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "chronic bronchitis"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0181850.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) having a chronic illness"
+                                            ],
+                                            "domains": [
+                                                "Medicine"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a chronic asthmatic"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0181850.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a problem) long-lasting"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the school suffers from chronic overcrowding"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0181850.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a person) having a bad habit"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a chronic liar"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0181850.010"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "of a very poor quality"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the film was absolutely chronic"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0181850.012",
+                                    "regions": [
+                                        "British"
+                                    ],
+                                    "registers": [
+                                        "informal"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/chronic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkrɒnɪk"
+                        }
+                    ],
+                    "text": "chronic"
+                }
+            ],
+            "type": "headword",
+            "word": "chronic"
+        }
+    ]
+}

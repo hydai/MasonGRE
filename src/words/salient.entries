@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "salient",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (as a heraldic term): from Latin salient- ‘leaping’, from the verb salire. The noun dates from the early 19th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "most noticeable or important"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it succinctly covered all the salient points of the case"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0894810.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "prominent; conspicuous"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the salient object in my view"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0894810.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "The opposite of re-entrant"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "re-entrant",
+                                            "text": "re-entrant",
+                                            "type": "opposite Of"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "(of an angle) pointing outwards."
+                                    ],
+                                    "domains": [
+                                        "Architecture"
+                                    ],
+                                    "id": "m_en_gbus0894810.011"
+                                },
+                                {
+                                    "definitions": [
+                                        "(of an animal) standing on its hind legs with the forepaws raised, as if leaping."
+                                    ],
+                                    "domains": [
+                                        "Heraldry"
+                                    ],
+                                    "id": "m_en_gbus0894810.013",
+                                    "notes": [
+                                        {
+                                            "text": "postpositive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/salient_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈseɪlɪənt"
+                        }
+                    ],
+                    "text": "salient"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a piece of land or section of fortification that juts out to form an angle."
+                                    ],
+                                    "domains": [
+                                        "Architecture",
+                                        "Surveying"
+                                    ],
+                                    "id": "m_en_gbus0894810.015",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an outward bulge in a line of military attack or defence"
+                                            ],
+                                            "domains": [
+                                                "Military History"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "this decisive battle broke the Germans' ability to attack any further into the Kursk salient"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0894810.018"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/salient_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈseɪlɪənt"
+                        }
+                    ],
+                    "text": "salient"
+                }
+            ],
+            "type": "headword",
+            "word": "salient"
+        }
+    ]
+}

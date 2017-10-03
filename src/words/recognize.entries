@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "recognize",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (earliest attested as a term in Scots law): from Old French reconniss-, stem of reconnaistre, from Latin recognoscere ‘know again, recall to mind’, from re- ‘again’ + cognoscere ‘learn’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "identify (someone or something) from having encountered them before; know again"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I recognized her when her wig fell off"
+                                        },
+                                        {
+                                            "text": "Julia hardly recognized Jill when they met"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0851340.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "identify from knowledge of appearance or character"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Pat is very good at recognizing wild flowers"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0851340.018"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a computer or other machine) automatically identify and respond correctly to (a sound, printed character, etc.)"
+                                            ],
+                                            "domains": [
+                                                "Computing"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Dr Friedman is programming his computer to recognize the shapes of strokes in the hands of various writers"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0851340.019"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "acknowledge the existence, validity, or legality of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the defence is recognized in British law"
+                                        },
+                                        {
+                                            "text": "he was recognized as an international authority"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0851340.021",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "show official appreciation of; reward formally"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his work was recognized by an honorary degree from Glasgow University"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0851340.022"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "officially regard (a qualification) as valid or proper"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "these qualifications are recognized by the Department of Education"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0851340.023"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "grant diplomatic recognition to (a country or government)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "countries which recognized East Germany"
+                                                },
+                                                {
+                                                    "text": "they were refusing to recognize the puppet regime"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0851340.024"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a person presiding at a meeting or debate) call on (someone) to speak."
+                                            ],
+                                            "id": "m_en_gbus0851340.025"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "recognise"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/recognize_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈrɛkəɡnʌɪz"
+                        }
+                    ],
+                    "text": "recognize"
+                }
+            ],
+            "type": "headword",
+            "word": "recognize"
+        }
+    ]
+}

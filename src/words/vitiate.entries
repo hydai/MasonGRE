@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "vitiate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin vitiat- ‘impaired’, from the verb vitiare, from vitium (see vice)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "spoil or impair the quality or efficiency of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "development programmes have been vitiated by the rise in population"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1133010.007",
+                                    "registers": [
+                                        "formal"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "destroy or impair the legal validity of"
+                                            ],
+                                            "domains": [
+                                                "Law"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the insurance is vitiated because of foolish acts on the part of the tenant"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1133010.013"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/vitiate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈvɪʃɪeɪt"
+                        }
+                    ],
+                    "text": "vitiate"
+                }
+            ],
+            "type": "headword",
+            "word": "vitiate"
+        }
+    ]
+}

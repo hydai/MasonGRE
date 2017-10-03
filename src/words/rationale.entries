@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "rationale",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: modern Latin, neuter (used as a noun) of Latin rationalis ‘endowed with reason’ (see rational)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a set of reasons or a logical basis for a course of action or belief"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he explained the rationale behind the change"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0846520.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/rationale_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌraʃəˈnɑːl"
+                        }
+                    ],
+                    "text": "rationale"
+                }
+            ],
+            "type": "headword",
+            "word": "rationale"
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ridge",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English hrycg ‘spine, crest’, of Germanic origin; related to Dutch rug and German Rücken ‘back’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a long, narrow hilltop, mountain range, or watershed"
+                                    ],
+                                    "domains": [
+                                        "Geography"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the North-East ridge of Everest"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0872870.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the line or edge formed where the two sloping sides of a roof meet at the top"
+                                            ],
+                                            "domains": [
+                                                "Architecture"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the roof was unusual due to the relative heights of the eaves and the ridge"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0872870.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a narrow raised band on a surface"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "buff your nails in order to smooth ridges"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0872870.010"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a raised strip of arable land, especially (in medieval fields) one of a set separated by furrows"
+                                            ],
+                                            "domains": [
+                                                "Medieval History",
+                                                "Farming"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a path led through the ridges and furrows of fields long left to nature"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0872870.011"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "an elongated region of high barometric pressure"
+                                    ],
+                                    "domains": [
+                                        "Meteorology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a high-pressure ridge helping to steer cyclones further south"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0872870.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ridge_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪdʒ"
+                        }
+                    ],
+                    "text": "ridge"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "mark with or form into ridges"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a field ploughed in narrow stretches that are ridged up slightly"
+                                        },
+                                        {
+                                            "text": "the ridged sand of the beach"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0872870.023",
+                                    "notes": [
+                                        {
+                                            "text": "often as adjective \"ridged\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a surface) form into or rise up as a ridge"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the crust of the earth ridged"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0872870.029",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ridge_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪdʒ"
+                        }
+                    ],
+                    "text": "ridge"
+                }
+            ],
+            "type": "headword",
+            "word": "ridge"
+        }
+    ]
+}

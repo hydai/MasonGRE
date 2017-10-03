@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "vindicate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (in the sense ‘deliver, rescue’): from Latin vindicat- ‘claimed, avenged’, from the verb vindicare, from vindex, vindic- ‘claimant, avenger’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "clear (someone) of blame or suspicion"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "hospital staff were vindicated by the inquest verdict"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1130280.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "show or prove to be right, reasonable, or justified"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "more sober views were vindicated by events"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1130280.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/vindicate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈvɪndɪkeɪt"
+                        }
+                    ],
+                    "text": "vindicate"
+                }
+            ],
+            "type": "headword",
+            "word": "vindicate"
+        }
+    ]
+}

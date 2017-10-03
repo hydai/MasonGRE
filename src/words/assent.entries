@@ -1,0 +1,129 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "assent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French as(s)enter (verb), as(s)ente (noun), based on Latin assentire, from ad- ‘towards’ + sentire ‘feel, think’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the expression of approval or agreement"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he nodded assent"
+                                        },
+                                        {
+                                            "text": "a loud murmur of assent"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0052500.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "official agreement or sanction"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the act was given the Royal Assent"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0052500.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/assent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈsɛnt"
+                        }
+                    ],
+                    "text": "assent"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "express approval or agreement"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "‘Guest house, then,’ Frank assented cheerfully"
+                                        },
+                                        {
+                                            "text": "the Prime Minister assented to the change"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0052500.009",
+                                    "notes": [
+                                        {
+                                            "text": "often \"assent to\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/assent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈsɛnt"
+                        }
+                    ],
+                    "text": "assent"
+                }
+            ],
+            "type": "headword",
+            "word": "assent"
+        }
+    ]
+}

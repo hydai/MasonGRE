@@ -1,0 +1,170 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "refractory",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: alteration of obsolete refractary, from Latin refractarius ‘stubborn’ (see also refract)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "stubborn or unmanageable"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his refractory pony"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0856650.009",
+                                    "registers": [
+                                        "formal"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "resistant to a process or stimulus"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it will treat ores considered refractory to normal flotation methods"
+                                        },
+                                        {
+                                            "text": "some granules are refractory to secretory stimuli"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0856650.012",
+                                    "registers": [
+                                        "formal"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person, illness, or diseased tissue) not yielding to treatment"
+                                            ],
+                                            "domains": [
+                                                "Medicine"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "healing of previously refractory ulcers"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0856650.013"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a person or animal) resistant to infection"
+                                            ],
+                                            "domains": [
+                                                "Medicine",
+                                                "Veterinary"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "turkeys can be infected when young but are refractory as adults"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0856650.014",
+                                            "registers": [
+                                                "rare"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a substance) resistant to heat; hard to melt or fuse"
+                                            ],
+                                            "domains": [
+                                                "Geology",
+                                                "Chemistry"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "refractory materials found in lunar samples"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0856650.015",
+                                            "registers": [
+                                                "technical"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/refractory_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈfrakt(ə)ri"
+                        }
+                    ],
+                    "text": "refractory"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a substance that is resistant to heat."
+                                    ],
+                                    "domains": [
+                                        "Geology",
+                                        "Chemistry"
+                                    ],
+                                    "id": "m_en_gbus0856650.017",
+                                    "registers": [
+                                        "technical"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/refractory_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈfrakt(ə)ri"
+                        }
+                    ],
+                    "text": "refractory"
+                }
+            ],
+            "type": "headword",
+            "word": "refractory"
+        }
+    ]
+}

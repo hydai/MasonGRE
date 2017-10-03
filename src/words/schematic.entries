@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "schematic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a diagram or other representation) symbolic and simplified"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this concept is shown in schematic form in Figure 1"
+                                        },
+                                        {
+                                            "text": "schematic diagrams"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0906300.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of thought, ideas, etc.) simplistic or formulaic in character"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Freeman constructs a highly schematic reading of the play"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0906300.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "skɪˈmatɪk"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/schematic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "skiːˈmatɪk"
+                        }
+                    ],
+                    "text": "schematic"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(in technical contexts) a schematic diagram, in particular of an electric or electronic circuit"
+                                    ],
+                                    "domains": [
+                                        "Electronics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "only a few manufacturers provide schematics with their gear"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0906300.010"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/schematic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "skiːˈmatɪk"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "skɪˈmatɪk"
+                        }
+                    ],
+                    "text": "schematic"
+                }
+            ],
+            "type": "headword",
+            "word": "schematic"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "persistent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "continuing firmly or obstinately in an opinion or course of action in spite of difficulty or opposition"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an attempt to stop persistent drink-drivers"
+                                        },
+                                        {
+                                            "text": "one of the government's most persistent critics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0768600.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "continuing to exist or occur over a prolonged period"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "persistent rain will affect many areas"
+                                        },
+                                        {
+                                            "text": "persistent reports of human rights abuses by the military"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0768600.010",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of chemicals or radioactivity) remaining within the environment for a long time after introduction"
+                                            ],
+                                            "domains": [
+                                                "Chemistry"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "PCBs are persistent environmental contaminants"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0768600.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a part of an animal or plant, such as a horn, leaf, etc.) remaining attached instead of falling off in the normal manner."
+                                    ],
+                                    "domains": [
+                                        "Botany",
+                                        "Zoology"
+                                    ],
+                                    "id": "m_en_gbus0768600.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/persistent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pəˈsɪst(ə)nt"
+                        }
+                    ],
+                    "text": "persistent"
+                }
+            ],
+            "type": "headword",
+            "word": "persistent"
+        }
+    ]
+}

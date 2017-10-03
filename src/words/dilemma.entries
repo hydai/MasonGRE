@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "dilemma",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century (denoting a form of argument involving a choice between equally unfavourable alternatives): via Latin from Greek dilēmma, from di- ‘twice’ + lēmma ‘premise’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "At its core, a dilemma is a situation in which a difficult choice has to be made between two or more alternatives (this is my dilemma: do I stay here for the job security, or do I risk it all for the chance of a better career?). More informally, dilemma can mean ‘a difficult situation or problem’ (as in the insoluble dilemma of adolescence). Some traditionalists object to this weakened use, but it is recorded as early as the first part of the 17th century, and is now widespread and generally acceptable.",
+                                    "type": "editorialNote"
+                                },
+                                {
+                                    "text": "Note that dilemma is spelled with a double m in the middle, not as -mn-",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a situation in which a difficult choice has to be made between two or more alternatives, especially ones that are equally undesirable"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he wants to make money, but he also disapproves of it: Den's dilemma in a nutshell"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0275850.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a difficult situation or problem"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the insoluble dilemma of adolescence"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0275850.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "an argument forcing an opponent to choose either of two unfavourable alternatives."
+                                            ],
+                                            "domains": [
+                                                "Logic"
+                                            ],
+                                            "id": "m_en_gbus0275850.012"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/dilemma_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈlɛmə"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dʌɪˈlɛmə"
+                        }
+                    ],
+                    "text": "dilemma"
+                }
+            ],
+            "type": "headword",
+            "word": "dilemma"
+        }
+    ]
+}

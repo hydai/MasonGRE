@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "adherent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French adherent, from Latin adhaerent- ‘sticking to’, from the verb adhaerere (see adhere)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "someone who supports a particular party, person, or set of ideas"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was a strong adherent of monetarism"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0009950.007"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/adherent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ədˈhɪər(ə)nt"
+                        }
+                    ],
+                    "text": "adherent"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "sticking fast to an object or surface"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the eggs have thick sticky shells to which debris is often adherent"
+                                        },
+                                        {
+                                            "text": "any adherent sand grains are easily removed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0009950.015"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/adherent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ədˈhɪər(ə)nt"
+                        }
+                    ],
+                    "text": "adherent"
+                }
+            ],
+            "type": "headword",
+            "word": "adherent"
+        }
+    ]
+}

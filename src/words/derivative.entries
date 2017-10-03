@@ -1,0 +1,188 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "derivative",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the adjective sense ‘having the power to draw off’, and in the noun sense ‘a word derived from another’): from French dérivatif, -ive, from Latin derivativus, from derivare (see derive)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "imitative of the work of another artist, writer, etc., and usually disapproved of for that reason"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an artist who is not in the slightest bit derivative"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0266870.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "originating from, based on, or influenced by"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Darwin's work is derivative of the moral philosophers"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0266870.008"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a product) having a value deriving from an underlying variable asset"
+                                    ],
+                                    "domains": [
+                                        "Finance"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "equity-based derivative products"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0266870.010",
+                                    "notes": [
+                                        {
+                                            "text": "attributive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/derivative_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈrɪvətɪv"
+                        }
+                    ],
+                    "text": "derivative"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "something which is based on another source"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the aircraft is a derivative of the Falcon 20G"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0266870.018",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a word derived from another or from a root in the same or another language"
+                                            ],
+                                            "domains": [
+                                                "Linguistics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "‘fly-tip’ is a derivative of the phrase ‘on the fly’"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0266870.021"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a substance that is derived chemically from a specified compound"
+                                            ],
+                                            "domains": [
+                                                "Chemistry"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "crack is a highly addictive cocaine derivative"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0266870.022"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "an arrangement or product (such as a future, option, or warrant) whose value derives from and is dependent on the value of an underlying asset, such as a commodity, currency, or security"
+                                    ],
+                                    "domains": [
+                                        "Stock Exchange"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the derivatives market"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0266870.024",
+                                    "notes": [
+                                        {
+                                            "text": "often \"derivatives\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "an expression representing the rate of change of a function with respect to an independent variable."
+                                    ],
+                                    "domains": [
+                                        "Mathematics"
+                                    ],
+                                    "id": "m_en_gbus0266870.026"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/derivative_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈrɪvətɪv"
+                        }
+                    ],
+                    "text": "derivative"
+                }
+            ],
+            "type": "headword",
+            "word": "derivative"
+        }
+    ]
+}

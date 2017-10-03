@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "banter",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century: of unknown origin"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the playful and friendly exchange of teasing remarks"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there was much good-natured banter"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0072100.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/banter_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈbantə"
+                        }
+                    ],
+                    "text": "banter"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "exchange remarks in a good-humoured teasing way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the men bantered with the waitresses"
+                                        },
+                                        {
+                                            "text": "a bantering tone"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0072100.008"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/banter_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈbantə"
+                        }
+                    ],
+                    "text": "banter"
+                }
+            ],
+            "type": "headword",
+            "word": "banter"
+        }
+    ]
+}

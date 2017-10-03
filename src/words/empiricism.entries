@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "empiricism",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Compare with phenomenalism"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "phenomenalism",
+                                            "text": "phenomenalism",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "the theory that all knowledge is based on experience derived from the senses. Stimulated by the rise of experimental science, it developed in the 17th and 18th centuries, expounded in particular by John Locke, George Berkeley, and David Hume."
+                                    ],
+                                    "domains": [
+                                        "Philosophy"
+                                    ],
+                                    "id": "m_en_gbus0321340.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/empiricism_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛmˈpɪrɪsɪz(ə)m"
+                        }
+                    ],
+                    "text": "empiricism"
+                }
+            ],
+            "type": "headword",
+            "word": "empiricism"
+        }
+    ]
+}

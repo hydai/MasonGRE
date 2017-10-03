@@ -1,0 +1,177 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "override",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "use one's authority to reject or cancel (a decision, view, etc.)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the courts will ultimately override any objections"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0736210.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "be more important than"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "this commitment should override all other considerations"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0736210.017"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "interrupt the action of (an automatic device), typically in order to take manual control"
+                                    ],
+                                    "domains": [
+                                        "Mechanics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "you can override the cut-out by releasing the switch"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0736210.019"
+                                },
+                                {
+                                    "definitions": [
+                                        "extend over; overlap"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the external rendering should not override the damp-proof membrane"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0736210.021",
+                                    "registers": [
+                                        "technical"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "travel or move over"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "overriding by vehicles is implicated in over half the cases of footway damage"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0736210.023"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/override_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əʊvəˈrʌɪd"
+                        }
+                    ],
+                    "text": "override"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a device for suspending an automatic function on a machine"
+                                    ],
+                                    "domains": [
+                                        "Mechanics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the flash has to have a manual override to be useful"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0736210.029"
+                                },
+                                {
+                                    "definitions": [
+                                        "an excess or increase on a budget, salary, or cost"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "commission overrides give established carriers an unfair advantage"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0736210.037"
+                                },
+                                {
+                                    "definitions": [
+                                        "a cancellation of a decision by exertion of authority or winning of votes"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the House vote in favour of the bill was 10 votes short of the requisite majority for an override"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0736210.040",
+                                    "regions": [
+                                        "US"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/override_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈəʊvərʌɪd"
+                        }
+                    ],
+                    "text": "override"
+                }
+            ],
+            "type": "headword",
+            "word": "override"
+        }
+    ]
+}

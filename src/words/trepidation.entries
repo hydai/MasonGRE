@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "trepidation",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from Latin trepidatio(n-), from trepidare ‘be agitated, tremble’, from trepidus ‘alarmed’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a feeling of fear or anxiety about something that may happen"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the men set off in fear and trepidation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1072790.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "trembling movements or motion."
+                                    ],
+                                    "domains": [
+                                        "Medicine"
+                                    ],
+                                    "id": "m_en_gbus1072790.009",
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/trepidation_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌtrɛpɪˈdeɪʃ(ə)n"
+                        }
+                    ],
+                    "text": "trepidation"
+                }
+            ],
+            "type": "headword",
+            "word": "trepidation"
+        }
+    ]
+}

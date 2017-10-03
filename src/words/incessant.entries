@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "incessant",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Old French from late Latin incessant-, from in- ‘not’ + Latin cessant- ‘ceasing’ (from the verb cessare)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of something regarded as unpleasant) continuing without pause or interruption"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the incessant beat of the music"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0501290.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/incessant_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈsɛs(ə)nt"
+                        }
+                    ],
+                    "text": "incessant"
+                }
+            ],
+            "type": "headword",
+            "word": "incessant"
+        }
+    ]
+}

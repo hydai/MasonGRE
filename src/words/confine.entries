@@ -1,0 +1,184 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "confine",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as a noun): from French confins (plural noun), from Latin confinia, from confinis ‘bordering’, from con- ‘together’ + finis ‘end, limit’ (plural fines ‘territory’). The verb senses are from French confiner, based on Latin confinis"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "keep or restrict someone or something within certain limits of (space, scope, or time)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "you've confined yourself to what you know"
+                                        },
+                                        {
+                                            "text": "he does not confine his message to high politics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0210110.005",
+                                    "notes": [
+                                        {
+                                            "text": "\"confine someone/something to\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "restrain or forbid someone from leaving (a place)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the troops were confined to their barracks"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0210110.012",
+                                            "notes": [
+                                                {
+                                                    "text": "\"confine someone to/in\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a person) be unable to leave (one's bed, home, or a wheelchair) because of illness or disability"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he was confined to bed for four days with a bad dose of flu"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0210110.013",
+                                            "notes": [
+                                                {
+                                                    "text": "\"be confined to\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a woman) remain in bed for a period before, during, and after giving birth"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she was confined for nearly a month"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0210110.014",
+                                            "notes": [
+                                                {
+                                                    "text": "\"be confined\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                "dated"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconfine_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈfʌɪn"
+                        }
+                    ],
+                    "text": "confine"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the borders or boundaries of a place, especially with regard to their restricting freedom of movement"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "within the confines of the hall escape was difficult"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0210110.020",
+                                    "notes": [
+                                        {
+                                            "text": "\"confines\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the limits of something abstract, especially a sphere of activity"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the narrow confines of political life"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0210110.022"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconfine_gb_2_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkɒnfʌɪn"
+                        }
+                    ],
+                    "text": "confine"
+                }
+            ],
+            "type": "headword",
+            "word": "confine"
+        }
+    ]
+}

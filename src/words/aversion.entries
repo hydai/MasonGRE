@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "aversion",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (originally denoting the action of turning away or averting one's eyes): from Latin aversio(n-), from avertere ‘turn away from’ (see avert)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a strong dislike or disinclination"
+                                    ],
+                                    "domains": [
+                                        "Psychology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they made plain their aversion to the use of force"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0060850.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "someone or something that arouses a strong dislike or disinclination"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "my dog's pet aversion is visitors, particularly males"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0060850.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/aversion_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈvəːʃ(ə)n"
+                        }
+                    ],
+                    "text": "aversion"
+                }
+            ],
+            "type": "headword",
+            "word": "aversion"
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "lax",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘loose’, said of the bowels): from Latin laxus"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not sufficiently strict, severe, or careful"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "lax security arrangements at the airport"
+                                        },
+                                        {
+                                            "text": "he'd been a bit lax about discipline in school lately"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0569400.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "(of the limbs or muscles) relaxed"
+                                    ],
+                                    "domains": [
+                                        "Physiology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "muscles have more potential energy when they are stretched than when they are lax"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0569400.012",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of the bowels) loose."
+                                            ],
+                                            "domains": [
+                                                "Physiology"
+                                            ],
+                                            "id": "m_en_gbus0569400.014"
+                                        },
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "The opposite of tense"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "tense",
+                                                    "text": "tense",
+                                                    "type": "opposite Of"
+                                                }
+                                            ],
+                                            "definitions": [
+                                                "(of a speech sound, especially a vowel) pronounced with the vocal muscles relaxed."
+                                            ],
+                                            "domains": [
+                                                "Phonetics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the merger of tense and lax vowels before ‘l’"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0569400.015"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/lax_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "laks"
+                        }
+                    ],
+                    "text": "lax"
+                },
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "1950s: abbreviation of lacrosse, with x representing crosse (by association with cross)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lacrosse"
+                                    ],
+                                    "domains": [
+                                        "Sport"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I wore pads and a helmet whenever I played lax"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0569410.005",
+                                    "regions": [
+                                        "US"
+                                    ],
+                                    "registers": [
+                                        "informal"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/lax_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "laks"
+                        }
+                    ],
+                    "text": "lax"
+                }
+            ],
+            "type": "headword",
+            "word": "lax"
+        }
+    ]
+}

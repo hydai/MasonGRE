@@ -1,0 +1,117 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "substantial",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French substantiel or Christian Latin substantialis, from substantia ‘being, essence’ (see substance)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of considerable importance, size, or worth"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a substantial amount of cash"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1008490.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "strongly built or made"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a row of substantial Victorian villas"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1008490.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a meal) large and filling"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the first meal of the day should be substantial"
+                                                },
+                                                {
+                                                    "text": "breakfast is a substantial buffet"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1008490.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "important in material or social terms; wealthy"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a substantial Devon family"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1008490.010"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "concerning the essentials of something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there was substantial agreement on changing policies"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1008490.012"
+                                },
+                                {
+                                    "definitions": [
+                                        "real and tangible rather than imaginary"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "spirits are shadowy, human beings substantial"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1008490.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/substantial_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "səbˈstanʃ(ə)l"
+                        }
+                    ],
+                    "text": "substantial"
+                }
+            ],
+            "type": "headword",
+            "word": "substantial"
+        }
+    ]
+}

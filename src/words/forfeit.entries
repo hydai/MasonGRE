@@ -1,0 +1,199 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "forfeit",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (originally denoting a crime or transgression, hence a fine): from Old French forfet, forfait, past participle of forfaire ‘transgress’, from for- ‘out’ (from Latin foris ‘outside’) + faire ‘do’ (from Latin facere)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing"
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "those unable to meet their taxes were liable to forfeit their estates"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0381570.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "lose or give up (something) as a necessary consequence of something else"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she didn't mind forfeiting an hour in bed to muck out the horses"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0381570.013"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/forfeit_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfɔːfɪt"
+                        }
+                    ],
+                    "text": "forfeit"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a fine or penalty for wrongdoing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the loser must pay a forfeit"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0381570.015",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an item of property or a right or privilege lost as a legal penalty."
+                                            ],
+                                            "domains": [
+                                                "Law"
+                                            ],
+                                            "id": "m_en_gbus0381570.018"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a game in which trivial penalties are exacted for minor misdemeanours."
+                                            ],
+                                            "domains": [
+                                                "Games"
+                                            ],
+                                            "id": "m_en_gbus0381570.019",
+                                            "notes": [
+                                                {
+                                                    "text": "\"forfeits\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the action of forfeiting something."
+                                            ],
+                                            "id": "m_en_gbus0381570.021",
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/forfeit_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfɔːfɪt"
+                        }
+                    ],
+                    "text": "forfeit"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "002",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "lost or surrendered as a penalty for wrongdoing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his possessions were declared forfeit"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0381570.024",
+                                    "notes": [
+                                        {
+                                            "text": "predicative",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/forfeit_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfɔːfɪt"
+                        }
+                    ],
+                    "text": "forfeit"
+                }
+            ],
+            "type": "headword",
+            "word": "forfeit"
+        }
+    ]
+}

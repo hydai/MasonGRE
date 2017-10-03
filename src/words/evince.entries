@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "evince",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (in the sense ‘prove by argument or evidence’): from Latin evincere ‘overcome, defeat’ (see evict)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "reveal the presence of (a quality or feeling); indicate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the news stories evinced the usual mixture of sympathy and satisfaction"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0338560.005",
+                                    "registers": [
+                                        "formal"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/evince_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˈvɪns"
+                        }
+                    ],
+                    "text": "evince"
+                }
+            ],
+            "type": "headword",
+            "word": "evince"
+        }
+    ]
+}

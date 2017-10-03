@@ -1,0 +1,169 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "supplement",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin supplementum, from supplere ‘fill up, complete’ (see supply)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a thing added to something else in order to complete or enhance it"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the handout is a supplement to the official manual"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1015800.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a substance taken to remedy the deficiencies in a person's diet"
+                                            ],
+                                            "domains": [
+                                                "Pharmaceutics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "multivitamin supplements"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1015800.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a separate section, especially a colour magazine, added to a newspaper or periodical"
+                                            ],
+                                            "domains": [
+                                                "Journalism"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "our special supplement is packed with ideas for healthy hair"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1015800.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a sum of money paid to increase a person's income"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an earnings-related supplement was paid during the first six months of unemployment"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1015800.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "an additional charge payable for an extra service or facility"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the single room supplement is £2 per night"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1015800.013"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the amount by which an angle is less than 180°."
+                                    ],
+                                    "domains": [
+                                        "Geometry"
+                                    ],
+                                    "id": "m_en_gbus1015800.015"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/supplement_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈsʌplɪm(ə)nt"
+                        }
+                    ],
+                    "text": "supplement"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "add an extra element or amount to"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I looked for a part-time job to supplement my income"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1015800.023"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/supplement_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈsʌplɪmɛnt"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/supplement_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "sʌplɪˈmɛnt"
+                        }
+                    ],
+                    "text": "supplement"
+                }
+            ],
+            "type": "headword",
+            "word": "supplement"
+        }
+    ]
+}

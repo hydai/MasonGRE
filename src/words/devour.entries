@@ -1,0 +1,102 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "devour",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French devorer, from Latin devorare, from de- ‘down’ + vorare ‘to swallow’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "eat (food or prey) hungrily or quickly"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he devoured half of his burger in one bite"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0270880.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of fire or a similar force) destroy completely"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the hungry flames devoured the old house"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0270880.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "read quickly and eagerly"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she spent her evenings devouring the classics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0270880.015"
+                                },
+                                {
+                                    "definitions": [
+                                        "be totally absorbed by a powerful feeling"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she was devoured by need"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0270880.017",
+                                    "notes": [
+                                        {
+                                            "text": "\"be devoured\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/devour_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈvaʊə"
+                        }
+                    ],
+                    "text": "devour"
+                }
+            ],
+            "type": "headword",
+            "word": "devour"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "imperious",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin imperiosus, from imperium ‘command, authority, empire’; related to imperare ‘to command’. Compare with imperial"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "arrogant and domineering"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his imperious demands"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0498640.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/imperious_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪmˈpɪərɪəs"
+                        }
+                    ],
+                    "text": "imperious"
+                }
+            ],
+            "type": "headword",
+            "word": "imperious"
+        }
+    ]
+}

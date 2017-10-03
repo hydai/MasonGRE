@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "intricate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin intricat- ‘entangled’, from the verb intricare, from in- ‘into’ + tricae ‘tricks, perplexities’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "very complicated or detailed"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an intricate network of canals"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0518710.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/intricate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɪntrɪkət"
+                        }
+                    ],
+                    "text": "intricate"
+                }
+            ],
+            "type": "headword",
+            "word": "intricate"
+        }
+    ]
+}

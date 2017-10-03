@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "disparate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin disparatus ‘separated’, from the verb disparare, from dis- ‘apart’ + parare ‘to prepare’; influenced in sense by Latin dispar ‘unequal’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "essentially different in kind; not able to be compared"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they inhabit disparate worlds of thought"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0282520.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "containing elements very different from one another"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a culturally disparate country"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0282520.009"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/disparate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdɪsp(ə)rət"
+                        }
+                    ],
+                    "text": "disparate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "things so unlike that there is no basis for comparison."
+                                    ],
+                                    "id": "m_en_gbus0282520.011",
+                                    "notes": [
+                                        {
+                                            "text": "\"disparates\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/disparate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdɪsp(ə)rət"
+                        }
+                    ],
+                    "text": "disparate"
+                }
+            ],
+            "type": "headword",
+            "word": "disparate"
+        }
+    ]
+}

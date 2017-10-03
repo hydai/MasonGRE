@@ -1,0 +1,160 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "eclipse",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French e(s)clipse (noun), eclipser (verb), via Latin from Greek ekleipsis, from ekleipein ‘fail to appear, be eclipsed’, from ek ‘out’ + leipein ‘to leave’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an obscuring of the light from one celestial body by the passage of another between it and the observer or between it and its source of illumination"
+                                    ],
+                                    "domains": [
+                                        "Astronomy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an eclipse of the sun"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0310400.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a loss of significance or power in relation to another person or thing"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the election result marked the eclipse of the traditional right"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0310400.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a phase during which the distinctive markings of a bird (especially a male duck) are obscured by moulting of the breeding plumage"
+                                    ],
+                                    "domains": [
+                                        "Zoology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "eclipse plumage"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0310400.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/eclipse_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˈklɪps"
+                        }
+                    ],
+                    "text": "eclipse"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a celestial body) obscure the light from or to (another celestial body)"
+                                    ],
+                                    "domains": [
+                                        "Astronomy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Jupiter was eclipsed by the Moon"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0310400.013",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "deprive (someone or something) of significance or power"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the economy has eclipsed the environment as the main issue"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0310400.019"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "obscure or block out (light)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a sea of blue sky violently eclipsed by showers"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0310400.020",
+                                            "registers": [
+                                                "literary"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/eclipse_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˈklɪps"
+                        }
+                    ],
+                    "text": "eclipse"
+                }
+            ],
+            "type": "headword",
+            "word": "eclipse"
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "degenerate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from Latin degeneratus ‘no longer of its kind’, from the verb degenerare, from degener ‘debased’, from de- ‘away from’ + genus, gener- ‘race, kind’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having lost the physical, mental, or moral qualities considered normal and desirable; showing evidence of decline"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a degenerate form of a higher civilization"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0260420.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "lacking some usual or expected property or quality."
+                                    ],
+                                    "id": "m_en_gbus0260420.009",
+                                    "registers": [
+                                        "technical"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a type of equation, curve, etc.) equivalent to a simpler type, especially when a variable or parameter is set to zero."
+                                            ],
+                                            "domains": [
+                                                "Mathematics"
+                                            ],
+                                            "id": "m_en_gbus0260420.010"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of an energy level) corresponding to more than one quantum state."
+                                            ],
+                                            "domains": [
+                                                "Physics"
+                                            ],
+                                            "id": "m_en_gbus0260420.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of matter) at densities so high that gravitational contraction is counteracted, either by the Pauli exclusion principle or by an analogous quantum effect between closely packed neutrons."
+                                            ],
+                                            "domains": [
+                                                "Physics",
+                                                "Astronomy"
+                                            ],
+                                            "id": "m_en_gbus0260420.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "having reverted to a simpler form as a result of losing a complex or adaptive structure present in the ancestral form"
+                                            ],
+                                            "domains": [
+                                                "Genetics",
+                                                "Biology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "degenerate offshoots from the main line of vertebrate progress"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0260420.013"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/degenerate_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈdʒɛn(ə)rət"
+                        }
+                    ],
+                    "text": "degenerate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an immoral or corrupt person"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "get out of my house, you degenerate!"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0260420.018"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/degenerate_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈdʒɛn(ə)rət"
+                        }
+                    ],
+                    "text": "degenerate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "002",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "decline or deteriorate physically, mentally, or morally"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the quality of life had degenerated"
+                                        },
+                                        {
+                                            "text": "the debate degenerated into a brawl"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0260420.026"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/degenerate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈdʒɛnəreɪt"
+                        }
+                    ],
+                    "text": "degenerate"
+                }
+            ],
+            "type": "headword",
+            "word": "degenerate"
+        }
+    ]
+}

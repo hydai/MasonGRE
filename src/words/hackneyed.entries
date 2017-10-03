@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "hackneyed",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: from the archaic verb hackney (see hackney), meaning ‘use (a horse) for ordinary riding’, later ‘make commonplace by overuse’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a phrase or idea) having been overused; unoriginal and trite"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "hackneyed old sayings"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0443150.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/hackneyed_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈhaknɪd"
+                        }
+                    ],
+                    "text": "hackneyed"
+                }
+            ],
+            "type": "headword",
+            "word": "hackneyed"
+        }
+    ]
+}

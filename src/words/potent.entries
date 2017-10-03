@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "potent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin potent- ‘being powerful, being able’, from the verb posse"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having great power, influence, or effect"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a potent drug"
+                                        },
+                                        {
+                                            "text": "thrones were potent symbols of authority"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0804540.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a male) able to achieve an erection or to reach an orgasm."
+                                    ],
+                                    "domains": [
+                                        "Sex"
+                                    ],
+                                    "id": "m_en_gbus0804540.009"
+                                }
+                            ]
+                        },
+                        {
+                            "etymologies": [
+                                "late Middle English (denoting a crutch): alteration of Old French potence ‘crutch’, from Latin potentia ‘power’ (in medieval Latin ‘crutch’), from potent- (see potent)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "formed of crutch-shaped pieces; (especially of a cross) having a straight bar across the end of each extremity."
+                                    ],
+                                    "domains": [
+                                        "Heraldry"
+                                    ],
+                                    "id": "m_en_gbus0804550.006",
+                                    "notes": [
+                                        {
+                                            "text": "postpositive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "of the fur called potent (as a tincture)."
+                                    ],
+                                    "domains": [
+                                        "Heraldry"
+                                    ],
+                                    "id": "m_en_gbus0804550.009",
+                                    "notes": [
+                                        {
+                                            "text": "postpositive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/potent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈpəʊt(ə)nt"
+                        }
+                    ],
+                    "text": "potent"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "201",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "fur resembling vair, but with the alternating pieces T-shaped."
+                                    ],
+                                    "domains": [
+                                        "Heraldry"
+                                    ],
+                                    "id": "m_en_gbus0804550.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/potent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈpəʊt(ə)nt"
+                        }
+                    ],
+                    "text": "potent"
+                }
+            ],
+            "type": "headword",
+            "word": "potent"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ascendancy",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "occupation of a position of dominant power or influence"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the poor have a moral ascendancy over the rich"
+                                        },
+                                        {
+                                            "text": "the ascendancy of good over evil"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0050360.007",
+                                    "subsenses": [
+                                        {
+                                            "crossReferenceMarkers": [
+                                                "short for Protestant ascendancy"
+                                            ],
+                                            "crossReferences": [
+                                                {
+                                                    "id": "protestant_ascendancy",
+                                                    "text": "Protestant ascendancy",
+                                                    "type": "abbreviation"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0050360.010"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "ascendency"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ascendancy_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈsɛnd(ə)nsi"
+                        }
+                    ],
+                    "text": "ascendancy"
+                }
+            ],
+            "type": "headword",
+            "word": "ascendancy"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "bypass",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a road passing round a town or its centre to provide an alternative route for through traffic."
+                                    ],
+                                    "domains": [
+                                        "Roads"
+                                    ],
+                                    "id": "m_en_gbus0140410.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "a secondary channel, pipe, or connection to allow a flow when the main one is closed or blocked."
+                                    ],
+                                    "domains": [
+                                        "Mechanics"
+                                    ],
+                                    "id": "m_en_gbus0140410.014"
+                                },
+                                {
+                                    "definitions": [
+                                        "a surgical operation in which an alternative channel is created, especially to improve blood flow to the heart when a coronary artery is blocked"
+                                    ],
+                                    "domains": [
+                                        "Surgery"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I had a bypass last year so have been building up my strength"
+                                        },
+                                        {
+                                            "text": "he's just had a triple bypass operation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0140410.016",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an alternative channel created during a bypass operation."
+                                            ],
+                                            "domains": [
+                                                "Surgery"
+                                            ],
+                                            "id": "m_en_gbus0140410.017"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/bypass_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈbʌɪpɑːs"
+                        }
+                    ],
+                    "text": "bypass"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "go past or round"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "bypass the farm and continue to the road"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0140410.019",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "provide (a town) with a route diverting traffic from its centre"
+                                            ],
+                                            "domains": [
+                                                "Roads"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the town has been bypassed"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0140410.038"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "avoid or circumvent (an obstacle or problem)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a manager might bypass formal channels of communication"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0140410.039"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/bypass_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈbʌɪpɑːs"
+                        }
+                    ],
+                    "text": "bypass"
+                }
+            ],
+            "type": "headword",
+            "word": "bypass"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "partial",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in partial (sense 2 of the adjective)): from Old French parcial ( partial (sense 2 of the adjective)), French partiel ( partial (sense 1 of the adjective)), from late Latin partialis, from pars, part- ‘part’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "existing only in part; incomplete"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a question to which we have only partial answers"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0751330.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "favouring one side in a dispute above the other; biased"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the paper gave a distorted and very partial view of the situation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0751330.009"
+                                },
+                                {
+                                    "definitions": [
+                                        "having a liking for"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "you know I'm partial to bacon and eggs"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0751330.011",
+                                    "notes": [
+                                        {
+                                            "text": "\"partial to\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/partial_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈpɑːʃ(ə)l"
+                        }
+                    ],
+                    "text": "partial"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a component of a musical sound; an overtone or harmonic"
+                                    ],
+                                    "domains": [
+                                        "Music"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "strings would like to oscillate as closely as possible to harmonic partials"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0751330.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/partial_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈpɑːʃ(ə)l"
+                        }
+                    ],
+                    "text": "partial"
+                }
+            ],
+            "type": "headword",
+            "word": "partial"
+        }
+    ]
+}

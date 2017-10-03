@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "pious",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin pius ‘dutiful, pious’ + -ous"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "devoutly religious"
+                                    ],
+                                    "domains": [
+                                        "Religion"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a deeply pious woman"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0783270.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "making or constituting a hypocritical display of virtue"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his pious platitudes"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0783270.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "dutiful or loyal, especially towards one's parents."
+                                            ],
+                                            "id": "m_en_gbus0783270.009",
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a hope) sincere but unlikely to be fulfilled."
+                                    ],
+                                    "id": "m_en_gbus0783270.011",
+                                    "notes": [
+                                        {
+                                            "text": "attributive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/pious_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈpʌɪəs"
+                        }
+                    ],
+                    "text": "pious"
+                }
+            ],
+            "type": "headword",
+            "word": "pious"
+        }
+    ]
+}

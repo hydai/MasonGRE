@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "promulgate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (earlier ( late 15th century) as promulgation): from Latin promulgat- ‘exposed to public view’, from the verb promulgare, from pro- ‘out, publicly’ + mulgere ‘cause to come forth’ (literally ‘to milk’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "promote or make widely known (an idea or cause)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "these objectives have to be promulgated within the organization"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0820670.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "put (a law or decree) into effect by official proclamation"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "in January 1852 the new Constitution was promulgated"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0820670.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/promulgate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈprɒm(ə)lɡeɪt"
+                        }
+                    ],
+                    "text": "promulgate"
+                }
+            ],
+            "type": "headword",
+            "word": "promulgate"
+        }
+    ]
+}

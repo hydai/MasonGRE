@@ -1,0 +1,334 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "list",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in list (sense 3 of the noun)): from Old English liste ‘border’, of Germanic origin; related to Dutch lijst and German Leiste. list (sense 2 of the noun) is late Middle English, from Old French lisse; list (sense 1 of the noun) is late 16th century, from French liste, of Germanic origin"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a number of connected items or names written or printed consecutively, typically one below the other"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "consult the list of drugs on page 326"
+                                        },
+                                        {
+                                            "registers": [
+                                                "figurative"
+                                            ],
+                                            "text": "if you're buying a new car, put security high on your list of priorities"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0586270.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a formal structure analogous to a list, by which items of data can be stored or processed in a definite order."
+                                            ],
+                                            "domains": [
+                                                "Computing"
+                                            ],
+                                            "id": "m_en_gbus0586270.010"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "palisades enclosing an area for a tournament."
+                                    ],
+                                    "id": "m_en_gbus0586270.012",
+                                    "notes": [
+                                        {
+                                            "text": "\"lists\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "registers": [
+                                        "historical"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the scene of a contest or combat."
+                                            ],
+                                            "id": "m_en_gbus0586270.014"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a selvedge of a piece of fabric."
+                                    ],
+                                    "domains": [
+                                        "Textiles"
+                                    ],
+                                    "id": "m_en_gbus0586270.016"
+                                }
+                            ]
+                        },
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "201",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an instance of a ship listing to one side."
+                                    ],
+                                    "domains": [
+                                        "Nautical"
+                                    ],
+                                    "id": "m_en_gbus0586280.012"
+                                }
+                            ]
+                        },
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "301",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "desire or inclination"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I have little list to write"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0586290.012",
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/list_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "lɪst"
+                        }
+                    ],
+                    "text": "list"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "101",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make a list of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I have listed four reasons below"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0586270.019",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "include or enter in a list"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "local offices are listed in the phone book"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0586270.025"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "be on a list of products at (a specified price)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the bottom-of-the-line Mercedes lists for $52,050"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0586270.026",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                },
+                                                {
+                                                    "text": "\"list at/for\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "give (a building, company, etc.) listed status."
+                                            ],
+                                            "id": "m_en_gbus0586270.027"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "enlist for military service"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I listed myself for a soldier"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0586270.029",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "etymologies": [
+                                "early 17th century: of unknown origin"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Compare with heel"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "heel",
+                                            "text": "heel",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "(of a ship) lean over to one side, typically because of a leak or unbalanced cargo"
+                                    ],
+                                    "domains": [
+                                        "Nautical"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the ship was listing badly"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0586280.005"
+                                }
+                            ]
+                        },
+                        {
+                            "etymologies": [
+                                "Old English lystan (verb), of Germanic origin, from a base meaning ‘pleasure’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "300",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "want; like"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "let them think what they list"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0586290.005",
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/list_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "lɪst"
+                        }
+                    ],
+                    "text": "list"
+                }
+            ],
+            "type": "headword",
+            "word": "list"
+        }
+    ]
+}

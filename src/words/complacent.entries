@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "complacent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century (in the sense ‘pleasant’): from Latin complacent- ‘pleasing’, from the verb complacere"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "Complacent and complaisant are two words which are similar in pronunciation and which both come from the Latin verb complacere ‘to please’, but in English they do not mean the same thing. Complacent is far commoner and means ‘smug and self-satisfied’. Complaisant, on the other hand, means ‘willing to please’, as in the local people proved complaisant and cordial",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "showing smug or uncritical satisfaction with oneself or one's achievements"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "you can't afford to be complacent about security"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0206080.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/complacent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kəmˈpleɪs(ə)nt"
+                        }
+                    ],
+                    "text": "complacent"
+                }
+            ],
+            "type": "headword",
+            "word": "complacent"
+        }
+    ]
+}

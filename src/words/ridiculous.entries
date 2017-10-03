@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ridiculous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin ridiculosus, from ridiculus ‘laughable’ (see ridicule)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "deserving or inviting derision or mockery; absurd"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it seems absolutely ridiculous that anyone would try to pull a stunt like this"
+                                        },
+                                        {
+                                            "text": "that ridiculous tartan cap"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0872990.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ridiculous_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈdɪkjʊləs"
+                        }
+                    ],
+                    "text": "ridiculous"
+                }
+            ],
+            "type": "headword",
+            "word": "ridiculous"
+        }
+    ]
+}

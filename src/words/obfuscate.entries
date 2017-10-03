@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "obfuscate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from late Latin obfuscat- ‘darkened’, from the verb obfuscare, based on Latin fuscus ‘dark’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make obscure, unclear, or unintelligible"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the spelling changes will deform some familiar words and obfuscate their etymological origins"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0708400.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "bewilder (someone)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the new rule is more likely to obfuscate people than enlighten them"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0708400.015"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/obfuscate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɒbfʌskeɪt"
+                        }
+                    ],
+                    "text": "obfuscate"
+                }
+            ],
+            "type": "headword",
+            "word": "obfuscate"
+        }
+    ]
+}

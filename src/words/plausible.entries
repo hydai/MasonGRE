@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "plausible",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (also in the sense ‘deserving applause or approval’): from Latin plausibilis, from plaus- ‘applauded’, from the verb plaudere"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of an argument or statement) seeming reasonable or probable"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a plausible explanation"
+                                        },
+                                        {
+                                            "text": "it seems plausible that one of two things may happen"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0788810.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) skilled at producing persuasive arguments, especially ones intended to deceive"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a plausible liar"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0788810.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/plausible_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈplɔːzɪb(ə)l"
+                        }
+                    ],
+                    "text": "plausible"
+                }
+            ],
+            "type": "headword",
+            "word": "plausible"
+        }
+    ]
+}

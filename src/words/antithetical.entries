@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "antithetical",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (in antithetical (sense 2)): from Greek antithetikos, from antithetos ‘placed in opposition’, from antitithenai ‘set against’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "directly opposed or contrasted; mutually incompatible"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "people whose religious beliefs are antithetical to mine"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0038750.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "connected with, containing, or using the rhetorical device of antithesis"
+                                    ],
+                                    "domains": [
+                                        "Rhetoric",
+                                        "Literature"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "when praising the government, Pyrocles invokes the familiar oxymoronic and antithetical mode"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0038750.009"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/antithetical_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌantɪˈθɛtɪk(ə)l"
+                        }
+                    ],
+                    "text": "antithetical"
+                }
+            ],
+            "type": "headword",
+            "word": "antithetical"
+        }
+    ]
+}

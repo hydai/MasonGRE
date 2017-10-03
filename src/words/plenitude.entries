@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "plenitude",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French, from late Latin plenitudo, from plenus ‘full’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an abundance"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an ancient Celtic god thought to bring a plenitude of wealth or food"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0789860.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the condition of being full or complete"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the plenitude of the Pope's powers"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0789860.008",
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/plenitude_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈplɛnɪtjuːd"
+                        }
+                    ],
+                    "text": "plenitude"
+                }
+            ],
+            "type": "headword",
+            "word": "plenitude"
+        }
+    ]
+}

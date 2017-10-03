@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "obsolescent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: from Latin obsolescent- ‘falling into disuse’, from the verb obsolescere"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "becoming obsolete"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "obsolescent slang"
+                                        },
+                                        {
+                                            "text": "obsolescent equipment"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0709490.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/obsolescent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌɒbsəˈlɛs(ə)nt"
+                        }
+                    ],
+                    "text": "obsolescent"
+                }
+            ],
+            "type": "headword",
+            "word": "obsolescent"
+        }
+    ]
+}

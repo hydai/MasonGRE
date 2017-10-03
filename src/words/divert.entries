@@ -1,0 +1,128 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "divert",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via French from Latin divertere, from di- ‘aside’ + vertere ‘to turn’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause (someone or something) to change course or turn from one direction to another"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a scheme to divert water from the river to irrigate agricultural land"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0285430.009",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a vehicle or person) change course"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an aircraft has diverted and will be with you shortly"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0285430.019",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "reallocate (money or resources) to a different purpose"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "more of their advertising budget was diverted into promotions"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0285430.020"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "distract (someone) from something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she managed to divert Rose from the dangerous topic of Lady Usk"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0285430.022",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "draw the attention of (someone) away from tedious or serious concerns; entertain or amuse"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a diverting book"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0285430.023",
+                                            "notes": [
+                                                {
+                                                    "text": "usually as adjective \"diverting\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/divert_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dʌɪˈvəːt"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈvəːt"
+                        }
+                    ],
+                    "text": "divert"
+                }
+            ],
+            "type": "headword",
+            "word": "divert"
+        }
+    ]
+}

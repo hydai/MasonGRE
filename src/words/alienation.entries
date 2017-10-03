@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "alienation",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin alienatio(n-), from the verb alienare ‘estrange’, from alienus (see alien). The term alienation effect (1940s) is a translation of German Verfremdungseffekt"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the state or experience of being alienated"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a sense of alienation from our environment"
+                                        },
+                                        {
+                                            "text": "unemployment may generate a sense of political alienation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0022580.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(in Marxist theory) a condition of workers in a capitalist economy, resulting from a lack of identity with the products of their labour and a sense of being controlled or exploited."
+                                            ],
+                                            "domains": [
+                                                "Philosophy"
+                                            ],
+                                            "id": "m_en_gbus0022580.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a state of depersonalization or loss of identity in which the self seems unreal, thought to be caused by difficulties in relating to society and the resulting prolonged inhibition of emotion."
+                                            ],
+                                            "domains": [
+                                                "Psychiatry"
+                                            ],
+                                            "id": "m_en_gbus0022580.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "an effect sought by some dramatists, whereby the audience remains objective and does not identify with the actors."
+                                            ],
+                                            "domains": [
+                                                "Theatre"
+                                            ],
+                                            "id": "m_en_gbus0022580.011",
+                                            "variantForms": [
+                                                {
+                                                    "text": "alienation effect"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the transfer of the ownership of property rights"
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "most leases contain restrictions against alienation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0022580.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/alienation_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "eɪlɪəˈneɪʃ(ə)n"
+                        }
+                    ],
+                    "text": "alienation"
+                }
+            ],
+            "type": "headword",
+            "word": "alienation"
+        }
+    ]
+}

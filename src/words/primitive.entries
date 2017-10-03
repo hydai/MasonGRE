@@ -1,0 +1,286 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "primitive",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘original, not derivative’): from Old French primitif, -ive, from Latin primitivus ‘first of its kind’, from primus ‘first’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to, denoting, or preserving the character of an early stage in the evolutionary or historical development of something"
+                                    ],
+                                    "domains": [
+                                        "Biology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "primitive mammals"
+                                        },
+                                        {
+                                            "text": "Primitive Germanic"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0815370.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "relating to or denoting a preliterate, non-industrial society or culture characterized by simple social and economic organization"
+                                            ],
+                                            "domains": [
+                                                "Anthropology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "primitive people"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0815370.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of behaviour or emotion) apparently originating in unconscious needs or desires and unaffected by objective reasoning"
+                                            ],
+                                            "domains": [
+                                                "Psychology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the primitive responses we share with many animals"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0815370.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "of or denoting a simple, naive style of art that deliberately rejects sophisticated artistic techniques"
+                                            ],
+                                            "domains": [
+                                                "Art"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the Fauves saw primitive art as a liberating force"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0815370.010"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "very basic or unsophisticated in terms of comfort, convenience, or efficiency"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the accommodation at the camp was a bit primitive"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0815370.012"
+                                },
+                                {
+                                    "definitions": [
+                                        "not developed or derived from anything else"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "primitive material of the universe"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0815370.014",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "denoting a word, base, or root from which another is historically derived."
+                                            ],
+                                            "domains": [
+                                                "Linguistics"
+                                            ],
+                                            "id": "m_en_gbus0815370.015"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of an algebraic or geometric expression) from which another is derived, or which is not itself derived from another."
+                                            ],
+                                            "domains": [
+                                                "Mathematics"
+                                            ],
+                                            "id": "m_en_gbus0815370.017"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "See also primitive streak"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "primitive_streak",
+                                            "text": "primitive streak",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "(of a part or structure) in the first or early stage of formation or growth; rudimentary."
+                                    ],
+                                    "domains": [
+                                        "Biology"
+                                    ],
+                                    "id": "m_en_gbus0815370.019"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/primitive_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈprɪmɪtɪv"
+                        }
+                    ],
+                    "text": "primitive"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person belonging to a preliterate, non-industrial society"
+                                    ],
+                                    "domains": [
+                                        "Anthropology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "reports of travellers and missionaries described contemporary primitives"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0815370.022"
+                                },
+                                {
+                                    "definitions": [
+                                        "a pre-Renaissance painter, or one who imitates the pre-Renaissance style."
+                                    ],
+                                    "domains": [
+                                        "Art"
+                                    ],
+                                    "id": "m_en_gbus0815370.026",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an artist deliberately employing a simple, naive style"
+                                            ],
+                                            "domains": [
+                                                "Art"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the Catalan primitives"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0815370.028"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a painting by a primitive artist, or an object in a primitive style"
+                                            ],
+                                            "domains": [
+                                                "Art"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Ohio primitives such as treenware utensils"
+                                                },
+                                                {
+                                                    "text": "Santa Fe style antiques and Mexican primitives"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0815370.029"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a word, base, or root from which another is historically derived."
+                                    ],
+                                    "domains": [
+                                        "Linguistics"
+                                    ],
+                                    "id": "m_en_gbus0815370.031",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an algebraic or geometric expression from which another is derived; a curve of which another is the polar or reciprocal."
+                                            ],
+                                            "domains": [
+                                                "Mathematics"
+                                            ],
+                                            "id": "m_en_gbus0815370.033"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "any of a set of basic geometric shapes which may be generated in computer graphics"
+                                            ],
+                                            "domains": [
+                                                "Computing"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the program includes a complete set of drawing primitives"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0815370.034"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/primitive_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈprɪmɪtɪv"
+                        }
+                    ],
+                    "text": "primitive"
+                }
+            ],
+            "type": "headword",
+            "word": "primitive"
+        }
+    ]
+}

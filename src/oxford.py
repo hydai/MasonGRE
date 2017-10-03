@@ -19,6 +19,8 @@ class Oxford():
         self.query_builder = QueryBuilder(api_url)
 
     def query_entries(self, word_id):
+        print("=============================================")
+        print("WORD {} START.", word_id)
         url = self.query_builder.entries(word_id)
         r = requests.get(url,
                          headers={
@@ -28,11 +30,9 @@ class Oxford():
         if int(r.status_code) == 200:
             with open('./words/'+word_id+'.entries', 'w') as writter:
                 writter.write(r.text)
-        print("=============================================")
-        print("WORD {}\n", word_id)
-        print("code {}\n".format(r.status_code))
-        print("text \n" + r.text)
-        print("json \n" + json.dumps(r.json()))
+                print("WORD {} DONE.", word_id)
+        else:
+            print("WORD {} FAILED.", word_id)
 
 
 def main():

@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "seductive",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century: from seduction, on the pattern of pairs such as induction, inductive"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "tempting and attractive; enticing"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a seductive voice"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0917370.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/seductive_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "sɪˈdʌktɪv"
+                        }
+                    ],
+                    "text": "seductive"
+                }
+            ],
+            "type": "headword",
+            "word": "seductive"
+        }
+    ]
+}

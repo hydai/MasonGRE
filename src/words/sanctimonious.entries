@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "sanctimonious",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century (in the sense ‘holy in character’): from Latin sanctimonia ‘sanctity’ (from sanctus ‘holy’) + -ous"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "making a show of being morally superior to other people"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "what happened to all the sanctimonious talk about putting his family first?"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0897250.005",
+                                    "registers": [
+                                        "derogatory"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/sanctimonious_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌsaŋ(k)tɪˈməʊnɪəs"
+                        }
+                    ],
+                    "text": "sanctimonious"
+                }
+            ],
+            "type": "headword",
+            "word": "sanctimonious"
+        }
+    ]
+}

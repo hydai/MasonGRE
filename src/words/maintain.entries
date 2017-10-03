@@ -1,0 +1,154 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "maintain",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (also in the sense ‘practise an action habitually’): from Old French maintenir, from Latin manu tenere ‘hold in the hand’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause or enable (a condition or situation) to continue"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the need to maintain close links between industry and schools"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0609180.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "keep (something) at the same level or rate"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "agricultural prices will have to be maintained"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0609180.018"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "keep (a building, machine, or road) in good condition by checking or repairing it regularly"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the Department for Transport is responsible for maintaining the main roads in England"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0609180.019"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "provide with necessities for life or existence"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the allowance covers the basic costs of maintaining a child"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0609180.022",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "keep (a military unit) supplied with equipment and other requirements"
+                                            ],
+                                            "domains": [
+                                                "Military"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an English garrison was maintained there in the seventeenth century"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0609180.023"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "give one's support to; uphold"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the king swears he will maintain the laws of God"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0609180.024",
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "state something strongly to be the case; assert"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he had persistently maintained that he would not stand against his old friend"
+                                        },
+                                        {
+                                            "text": "he has always maintained his innocence"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0609180.026",
+                                    "notes": [
+                                        {
+                                            "text": "reporting verb",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/maintain_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "meɪnˈteɪn"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/maintain_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "mənˈteɪn"
+                        }
+                    ],
+                    "text": "maintain"
+                }
+            ],
+            "type": "headword",
+            "word": "maintain"
+        }
+    ]
+}

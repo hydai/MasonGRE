@@ -1,0 +1,104 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ridicule",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century: from French, or from Latin ridiculum, neuter (used as a noun) of ridiculus ‘laughable’, from ridere ‘to laugh’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the subjection of someone or something to contemptuous and dismissive language or behaviour"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he is held up as an object of ridicule"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0872980.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ridicule_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈrɪdɪkjuːl"
+                        }
+                    ],
+                    "text": "ridicule"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "subject to contemptuous and dismissive language or behaviour"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his theory was ridiculed and dismissed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0872980.008"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ridicule_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈrɪdɪkjuːl"
+                        }
+                    ],
+                    "text": "ridicule"
+                }
+            ],
+            "type": "headword",
+            "word": "ridicule"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "artful",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "clever or skilful, especially in a crafty or cunning way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "her artful wiles"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0049260.007"
+                                },
+                                {
+                                    "definitions": [
+                                        "showing creative skill or taste"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an artful photograph of a striking woman"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0049260.010"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɑːtf(ə)l"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/artful_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɑːtfʊl"
+                        }
+                    ],
+                    "text": "artful"
+                }
+            ],
+            "type": "headword",
+            "word": "artful"
+        }
+    ]
+}

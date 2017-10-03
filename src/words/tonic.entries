@@ -1,0 +1,167 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "tonic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from French tonique, from Greek tonikos ‘of or for stretching’, from tonos (see tone)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a medicinal substance taken to give a feeling of vigour or well-being."
+                                    ],
+                                    "domains": [
+                                        "Medicine"
+                                    ],
+                                    "id": "m_en_gbus1060690.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "something with an invigorating effect"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "being needed is a tonic for someone at my age"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1060690.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "short for tonic water"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "tonic_water",
+                                            "text": "tonic water",
+                                            "type": "abbreviation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1060690.011"
+                                },
+                                {
+                                    "definitions": [
+                                        "the first note in a scale which, in conventional harmony, provides the keynote of a piece of music."
+                                    ],
+                                    "domains": [
+                                        "Music"
+                                    ],
+                                    "id": "m_en_gbus1060690.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/tonic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈtɒnɪk"
+                        }
+                    ],
+                    "text": "tonic"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "giving a feeling of vigour or well-being; invigorating"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a tonic body shampoo"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1060690.016"
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to or denoting the first degree of a scale."
+                                    ],
+                                    "domains": [
+                                        "Music"
+                                    ],
+                                    "id": "m_en_gbus1060690.019"
+                                },
+                                {
+                                    "definitions": [
+                                        "denoting or relating to the syllable within a tone group that has greatest prominence, because it carries the main change of pitch."
+                                    ],
+                                    "domains": [
+                                        "Phonetics"
+                                    ],
+                                    "id": "m_en_gbus1060690.021"
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to or restoring normal tone to muscles or other organs."
+                                    ],
+                                    "domains": [
+                                        "Physiology"
+                                    ],
+                                    "id": "m_en_gbus1060690.023",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "relating to, denoting, or producing continuous muscular contraction."
+                                            ],
+                                            "domains": [
+                                                "Physiology"
+                                            ],
+                                            "id": "m_en_gbus1060690.024"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/tonic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈtɒnɪk"
+                        }
+                    ],
+                    "text": "tonic"
+                }
+            ],
+            "type": "headword",
+            "word": "tonic"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "robust",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin robustus ‘firm and hard’, from robus, earlier form of robur ‘oak, strength’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "strong and healthy; vigorous"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Caplan family are a robust lot"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0877860.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of an object) sturdy in construction"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a robust metal cabinet"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0877860.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a system, organization, etc.) able to withstand or overcome adverse conditions"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the country's political system has continued to be robust in spite of its economic problems"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0877860.013"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "uncompromising and forceful"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he took quite a robust view of my case"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0877860.014"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of wine or food) strong and rich in flavour or smell"
+                                    ],
+                                    "domains": [
+                                        "Wine"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a robust mixture of fish, onions, capers and tomatoes"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0877860.017"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/robust_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rə(ʊ)ˈbʌst"
+                        }
+                    ],
+                    "text": "robust"
+                }
+            ],
+            "type": "headword",
+            "word": "robust"
+        }
+    ]
+}

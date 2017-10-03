@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "lament",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as a verb): from French lamenter or Latin lamentari, from lamenta (plural) ‘weeping, wailing’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a passionate expression of grief or sorrow"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a song full of lament and sorrow"
+                                        },
+                                        {
+                                            "text": "his mother's night-long laments for his father"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0562670.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a song, piece of music, or poem expressing grief or sorrow"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the piper played a lament"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0562670.009"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a complaint"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there were constant laments about the conditions of employment"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0562670.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/lament_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ləˈmɛnt"
+                        }
+                    ],
+                    "text": "lament"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "express passionate grief about"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was lamenting the death of his infant daughter"
+                                        },
+                                        {
+                                            "text": "the women wept and lamented over him"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0562670.020",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "express regret or disappointment about something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "‘We could have won,’ lamented the England captain"
+                                        },
+                                        {
+                                            "text": "she lamented the lack of shops in the town"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0562670.027",
+                                    "notes": [
+                                        {
+                                            "text": "reporting verb",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/lament_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ləˈmɛnt"
+                        }
+                    ],
+                    "text": "lament"
+                }
+            ],
+            "type": "headword",
+            "word": "lament"
+        }
+    ]
+}

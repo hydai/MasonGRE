@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "wane",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English wanian ‘lessen’, of Germanic origin; related to Latin vanus ‘vain’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of the moon) have a progressively smaller part of its visible surface illuminated, so that it appears to decrease in size."
+                                    ],
+                                    "domains": [
+                                        "Astronomy"
+                                    ],
+                                    "id": "m_en_gbus1139960.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a state or feeling) decrease in vigour or extent; become weaker"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "confidence in the dollar waned"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1139960.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/wane_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "weɪn"
+                        }
+                    ],
+                    "text": "wane"
+                },
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from wane"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "200",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the amount by which a plank or log is bevelled or falls short of a squared shape"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I cut the log into slabs without removing the outside wane"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1139970.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/wane_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "weɪn"
+                        }
+                    ],
+                    "text": "wane"
+                }
+            ],
+            "type": "headword",
+            "word": "wane"
+        }
+    ]
+}

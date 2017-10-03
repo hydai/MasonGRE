@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "conflate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘fuse or melt down metal’): from Latin conflat- ‘kindled, fused’, from the verb conflare, from con- ‘together’ + flare ‘to blow’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "combine (two or more sets of information, texts, ideas, etc.) into one"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the urban crisis conflates a number of different economic, political, and social issues"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0210280.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconflate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈfleɪt"
+                        }
+                    ],
+                    "text": "conflate"
+                }
+            ],
+            "type": "headword",
+            "word": "conflate"
+        }
+    ]
+}

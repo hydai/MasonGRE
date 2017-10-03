@@ -1,0 +1,148 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "chimera",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Latin from Greek khimaira ‘she-goat or chimera’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(in Greek mythology) a fire-breathing female monster with a lion's head, a goat's body, and a serpent's tail."
+                                    ],
+                                    "domains": [
+                                        "Mythology"
+                                    ],
+                                    "id": "m_en_gbus0176650.011",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "any mythical animal formed from parts of various animals."
+                                            ],
+                                            "domains": [
+                                                "Mythology"
+                                            ],
+                                            "id": "m_en_gbus0176650.015"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a thing which is hoped for but is illusory or impossible to achieve"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the economic sovereignty you claim to defend is a chimera"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0176650.017"
+                                },
+                                {
+                                    "definitions": [
+                                        "an organism containing a mixture of genetically different tissues, formed by processes such as fusion of early embryos, grafting, or mutation"
+                                    ],
+                                    "domains": [
+                                        "Genetics",
+                                        "Biology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the sheeplike goat chimera"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0176650.019",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a DNA molecule with sequences derived from two or more different organisms, formed by laboratory manipulation."
+                                            ],
+                                            "domains": [
+                                                "Genetics",
+                                                "Biology"
+                                            ],
+                                            "id": "m_en_gbus0176650.020"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferences": [
+                                        {
+                                            "id": "ratfish",
+                                            "text": "ratfish",
+                                            "type": "see also"
+                                        },
+                                        {
+                                            "id": "rabbitfish",
+                                            "text": "rabbitfish",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "a cartilaginous marine fish with a long tail, an erect spine before the first dorsal fin, and typically a forward projection from the snout."
+                                    ],
+                                    "domains": [
+                                        "Fish"
+                                    ],
+                                    "id": "m_en_gbus0176650.022",
+                                    "notes": [
+                                        {
+                                            "text": "Subclass \"Hoplocephali\": three families, in particular \"Chimaeridae\". See also rabbitfish, ratfish",
+                                            "type": "technicalNote"
+                                        }
+                                    ],
+                                    "variantForms": [
+                                        {
+                                            "text": "chimaera"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "chimaera"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kɪˈmɪərə"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/chimera_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kʌɪˈmɪərə"
+                        }
+                    ],
+                    "text": "chimera"
+                }
+            ],
+            "type": "headword",
+            "word": "chimera"
+        }
+    ]
+}

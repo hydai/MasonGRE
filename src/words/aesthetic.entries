@@ -1,0 +1,136 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "aesthetic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 18th century (in the sense ‘relating to perception by the senses’): from Greek aisthētikos, from aisthēta ‘perceptible things’, from aisthesthai ‘perceive’. The sense ‘concerned with beauty’ was coined in German in the mid 18th century and adopted into English in the early 19th century, but its use was controversial until much later in the century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "concerned with beauty or the appreciation of beauty"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the pictures give great aesthetic pleasure"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0013400.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "giving or designed to give pleasure through beauty"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the law applies to both functional and aesthetic objects"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0013400.011"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "esthetic"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/aesthetic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "iːsˈθɛtɪk"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛsˈθɛtɪk"
+                        }
+                    ],
+                    "text": "aesthetic"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a set of principles underlying the work of a particular artist or artistic movement"
+                                    ],
+                                    "domains": [
+                                        "Art"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the Cubist aesthetic"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0013400.013"
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "esthetic"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/aesthetic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "iːsˈθɛtɪk"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛsˈθɛtɪk"
+                        }
+                    ],
+                    "text": "aesthetic"
+                }
+            ],
+            "type": "headword",
+            "word": "aesthetic"
+        }
+    ]
+}

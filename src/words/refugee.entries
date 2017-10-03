@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "refugee",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century: from French réfugié ‘gone in search of refuge’, past participle of ( se) réfugier, from refuge (see refuge)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who has been forced to leave their country in order to escape war, persecution, or natural disaster"
+                                    ],
+                                    "domains": [
+                                        "Politics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a refugee camp"
+                                        },
+                                        {
+                                            "text": "tens of thousands of refugees fled their homes"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0856900.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/refugee_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɛfjʊˈdʒiː"
+                        }
+                    ],
+                    "text": "refugee"
+                }
+            ],
+            "type": "headword",
+            "word": "refugee"
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "replicate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘repeat’): from Latin replicat-, from the verb replicare, from re- ‘back, again’ + plicare ‘to fold’. The current senses date from the late 19th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make an exact copy of; reproduce"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it might be impractical to replicate Eastern culture in the west"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0862830.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of genetic material or a living organism) reproduce or give rise to a copy of itself"
+                                            ],
+                                            "domains": [
+                                                "Biology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "interleukin-16 prevents the virus from replicating itself"
+                                                },
+                                                {
+                                                    "text": "in order to replicate, cells must make copies of their DNA"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0862830.011",
+                                            "notes": [
+                                                {
+                                                    "text": "\"replicate itself\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "repeat (a scientific experiment or trial) to obtain a consistent result"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "these findings have been replicated by Metzger and Antes"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0862830.012"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/replicate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈrɛplɪkeɪt"
+                        }
+                    ],
+                    "text": "replicate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of the nature of a copy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a replicate Earth"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0862830.017",
+                                    "notes": [
+                                        {
+                                            "text": "attributive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "of the nature of a repetition of a scientific experiment or trial"
+                                            ],
+                                            "domains": [
+                                                "Biology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the variation of replicate measurements"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0862830.019"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/replicate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈrɛplɪkət"
+                        }
+                    ],
+                    "text": "replicate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "002",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a close or exact copy; a replica"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "young reptiles should not be considered merely small replicates of adults"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0862830.025",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a repeated experiment or trial"
+                                            ],
+                                            "domains": [
+                                                "Biology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "five replicates were performed per dilution"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0862830.028"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a tone one or more octaves above or below the given tone."
+                                    ],
+                                    "domains": [
+                                        "Music"
+                                    ],
+                                    "id": "m_en_gbus0862830.030"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/replicate_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈrɛplɪkət"
+                        }
+                    ],
+                    "text": "replicate"
+                }
+            ],
+            "type": "headword",
+            "word": "replicate"
+        }
+    ]
+}

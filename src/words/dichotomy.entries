@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "dichotomy",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: via modern Latin from Greek dikhotomia, from dikho- ‘in two, apart’ + -tomia (see -tomy)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a division or contrast between two things that are or are represented as being opposed or entirely different"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a rigid dichotomy between science and mysticism"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0273420.007",
+                                    "notes": [
+                                        {
+                                            "text": "usually in singular",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "repeated branching into two equal parts."
+                                    ],
+                                    "domains": [
+                                        "Botany"
+                                    ],
+                                    "id": "m_en_gbus0273420.012",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        },
+                                        {
+                                            "text": "usually in singular",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈkɒtəmi"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/dichotomy_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dʌɪˈkɒtəmi"
+                        }
+                    ],
+                    "text": "dichotomy"
+                }
+            ],
+            "type": "headword",
+            "word": "dichotomy"
+        }
+    ]
+}

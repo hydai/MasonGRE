@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "exasperate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin exasperat- ‘irritated to anger’, from the verb exasperare (based on asper ‘rough’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "irritate intensely; infuriate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "this futile process exasperates prison officers"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0339200.006"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/exasperate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪɡˈzasp(ə)reɪt"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛɡˈzasp(ə)reɪt"
+                        }
+                    ],
+                    "text": "exasperate"
+                }
+            ],
+            "type": "headword",
+            "word": "exasperate"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "discern",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Old French from Latin discernere, from dis- ‘apart’ + cernere ‘to separate’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "recognize or find out"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "pupils quickly discern what is acceptable to the teacher"
+                                        },
+                                        {
+                                            "text": "I can discern no difference between the two policies"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0279700.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "distinguish (someone or something) with difficulty by sight or with the other senses"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she could faintly discern the shape of a skull"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0279700.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/discern_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈsəːn"
+                        }
+                    ],
+                    "text": "discern"
+                }
+            ],
+            "type": "headword",
+            "word": "discern"
+        }
+    ]
+}

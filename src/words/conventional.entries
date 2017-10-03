@@ -1,0 +1,116 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "conventional",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century (in the sense ‘relating to a formal agreement or convention’): from French conventionnel or late Latin conventionalis, from Latin conventio(n-) ‘meeting, covenant’, from the verb convenire (see convene)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "based on or in accordance with what is generally done or believed"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a conventional morality had dictated behaviour"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0216290.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) greatly or overly concerned with what is generally held to be socially acceptable"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "you're a bit too well-brought-up, a bit too conventional"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0216290.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a work of art or literature) following traditional forms and genres"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "conventional love poetry"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0216290.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of weapons or power) non-nuclear"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "agreement on reducing conventional forces in Europe"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0216290.010"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Often contrasted with natural"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "natural",
+                                            "text": "natural",
+                                            "type": "related"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "(of a bid) intended to convey a particular meaning according to an agreed convention"
+                                    ],
+                                    "domains": [
+                                        "Bridge"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "West made a conventional bid showing a hand with at least 5 spades"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0216290.012"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconventional_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈvɛnʃ(ə)n(ə)l"
+                        }
+                    ],
+                    "text": "conventional"
+                }
+            ],
+            "type": "headword",
+            "word": "conventional"
+        }
+    ]
+}

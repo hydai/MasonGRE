@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "precede",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French preceder, from Latin praecedere, from prae ‘before’ + cedere ‘go’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "come before (something) in time"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a gun battle had preceded the explosions"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0808600.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "come before in order or position"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the preceding pages"
+                                                },
+                                                {
+                                                    "text": "take time to read the chapters that precede the recipes"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0808600.015"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "go in front or ahead of"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he let her precede him through the gate"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0808600.016"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "preface or introduce something with"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he preceded the book with a collection of poems"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0808600.017",
+                                            "notes": [
+                                                {
+                                                    "text": "\"precede something with\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/precede_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prɪˈsiːd"
+                        }
+                    ],
+                    "text": "precede"
+                }
+            ],
+            "type": "headword",
+            "word": "precede"
+        }
+    ]
+}

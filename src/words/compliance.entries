@@ -1,0 +1,110 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "compliance",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the action or fact of complying with a wish or command"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the ways in which the state maintains order and compliance"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0206400.009",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "excessive acquiescence"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the appalling compliance with government views shown by the commission"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0206400.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the state or fact of according with or meeting rules or standards"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "this paper estimates the compliance costs of such a policy change"
+                                                },
+                                                {
+                                                    "text": "all imports of timber are in compliance with regulations"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0206400.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the property of a material of undergoing elastic deformation or (of a gas) change in volume when subjected to an applied force. It is equal to the reciprocal of stiffness."
+                                    ],
+                                    "domains": [
+                                        "Physics"
+                                    ],
+                                    "id": "m_en_gbus0206400.014",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the ability of an organ to distend in response to applied pressure."
+                                            ],
+                                            "domains": [
+                                                "Medicine"
+                                            ],
+                                            "id": "m_en_gbus0206400.015"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "compliancy"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/compliance_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kəmˈplʌɪəns"
+                        }
+                    ],
+                    "text": "compliance"
+                }
+            ],
+            "type": "headword",
+            "word": "compliance"
+        }
+    ]
+}

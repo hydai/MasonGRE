@@ -1,0 +1,38 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "at_odds",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "in conflict or at variance"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his behaviour is at odds with the interests of the company"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0711750.017"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Idiomatic",
+                    "text": "at odds"
+                }
+            ],
+            "type": "headword",
+            "word": "at odds"
+        }
+    ]
+}

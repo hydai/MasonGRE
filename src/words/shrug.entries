@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "shrug",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘fidget’): of unknown origin"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "raise (one's shoulders) slightly and momentarily to express doubt, ignorance, or indifference"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Jimmy looked enquiringly at Pete, who shrugged his shoulders"
+                                        },
+                                        {
+                                            "text": "he just shrugged and didn't look interested"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0941310.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "dismiss something as unimportant"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the managing director shrugged off the criticism"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0941310.013",
+                                            "notes": [
+                                                {
+                                                    "text": "\"shrug something off\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/shrug_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ʃrʌɡ"
+                        }
+                    ],
+                    "text": "shrug"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an act or instance of shrugging one's shoulders"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she lifted her shoulders in a dismissive shrug"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0941310.018"
+                                },
+                                {
+                                    "definitions": [
+                                        "a woman's close-fitting cardigan or jacket, cut short at the front and back so that only the arms and shoulders are covered."
+                                    ],
+                                    "domains": [
+                                        "Clothing",
+                                        "Fashion"
+                                    ],
+                                    "id": "m_en_gbus0941310.022"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/shrug_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ʃrʌɡ"
+                        }
+                    ],
+                    "text": "shrug"
+                }
+            ],
+            "type": "headword",
+            "word": "shrug"
+        }
+    ]
+}

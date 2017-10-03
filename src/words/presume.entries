@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "presume",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French presumer, from Latin praesumere ‘anticipate’ (in late Latin ‘take for granted’), from prae ‘before’ + sumere ‘take’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "suppose that something is the case on the basis of probability"
+                                    ],
+                                    "domains": [
+                                        "Logic"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I presumed that the man had been escorted from the building"
+                                        },
+                                        {
+                                            "text": "two of the journalists went missing and are presumed dead"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0813380.007",
+                                    "notes": [
+                                        {
+                                            "text": "with clause",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "take for granted that something exists or is the case"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the argument presumes that only one person can do the work"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0813380.013"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "be arrogant or impertinent enough to do something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "kindly don't presume to issue me orders in my own house"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0813380.015",
+                                    "notes": [
+                                        {
+                                            "text": "no object, with infinitive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "make unjustified demands; take liberties"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "forgive me if I have presumed"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0813380.016",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "unjustifiably regard (something) as entitling one to privileges"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he was wary of presuming on the close friendship between them"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0813380.017",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                },
+                                                {
+                                                    "text": "\"presume on/upon\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/presume_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prɪˈzjuːm"
+                        }
+                    ],
+                    "text": "presume"
+                }
+            ],
+            "type": "headword",
+            "word": "presume"
+        }
+    ]
+}

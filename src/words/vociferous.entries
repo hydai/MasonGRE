@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "vociferous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "expressing or characterized by vehement opinions; loud and forceful"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was a vociferous opponent of the takeover"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1133990.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/vociferous_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "və(ʊ)ˈsɪf(ə)rəs"
+                        }
+                    ],
+                    "text": "vociferous"
+                }
+            ],
+            "type": "headword",
+            "word": "vociferous"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "polemical",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of or involving strongly critical or disputatious writing or speech"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a polemical essay"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0794930.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/polemical_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pəˈlɛmɪkəl"
+                        }
+                    ],
+                    "text": "polemical"
+                }
+            ],
+            "type": "headword",
+            "word": "polemical"
+        }
+    ]
+}

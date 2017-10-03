@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "presage",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as a noun): via French from Latin praesagium, from praesagire ‘forebode’, from prae ‘before’ + sagire ‘perceive keenly’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "be a sign or warning of (an imminent event, typically an unwelcome one)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the heavy clouds above the moorland presaged snow"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0812020.010",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) predict"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "lands he could measure, terms and tides presage"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0812020.016",
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/presage_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈprɛsɪdʒ"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/presage_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prɪˈseɪdʒ"
+                        }
+                    ],
+                    "text": "presage"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an omen or portent"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the fever was a sombre presage of his final illness"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0812020.018",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a feeling of presentiment or foreboding"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he had a strong presage that he had only a very short time to live"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0812020.021",
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/presage_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈprɛsɪdʒ"
+                        }
+                    ],
+                    "text": "presage"
+                }
+            ],
+            "type": "headword",
+            "word": "presage"
+        }
+    ]
+}

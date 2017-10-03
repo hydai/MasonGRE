@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "recalcitrant",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 19th century: from Latin recalcitrant- ‘kicking out with the heels’, from the verb recalcitrare, based on calx, calc- ‘heel’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having an obstinately uncooperative attitude towards authority or discipline"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a class of recalcitrant fifteen-year-olds"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0850360.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/recalcitrant_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈkalsɪtr(ə)nt"
+                        }
+                    ],
+                    "text": "recalcitrant"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person with a recalcitrant attitude"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a stiff-necked recalcitrant and troublemaker"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0850360.008"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/recalcitrant_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈkalsɪtr(ə)nt"
+                        }
+                    ],
+                    "text": "recalcitrant"
+                }
+            ],
+            "type": "headword",
+            "word": "recalcitrant"
+        }
+    ]
+}

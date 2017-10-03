@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "impassioned",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "filled with or showing great emotion"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she made an impassioned plea for help"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0498200.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/impassioned_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪmˈpaʃ(ə)nd"
+                        }
+                    ],
+                    "text": "impassioned"
+                }
+            ],
+            "type": "headword",
+            "word": "impassioned"
+        }
+    ]
+}

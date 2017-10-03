@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "negate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century (in negate (sense 1, negate sense 3)): from Latin negat- ‘denied’, from the verb negare"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make ineffective; nullify"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "alcohol negates the effects of the drug"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0683530.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "make (a clause, sentence, or proposition) negative in meaning."
+                                    ],
+                                    "domains": [
+                                        "Grammar"
+                                    ],
+                                    "id": "m_en_gbus0683530.013"
+                                },
+                                {
+                                    "definitions": [
+                                        "deny the existence of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "negating the political nature of education"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0683530.015"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/negate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "nɪˈɡeɪt"
+                        }
+                    ],
+                    "text": "negate"
+                }
+            ],
+            "type": "headword",
+            "word": "negate"
+        }
+    ]
+}

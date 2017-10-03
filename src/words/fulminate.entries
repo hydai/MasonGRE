@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "fulminate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin fulminat- ‘struck by lightning’, from fulmen, fulmin- ‘lightning’. The earliest sense (derived from medieval Latin fulminare) was ‘denounce formally’, later ‘issue formal censures’ (originally said of the Pope). A sense ‘emit thunder and lightning’, based on the original Latin meaning, arose in the early 17th century, and hence ‘explode violently’ (late 17th century)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "express vehement protest"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "all fulminated against the new curriculum"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0395260.007"
+                                },
+                                {
+                                    "definitions": [
+                                        "explode violently or flash like lightning"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "thunder fulminated around the house"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0395260.018",
+                                    "registers": [
+                                        "literary"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a disease or symptom) develop suddenly and severely"
+                                    ],
+                                    "domains": [
+                                        "Pathology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "fulminating appendicitis"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0395260.020",
+                                    "notes": [
+                                        {
+                                            "text": "usually as adjective \"fulminating\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/fulminate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfʊlmɪneɪt"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfʌlmɪneɪt"
+                        }
+                    ],
+                    "text": "fulminate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a salt or ester of fulminic acid."
+                                    ],
+                                    "domains": [
+                                        "Chemistry"
+                                    ],
+                                    "id": "m_en_gbus0395260.035"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/fulminate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfʊlmɪneɪt"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfʌlmɪneɪt"
+                        }
+                    ],
+                    "text": "fulminate"
+                }
+            ],
+            "type": "headword",
+            "word": "fulminate"
+        }
+    ]
+}

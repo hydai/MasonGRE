@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "pellucid",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin pellucidus, from perlucere ‘shine through’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "translucently clear"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "mountains reflected in the pellucid waters"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0761360.006",
+                                    "registers": [
+                                        "literary"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "easily understood; lucid"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he writes, as always, in pellucid prose"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0761360.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of music or other sound) clear and pure in tone"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his pellucid singing tone"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0761360.009"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/pellucid_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pɪˈl(j)uːsɪd"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pɛˈl(j)uːsɪd"
+                        }
+                    ],
+                    "text": "pellucid"
+                }
+            ],
+            "type": "headword",
+            "word": "pellucid"
+        }
+    ]
+}

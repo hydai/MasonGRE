@@ -1,0 +1,157 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "peculiar",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘particular’): from Latin peculiaris ‘of private property’, from peculium ‘property’, from pecu ‘cattle’ (cattle being private property). The sense ‘strange’ dates from the early 17th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "different to what is normal or expected; strange"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he gave her some very peculiar looks"
+                                        },
+                                        {
+                                            "text": "Stella thought the play peculiar"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0759500.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "slightly and indefinably unwell"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I felt a little peculiar for a while"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0759500.008",
+                                            "notes": [
+                                                {
+                                                    "text": "predicative",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                "informal"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "particular; special"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "any attempt to explicate the theme is bound to run into peculiar difficulties"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0759500.010",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "belonging exclusively to"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "some languages are peculiar to one region"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0759500.011",
+                                            "notes": [
+                                                {
+                                                    "text": "\"peculiar to\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/peculiar_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pɪˈkjuːlɪə"
+                        }
+                    ],
+                    "text": "peculiar"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a parish or church exempt from the jurisdiction of the diocese in which it lies, and subject to the direct jurisdiction of the monarch or an archbishop"
+                                    ],
+                                    "domains": [
+                                        "Ecclesiastical"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "deans and canons of royal peculiars, notably Westminster Abbey and Windsor"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0759500.013",
+                                    "regions": [
+                                        "British"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/peculiar_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pɪˈkjuːlɪə"
+                        }
+                    ],
+                    "text": "peculiar"
+                }
+            ],
+            "type": "headword",
+            "word": "peculiar"
+        }
+    ]
+}

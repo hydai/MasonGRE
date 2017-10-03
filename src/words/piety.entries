@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "piety",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 16th century (in the sense ‘devotion to religious observances’): from Old French piete, from Latin pietas ‘dutifulness’, from pius (see pious)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the quality of being religious or reverent"
+                                    ],
+                                    "domains": [
+                                        "Religion"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "acts of piety and charity"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0779920.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a belief which is accepted with unthinking conventional reverence"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the accepted pieties of our time"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0779920.008",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/piety_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈpʌɪəti"
+                        }
+                    ],
+                    "text": "piety"
+                }
+            ],
+            "type": "headword",
+            "word": "piety"
+        }
+    ]
+}

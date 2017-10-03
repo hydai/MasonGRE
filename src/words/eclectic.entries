@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "eclectic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century (as a term in philosophy): from Greek eklektikos, from eklegein ‘pick out’, from ek ‘out’ + legein ‘choose’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "deriving ideas, style, or taste from a broad and diverse range of sources"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "universities offering an eclectic mix of courses"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0310390.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "denoting or belonging to a class of ancient philosophers who did not belong to or found any recognized school of thought but selected doctrines from various schools of thought."
+                                    ],
+                                    "domains": [
+                                        "Philosophy"
+                                    ],
+                                    "id": "m_en_gbus0310390.009",
+                                    "variantForms": [
+                                        {
+                                            "text": "Eclectic"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/eclectic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˈklɛktɪk"
+                        }
+                    ],
+                    "text": "eclectic"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who derives ideas, style, or taste from a broad and diverse range of sources."
+                                    ],
+                                    "id": "m_en_gbus0310390.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/eclectic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˈklɛktɪk"
+                        }
+                    ],
+                    "text": "eclectic"
+                }
+            ],
+            "type": "headword",
+            "word": "eclectic"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "suffrage",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘intercessory prayers’, also ‘assistance’): from Latin suffragium, reinforced by French suffrage. The modern sense of ‘right to vote’ was originally US (dating from the late 18th century)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the right to vote in political elections"
+                                    ],
+                                    "domains": [
+                                        "Electoral"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "universal adult suffrage"
+                                        },
+                                        {
+                                            "text": "the women's suffrage movement"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1010310.006",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a vote given in assent to a proposal or in favour of the election of a particular person"
+                                            ],
+                                            "domains": [
+                                                "Electoral"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the suffrages of the community"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1010310.008",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(in the Book of Common Prayer) the intercessory petitions pronounced by a priest in the Litany."
+                                    ],
+                                    "domains": [
+                                        "Ecclesiastical"
+                                    ],
+                                    "id": "m_en_gbus1010310.013",
+                                    "notes": [
+                                        {
+                                            "text": "usually \"suffrages\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a series of petitions pronounced by the priest with the responses of the congregation."
+                                            ],
+                                            "domains": [
+                                                "Ecclesiastical"
+                                            ],
+                                            "id": "m_en_gbus1010310.014"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "intercessory prayers, especially those for the dead."
+                                            ],
+                                            "domains": [
+                                                "Ecclesiastical"
+                                            ],
+                                            "id": "m_en_gbus1010310.015",
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/suffrage_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈsʌfrɪdʒ"
+                        }
+                    ],
+                    "text": "suffrage"
+                }
+            ],
+            "type": "headword",
+            "word": "suffrage"
+        }
+    ]
+}

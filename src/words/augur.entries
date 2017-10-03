@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "augur",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as a noun): from Latin, ‘diviner’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "The spellings augur (a verb meaning ‘portend a good or bad outcome’, as in this augurs well) and auger (a type of tool used for boring) are sometimes confused, but the two words are quite different in both their present meaning and their origins",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of an event or circumstance) portend a good or bad outcome"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the end of the cold war seemed to augur well"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0057780.005",
+                                    "notes": [
+                                        {
+                                            "text": "\"augur well/badly/ill\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "portend or bode (a specified outcome)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they feared that these happenings augured a neo-Nazi revival"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0057780.011",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "foresee or predict."
+                                            ],
+                                            "id": "m_en_gbus0057780.012",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ],
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/augur_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɔːɡə"
+                        }
+                    ],
+                    "text": "augur"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "notes": [
+                                {
+                                    "text": "The spellings augur (a verb meaning ‘portend a good or bad outcome’, as in this augurs well) and auger (a type of tool used for boring) are sometimes confused, but the two words are quite different in both their present meaning and their origins",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(in ancient Rome) a religious official who observed natural signs, especially the behaviour of birds, interpreting these as an indication of divine approval or disapproval of a proposed action."
+                                    ],
+                                    "domains": [
+                                        "Roman History"
+                                    ],
+                                    "id": "m_en_gbus0057780.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/augur_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɔːɡə"
+                        }
+                    ],
+                    "text": "augur"
+                }
+            ],
+            "type": "headword",
+            "word": "augur"
+        }
+    ]
+}

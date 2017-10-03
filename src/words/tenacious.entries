@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "tenacious",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin tenax, tenac- (from tenere ‘to hold’) + -ious"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "tending to keep a firm hold of something; clinging or adhering closely"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a tenacious grip"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1038860.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "not readily relinquishing a position, principle, or course of action; determined"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "this tenacious defence of local liberties"
+                                                },
+                                                {
+                                                    "text": "you're tenacious and you get at the truth"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1038860.007"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "persisting in existence; not easily dispelled"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a tenacious local legend"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1038860.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/tenacious_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "tɪˈneɪʃəs"
+                        }
+                    ],
+                    "text": "tenacious"
+                }
+            ],
+            "type": "headword",
+            "word": "tenacious"
+        }
+    ]
+}

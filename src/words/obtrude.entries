@@ -1,0 +1,80 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "obtrude",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin obtrudere, from ob- ‘towards’ + trudere ‘to push’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "become noticeable in an unwelcome or intrusive way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a sound from the reception hall obtruded into his thoughts"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0709720.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "impose or force (something) on someone in an unwelcome or intrusive way"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I felt unable to obtrude my private sorrow upon anyone"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0709720.015",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/obtrude_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əbˈtruːd"
+                        }
+                    ],
+                    "text": "obtrude"
+                }
+            ],
+            "type": "headword",
+            "word": "obtrude"
+        }
+    ]
+}

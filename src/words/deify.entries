@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "deify",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘make godlike in character’): from Old French deifier, from ecclesiastical Latin deificare, from deus ‘god’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "worship or regard as a god"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she was deified by the early Romans as a fertility goddess"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0260950.009"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/deify_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdeɪɪfʌɪ"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdiːɪfʌɪ"
+                        }
+                    ],
+                    "text": "deify"
+                }
+            ],
+            "type": "headword",
+            "word": "deify"
+        }
+    ]
+}

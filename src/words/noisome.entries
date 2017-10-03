@@ -1,0 +1,76 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "noisome",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from obsolete noy (shortened form of annoy) + -some"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "having an extremely offensive smell"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "noisome vapours from the smouldering waste"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0694890.006",
+                                    "registers": [
+                                        "literary"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "very disagreeable or unpleasant"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a noisome concoction of which cheap port is the basis"
+                                                },
+                                                {
+                                                    "text": "even if a journalist wanted to deliver the noisome truth, patriotism and censorship would prevent him"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0694890.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/noisome_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈnɔɪs(ə)m"
+                        }
+                    ],
+                    "text": "noisome"
+                }
+            ],
+            "type": "headword",
+            "word": "noisome"
+        }
+    ]
+}

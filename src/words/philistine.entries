@@ -1,0 +1,144 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "philistine",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century: from Philistine, originally with reference to a confrontation between university students and townspeople in Jena, Germany, in the late 17th century; a sermon on the conflict quoted ‘the Philistines are upon you’ (Judges 16), which led to an association between the townspeople and those hostile to culture"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who is hostile or indifferent to culture and the arts"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I am a complete philistine when it comes to paintings"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0773810.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/philistine_1_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfɪlɪstʌɪn"
+                        }
+                    ],
+                    "text": "philistine"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "hostile or indifferent to culture and the arts"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a philistine government"
+                                        },
+                                        {
+                                            "text": "there were displays to inspire even the most philistine of visitors"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0773810.009"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/philistine_1_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfɪlɪstʌɪn"
+                        }
+                    ],
+                    "text": "philistine"
+                },
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English: from late Latin Philistinus from Greek Philistinos, from Hebrew pĕlištī: compare with Palestine. See also philistine"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "002",
+                            "notes": [
+                                {
+                                    "text": "The Philistines, from whom the country of Palestine took its name, were one of the Sea Peoples who, according to the Bible, came from Crete and settled the southern coastal plain of Canaan in the 12th century BC",
+                                    "type": "encyclopedicNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a member of a non-Semitic people of ancient southern Palestine, who came into conflict with the Israelites during the 12th and 11th centuries BC."
+                                    ],
+                                    "domains": [
+                                        "Ancient History",
+                                        "People",
+                                        "Biblical"
+                                    ],
+                                    "id": "m_en_gbus0773820.008"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/philistine_1_gb_1_8.mp3",
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈfɪlɪstʌɪn"
+                        }
+                    ],
+                    "text": "Philistine"
+                }
+            ],
+            "type": "headword",
+            "word": "philistine"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "homogeneous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century (as homogeneity): from medieval Latin homogeneus, from Greek homogenēs, from homos ‘same’ + genos ‘race, kind’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "The usual spelling is homogeneous, and the spelling homogenous is traditionally regarded as an error. Homogenous is a different word, a specialized biological term meaning ‘having a common descent’, which has been largely replaced by homologous. From the evidence of the Oxford English Corpus, the spelling homogeneous has become significantly less common since 2000, and around a third of citations for the word now use the form homogenous. This can now be regarded as an established variant",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of the same kind; alike"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "if all jobs and workers were homogeneous"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0476100.011",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "consisting of parts all of the same kind"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a homogeneous society"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0476100.013"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "containing terms all of the same degree."
+                                            ],
+                                            "domains": [
+                                                "Mathematics"
+                                            ],
+                                            "id": "m_en_gbus0476100.014"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "denoting a process involving substances in the same phase (solid, liquid, or gaseous)"
+                                    ],
+                                    "domains": [
+                                        "Chemistry"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "homogeneous catalysis"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0476100.016"
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "homogenous"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/homogeneous_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌhɒmə(ʊ)ˈdʒiːnɪəs"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌhəʊmə(ʊ)ˈdʒiːnɪəs"
+                        }
+                    ],
+                    "text": "homogeneous"
+                }
+            ],
+            "type": "headword",
+            "word": "homogeneous"
+        }
+    ]
+}

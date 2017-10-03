@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "conjure",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (also in the sense ‘oblige by oath’): from Old French conjurer ‘to plot or exorcise’, from Latin conjurare ‘band together by an oath, conspire’ (in medieval Latin ‘invoke’), from con- ‘together’ + jurare ‘swear’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause (a spirit or ghost) to appear by means of a magic ritual"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they hoped to conjure up the spirit of their dead friend"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0211450.008",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        },
+                                        {
+                                            "text": "often \"conjure something up\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "make (something) appear unexpectedly or seemingly from nowhere"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Anne conjured up a delicious home-made hotpot"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0211450.014"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "call (an image) to the mind"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she had forgotten how to conjure up the image of her mother's face"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0211450.017"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a word, sound, smell, etc.) cause someone to think of (something)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a special tune that conjures up a particular time and place"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0211450.018"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "implore (someone) to do something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she conjured him to return"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0211450.020",
+                                    "notes": [
+                                        {
+                                            "text": "with object and infinitive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "pronunciations": [
+                                        {
+                                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconjure_gb_2_8.mp3",
+                                            "dialects": [
+                                                "British English"
+                                            ],
+                                            "phoneticNotation": "IPA",
+                                            "phoneticSpelling": "kənˈdʒʊə"
+                                        },
+                                        {
+                                            "dialects": [
+                                                "British English"
+                                            ],
+                                            "phoneticNotation": "IPA",
+                                            "phoneticSpelling": "kənˈdʒɔː"
+                                        }
+                                    ],
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconjure_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkʌndʒə"
+                        }
+                    ],
+                    "text": "conjure"
+                }
+            ],
+            "type": "headword",
+            "word": "conjure"
+        }
+    ]
+}

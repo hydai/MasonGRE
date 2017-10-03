@@ -1,0 +1,120 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "retrospective",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "looking back on or dealing with past events or situations"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "our survey was retrospective"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0868410.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of an exhibition or compilation) showing the development of an artist's work over a period of time"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a retrospective collection of albums spanning the course of his entire career"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0868410.007"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a statute or legal decision) taking effect from a date in the past"
+                                            ],
+                                            "domains": [
+                                                "Law"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "retrospective pay awards"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0868410.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/retrospective_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɛtrə(ʊ)ˈspɛktɪv"
+                        }
+                    ],
+                    "text": "retrospective"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an exhibition or compilation showing the development of an artist's work over a period of time"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a Georgia O'Keeffe retrospective"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0868410.010"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/retrospective_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɛtrə(ʊ)ˈspɛktɪv"
+                        }
+                    ],
+                    "text": "retrospective"
+                }
+            ],
+            "type": "headword",
+            "word": "retrospective"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "ideology",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 18th century (in ideology (sense 2)): from French idéologie, from Greek idea ‘form, pattern’ + -logos (denoting discourse or compilation)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a system of ideas and ideals, especially one which forms the basis of economic or political theory and policy"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the ideology of republicanism"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0493800.011",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the set of beliefs characteristic of a social group or individual"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a critique of bourgeois ideology"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0493800.014"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the science of ideas; the study of their origin and nature."
+                                    ],
+                                    "id": "m_en_gbus0493800.016",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "registers": [
+                                        "archaic"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "visionary speculation, especially of an unrealistic or idealistic nature."
+                                            ],
+                                            "id": "m_en_gbus0493800.018",
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/ideology_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌʌɪdɪˈɒlədʒi"
+                        }
+                    ],
+                    "text": "ideology"
+                }
+            ],
+            "type": "headword",
+            "word": "ideology"
+        }
+    ]
+}

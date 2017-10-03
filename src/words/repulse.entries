@@ -1,0 +1,147 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "repulse",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin repuls- ‘driven back’, from the verb repellere (see repel)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "drive back (an attack or attacker) by force"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "rioters tried to storm the Ministry but were repulsed by police"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0863750.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "reject or rebuff (an approach or offer or the person making it)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she left, feeling hurt because she had been repulsed"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0863750.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "cause to feel intense distaste and aversion"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "audiences were repulsed by the film's brutality"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0863750.015"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/repulse_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈpʌls"
+                        }
+                    ],
+                    "text": "repulse"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the action of driving back an attack or of being driven back"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the repulse of the invaders"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0863750.017",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a discouraging response to an offer or approach"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "his evasion of her scheme had been another repulse"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0863750.019",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/repulse_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈpʌls"
+                        }
+                    ],
+                    "text": "repulse"
+                }
+            ],
+            "type": "headword",
+            "word": "repulse"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "embody",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from em- + body, on the pattern of Latin incorporare"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "be an expression of or give a tangible or visible form to (an idea, quality, or feeling)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a national team that embodies competitive spirit and skill"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0319850.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "provide (a spirit) with a physical form"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "nothing of the personality of the Spirit as embodied in Jesus will be lost"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0319850.017"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "include or contain (something) as a constituent part"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the changes in law embodied in the Children Act"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0319850.019"
+                                },
+                                {
+                                    "definitions": [
+                                        "form (people) into a body, especially for military purposes"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Livius embodied the population of the town"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0319850.021",
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛmˈbɒdi"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/embody_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪmˈbɒdi"
+                        }
+                    ],
+                    "text": "embody"
+                }
+            ],
+            "type": "headword",
+            "word": "embody"
+        }
+    ]
+}

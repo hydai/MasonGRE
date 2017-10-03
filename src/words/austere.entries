@@ -1,0 +1,89 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "austere",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: via Old French from Latin austerus, from Greek austēros ‘severe’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "severe or strict in manner or attitude"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was an austere man, with a rigidly puritanical outlook"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0058400.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of living conditions or a way of life) having no comforts or luxuries"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "conditions in the prison could hardly be more austere"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0058400.014"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "having a plain and unadorned appearance"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the cathedral is impressive in its austere simplicity"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0058400.015"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/austere_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɒˈstɪə"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/austere_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɔːˈstɪə"
+                        }
+                    ],
+                    "text": "austere"
+                }
+            ],
+            "type": "headword",
+            "word": "austere"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "bromidic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "crossReferenceMarkers": [
+                                        "bromide (sense 2)"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "bromide",
+                                            "text": "bromide",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0128100.016"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "text": "bromidic"
+                }
+            ],
+            "type": "headword",
+            "word": "bromidic"
+        }
+    ]
+}

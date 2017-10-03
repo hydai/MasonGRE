@@ -1,0 +1,70 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "inexorable",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from French, or from Latin inexorabilis, from in- ‘not’ + exorabilis (from exorare ‘entreat’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "impossible to stop or prevent"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the seemingly inexorable march of new technology"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0506710.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person) impossible to persuade; unrelenting"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the doctors were inexorable, and there was nothing to be done"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0506710.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/inexorable_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈɛks(ə)rəb(ə)l"
+                        }
+                    ],
+                    "text": "inexorable"
+                }
+            ],
+            "type": "headword",
+            "word": "inexorable"
+        }
+    ]
+}

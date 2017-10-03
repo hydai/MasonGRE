@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "provenance",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 18th century: from French, from the verb provenir ‘come or stem from’, from Latin provenire, from pro- ‘forth’ + venire ‘come’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the place of origin or earliest known history of something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an orange rug of Iranian provenance"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0823950.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the beginning of something's existence; something's origin"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they try to understand the whole universe, its provenance and fate"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0823950.007"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a record of ownership of a work of art or an antique, used as a guide to authenticity or quality"
+                                            ],
+                                            "domains": [
+                                                "Art"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the manuscript has a distinguished provenance"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0823950.008",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/provenance_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈprɒv(ə)nəns"
+                        }
+                    ],
+                    "text": "provenance"
+                }
+            ],
+            "type": "headword",
+            "word": "provenance"
+        }
+    ]
+}

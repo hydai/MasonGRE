@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "corroborate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (in the sense ‘make physically stronger’): from Latin corroborat- ‘strengthened’, from the verb corroborare, from cor- ‘together’ + roborare, from robur ‘strength’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "confirm or give support to (a statement, theory, or finding)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the witness had corroborated the boy's account of the attack"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0222480.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/corroborate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kəˈrɒbəreɪt"
+                        }
+                    ],
+                    "text": "corroborate"
+                }
+            ],
+            "type": "headword",
+            "word": "corroborate"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "elude",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (in the sense ‘delude, baffle’): from Latin eludere, from e- (variant of ex-) ‘out, away from’ + ludere ‘to play’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "escape from or avoid (a danger, enemy, or pursuer), typically in a skilful or cunning way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he tried to elude the security men by sneaking through a back door"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0319100.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "avoid compliance with (a law or penalty)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "we need to ensure that bad cases do not elude tough penalties"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0319100.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of an achievement or something desired) fail to be attained by (someone)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "sleep still eluded her"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0319100.014",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of an idea or fact) fail to be understood or remembered by (someone)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the logic of this eluded most people"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0319100.015"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/elude_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪˈl(j)uːd"
+                        }
+                    ],
+                    "text": "elude"
+                }
+            ],
+            "type": "headword",
+            "word": "elude"
+        }
+    ]
+}

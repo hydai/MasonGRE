@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "unseemly",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of behaviour or actions) not proper or appropriate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an unseemly squabble"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1109340.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/unseemly_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ʌnˈsiːmli"
+                        }
+                    ],
+                    "text": "unseemly"
+                }
+            ],
+            "type": "headword",
+            "word": "unseemly"
+        }
+    ]
+}

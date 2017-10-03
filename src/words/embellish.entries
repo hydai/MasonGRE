@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "embellish",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French embelliss-, lengthened stem of embellir, based on bel ‘handsome’, from Latin bellus"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make (something) more attractive by the addition of decorative details or features"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "blue silk embellished with golden embroidery"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0319680.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "make (a statement or story) more interesting by adding extra details that are often untrue"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "followers often embellish stories about their heroes"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0319680.016"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/embellish_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪmˈbɛlɪʃ"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɛmˈbɛlɪʃ"
+                        }
+                    ],
+                    "text": "embellish"
+                }
+            ],
+            "type": "headword",
+            "word": "embellish"
+        }
+    ]
+}

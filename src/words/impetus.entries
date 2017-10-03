@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "impetus",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin, ‘assault, force’, from impetere ‘assail’, from in- ‘towards’ + petere ‘seek’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the force or energy with which a body moves"
+                                    ],
+                                    "domains": [
+                                        "Physics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "hit the booster coil before the flywheel loses all its impetus"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0498830.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "something that makes a process or activity happen or happen more quickly"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the ending of the Cold War gave new impetus to idealism"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0498830.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/impetus_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɪmpɪtəs"
+                        }
+                    ],
+                    "text": "impetus"
+                }
+            ],
+            "type": "headword",
+            "word": "impetus"
+        }
+    ]
+}

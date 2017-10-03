@@ -1,0 +1,150 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "incumbent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as a noun): from Anglo-Latin incumbens, incumbent-, from Latin incumbere ‘lie or lean on’, from in- ‘upon’ + a verb related to cubare ‘lie’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "necessary for (someone) as a duty or responsibility"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the government realized that it was incumbent on them to act"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0502920.006",
+                                    "notes": [
+                                        {
+                                            "text": "\"incumbent on/upon\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of an official or regime) currently holding office"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the incumbent President was defeated"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0502920.008",
+                                    "notes": [
+                                        {
+                                            "text": "attributive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a company) having a sizeable share of a market"
+                                    ],
+                                    "domains": [
+                                        "Economics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "powerful incumbent airlines"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0502920.011",
+                                    "notes": [
+                                        {
+                                            "text": "attributive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/incumbent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈkʌmb(ə)nt"
+                        }
+                    ],
+                    "text": "incumbent"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the holder of an office or post"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the present incumbent will soon be retiring"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0502920.013",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the holder of an ecclesiastical benefice."
+                                            ],
+                                            "domains": [
+                                                "Ecclesiastical"
+                                            ],
+                                            "id": "m_en_gbus0502920.017"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/incumbent_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈkʌmb(ə)nt"
+                        }
+                    ],
+                    "text": "incumbent"
+                }
+            ],
+            "type": "headword",
+            "word": "incumbent"
+        }
+    ]
+}

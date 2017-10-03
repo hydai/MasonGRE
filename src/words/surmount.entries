@@ -1,0 +1,72 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "surmount",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (also in the sense ‘surpass, be superior to’): from Old French surmonter (see sur-, mount)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "overcome (a difficulty or obstacle)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "all manner of cultural differences were surmounted"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1017200.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "stand or be placed on top of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the tomb was surmounted by a sculptured angel"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1017200.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/surmount_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "səˈmaʊnt"
+                        }
+                    ],
+                    "text": "surmount"
+                }
+            ],
+            "type": "headword",
+            "word": "surmount"
+        }
+    ]
+}

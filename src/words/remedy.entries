@@ -1,0 +1,139 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "remedy",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Anglo-Norman French remedie, from Latin remedium, from re- ‘back’ (also expressing intensive force) + mederi ‘heal’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a medicine or treatment for a disease or injury"
+                                    ],
+                                    "domains": [
+                                        "Medicine"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "herbal remedies for aches and pains"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0860440.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a means of counteracting or eliminating something undesirable"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "shopping became a remedy for personal problems"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0860440.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a means of legal reparation"
+                                            ],
+                                            "domains": [
+                                                "Law"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "compensation is available as a remedy against governmental institutions"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0860440.010"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the margin within which coins as minted may differ from the standard fineness and weight."
+                                    ],
+                                    "domains": [
+                                        "Numismatics"
+                                    ],
+                                    "id": "m_en_gbus0860440.012"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/remedy_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈrɛmɪdi"
+                        }
+                    ],
+                    "text": "remedy"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "set right (an undesirable situation)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "money will be given to remedy the poor funding of nurseries"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0860440.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/remedy_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈrɛmɪdi"
+                        }
+                    ],
+                    "text": "remedy"
+                }
+            ],
+            "type": "headword",
+            "word": "remedy"
+        }
+    ]
+}

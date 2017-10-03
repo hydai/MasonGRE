@@ -1,0 +1,122 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "baffle",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (in the sense ‘cheat, deceive’): perhaps related to French bafouer ‘ridicule’ or obsolete French beffer ‘mock, deceive’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "totally bewilder or perplex"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an unexplained occurrence that baffled everyone"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0066700.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "restrain or regulate (a fluid, sound, etc.)"
+                                    ],
+                                    "domains": [
+                                        "Physics",
+                                        "Electronics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "to baffle the noise further, I pad the gunwales"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0066700.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/baffle_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈbaf(ə)l"
+                        }
+                    ],
+                    "text": "baffle"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a device used to restrain the flow of a fluid, gas, etc. or to prevent the spreading of sound or light in a particular direction"
+                                    ],
+                                    "domains": [
+                                        "Physics",
+                                        "Electronics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a baffle plate"
+                                        },
+                                        {
+                                            "text": "you can cut out glare from a strip light by concealing it behind a baffle"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0066700.016"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/baffle_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈbaf(ə)l"
+                        }
+                    ],
+                    "text": "baffle"
+                }
+            ],
+            "type": "headword",
+            "word": "baffle"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "authentic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Old French from late Latin authenticus, from Greek authentikos ‘principal, genuine’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of undisputed origin and not a copy; genuine"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the letter is now accepted as an authentic document"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0059060.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "made or done in the traditional or original way, or in a way that faithfully resembles an original"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "every detail of the film was totally authentic"
+                                                },
+                                                {
+                                                    "text": "the restaurant serves authentic Italian meals"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0059060.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "based on facts; accurate or reliable"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an authentic depiction of the situation"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0059060.010"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(in existentialist philosophy) relating to or denoting an emotionally appropriate, significant, purposive, and responsible mode of human life."
+                                            ],
+                                            "domains": [
+                                                "Philosophy"
+                                            ],
+                                            "id": "m_en_gbus0059060.011"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "crossReferenceMarkers": [
+                                        "Compare with plagal"
+                                    ],
+                                    "crossReferences": [
+                                        {
+                                            "id": "plagal",
+                                            "text": "plagal",
+                                            "type": "see also"
+                                        }
+                                    ],
+                                    "definitions": [
+                                        "(of a church mode) containing notes between the final (the principal note) and the note an octave higher."
+                                    ],
+                                    "domains": [
+                                        "Music"
+                                    ],
+                                    "id": "m_en_gbus0059060.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/authentic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɔːˈθɛntɪk"
+                        }
+                    ],
+                    "text": "authentic"
+                }
+            ],
+            "type": "headword",
+            "word": "authentic"
+        }
+    ]
+}

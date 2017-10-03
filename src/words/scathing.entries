@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "scathing",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "witheringly scornful; severely critical"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she launched a scathing attack on the Prime Minister"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0905580.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/scathing_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈskeɪðɪŋ"
+                        }
+                    ],
+                    "text": "scathing"
+                }
+            ],
+            "type": "headword",
+            "word": "scathing"
+        }
+    ]
+}

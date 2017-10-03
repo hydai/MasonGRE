@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "compelling",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "evoking interest, attention, or admiration in a powerfully irresistible way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his eyes were strangely compelling"
+                                        },
+                                        {
+                                            "text": "a compelling film"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0205790.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "not able to be refuted; inspiring conviction"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a compelling argument"
+                                                },
+                                                {
+                                                    "text": "there is compelling evidence that the recession is ending"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0205790.007"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "not able to be resisted; overwhelming"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the temptation to give up was compelling"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0205790.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/compelling_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kəmˈpɛlɪŋ"
+                        }
+                    ],
+                    "text": "compelling"
+                }
+            ],
+            "type": "headword",
+            "word": "compelling"
+        }
+    ]
+}

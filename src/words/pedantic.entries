@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "pedantic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "excessively concerned with minor details or rules; overscrupulous"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his analyses are careful and even painstaking, but never pedantic"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0759780.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/pedantic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pɪˈdantɪk"
+                        }
+                    ],
+                    "text": "pedantic"
+                }
+            ],
+            "type": "headword",
+            "word": "pedantic"
+        }
+    ]
+}

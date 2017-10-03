@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "conscientious",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from French consciencieux, from medieval Latin conscientiosus, from Latin conscientia (see conscience)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "wishing to do one's work or duty well and thoroughly"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a conscientious man, he took his duties very seriously"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0212100.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to a person's conscience"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the individual is denied even the opportunity to break the law on conscientious grounds"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0212100.010"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconscientious_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌkɒnʃɪˈɛnʃəs"
+                        }
+                    ],
+                    "text": "conscientious"
+                }
+            ],
+            "type": "headword",
+            "word": "conscientious"
+        }
+    ]
+}

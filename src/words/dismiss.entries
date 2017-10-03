@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "dismiss",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from medieval Latin dismiss-, variant of Latin dimiss- ‘sent away’, from the verb dimittere"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "order or allow to leave; send away"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she dismissed the taxi at the corner of the road"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0282220.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "remove from employment or office, typically on the grounds of unsatisfactory performance"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the prime minister dismissed five members of his cabinet"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0282220.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a group assembled under someone's authority) disperse"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he told his company to dismiss"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0282220.013",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "end the innings of (a batsman or a side)"
+                                            ],
+                                            "domains": [
+                                                "Cricket"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Australia were dismissed for 118"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0282220.014"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "treat as unworthy of serious consideration"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it would be easy to dismiss him as all brawn and no brain"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0282220.016",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "deliberately cease to think about"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he suspected a double meaning in her words, but dismissed the thought"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0282220.017"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "refuse further hearing to (a case)"
+                                            ],
+                                            "domains": [
+                                                "Law"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the judge dismissed the case for lack of evidence"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0282220.018"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/dismiss_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪsˈmɪs"
+                        }
+                    ],
+                    "text": "dismiss"
+                }
+            ],
+            "type": "headword",
+            "word": "dismiss"
+        }
+    ]
+}

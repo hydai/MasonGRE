@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "shading",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the darkening or colouring of an illustration or diagram with parallel lines or a block of colour"
+                                    ],
+                                    "domains": [
+                                        "Art"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "scenes can be given perspective by colour and shading"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0930800.007",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a very slight variation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the shadings of opinion even among those who are in broad agreement"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0930800.010"
+                                },
+                                {
+                                    "definitions": [
+                                        "a layer of paint or material used to provide shade, especially for plants"
+                                    ],
+                                    "domains": [
+                                        "Horticulture"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "liquid greenhouse shading"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0930800.014",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/shading_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈʃeɪdɪŋ"
+                        }
+                    ],
+                    "text": "shading"
+                }
+            ],
+            "type": "headword",
+            "word": "shading"
+        }
+    ]
+}

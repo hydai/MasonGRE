@@ -1,0 +1,109 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "coincide",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 18th century (in the sense ‘occupy the same space’): from medieval Latin coincidere, from co- ‘together with’ + incidere ‘fall upon or into’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "occur at the same time"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "publication is timed to coincide with a major exhibition"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0198080.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "be present at the same place and at the same time"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "on Friday afternoons we generally coincided"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0198080.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "correspond in position; meet"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the two long-distance walks briefly coincide here"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0198080.013"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "correspond in nature; tally"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the interests of employers and employees do not always coincide"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0198080.015",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "be in agreement"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the members of the College coincide in this opinion"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0198080.016"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/coincide_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌkəʊɪnˈsʌɪd"
+                        }
+                    ],
+                    "text": "coincide"
+                }
+            ],
+            "type": "headword",
+            "word": "coincide"
+        }
+    ]
+}

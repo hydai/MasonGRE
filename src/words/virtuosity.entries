@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "virtuosity",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "great skill in music or another artistic pursuit"
+                                    ],
+                                    "domains": [
+                                        "Music"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a performance of considerable virtuosity"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1131730.006"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/virtuosity_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌvəːtʃʊˈɒsɪti"
+                        }
+                    ],
+                    "text": "virtuosity"
+                }
+            ],
+            "type": "headword",
+            "word": "virtuosity"
+        }
+    ]
+}

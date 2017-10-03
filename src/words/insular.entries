@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "insular",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century (as a noun denoting an islander): from late Latin insularis, from insula ‘island’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "ignorant of or uninterested in cultures, ideas, or peoples outside one's own experience"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a stubbornly insular farming people"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0513700.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "lacking contact with other people"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "people living restricted and sometimes insular existences"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0513700.008"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to or from an island"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "goods of insular origin"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0513700.010",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "relating to a form of Latin handwriting used in Britain and Ireland in the early Middle Ages"
+                                            ],
+                                            "domains": [
+                                                "Handwriting"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "insular illumination of the 6th century"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0513700.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of climate) equable because of the influence of the sea."
+                                            ],
+                                            "domains": [
+                                                "Meteorology"
+                                            ],
+                                            "id": "m_en_gbus0513700.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to the insula of the brain."
+                                    ],
+                                    "domains": [
+                                        "Anatomy"
+                                    ],
+                                    "id": "m_en_gbus0513700.014"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/insular_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɪnsjʊlə"
+                        }
+                    ],
+                    "text": "insular"
+                }
+            ],
+            "type": "headword",
+            "word": "insular"
+        }
+    ]
+}

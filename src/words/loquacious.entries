@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "loquacious",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin loquax, loquac- (from loqui ‘talk’) + -ious"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "tending to talk a great deal; talkative"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "never loquacious, Sarah was now totally lost for words"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0594910.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/loquacious_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ləˈkweɪʃəs"
+                        }
+                    ],
+                    "text": "loquacious"
+                }
+            ],
+            "type": "headword",
+            "word": "loquacious"
+        }
+    ]
+}

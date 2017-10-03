@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "repress",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the sense ‘keep back something objectionable’): from Latin repress- ‘pressed back, checked’, from the verb reprimere, from re- ‘back’ + premere ‘to press’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "subdue (someone or something) by force"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the uprisings were repressed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0863280.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "restrain, prevent, or inhibit (the expression or development of something)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "Isabel couldn't repress a sharp cry of fear"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0863280.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "suppress (a thought or desire) so that it becomes or remains unconscious"
+                                            ],
+                                            "domains": [
+                                                "Psychology"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the thought that he had killed his brother was so terrible that he repressed it"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0863280.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "prevent the transcription of (a gene)."
+                                            ],
+                                            "domains": [
+                                                "Genetics"
+                                            ],
+                                            "id": "m_en_gbus0863280.014"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/repress_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈprɛs"
+                        }
+                    ],
+                    "text": "repress"
+                }
+            ],
+            "type": "headword",
+            "word": "repress"
+        }
+    ]
+}

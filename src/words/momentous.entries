@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "momentous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "of great importance or significance, especially in having a bearing on future events"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a period of momentous changes in East–West relations"
+                                        },
+                                        {
+                                            "text": "a momentous decision"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0654660.007"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/momentous_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "mə(ʊ)ˈmɛntəs"
+                        }
+                    ],
+                    "text": "momentous"
+                }
+            ],
+            "type": "headword",
+            "word": "momentous"
+        }
+    ]
+}

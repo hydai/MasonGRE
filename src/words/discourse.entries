@@ -1,0 +1,144 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "discourse",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (denoting the process of reasoning): from Old French discours, from Latin discursus ‘running to and fro’ (in medieval Latin ‘argument’), from the verb discurrere, from dis- ‘away’ + currere ‘to run’; the verb influenced by French discourir"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "written or spoken communication or debate"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the language of political discourse"
+                                        },
+                                        {
+                                            "text": "an imagined discourse between two people"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0280420.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a formal discussion of a topic in speech or writing"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a discourse on critical theory"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0280420.008",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a connected series of utterances; a text or conversation."
+                                            ],
+                                            "domains": [
+                                                "Linguistics"
+                                            ],
+                                            "id": "m_en_gbus0280420.009"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/discourse_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdɪskɔːs"
+                        }
+                    ],
+                    "text": "discourse"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Intransitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "speak or write authoritatively about a topic"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she could discourse at great length on the history of Europe"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0280420.014",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "engage in conversation"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he spent an hour discoursing with his supporters"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0280420.020"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/discourse_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪsˈkɔːs"
+                        }
+                    ],
+                    "text": "discourse"
+                }
+            ],
+            "type": "headword",
+            "word": "discourse"
+        }
+    ]
+}

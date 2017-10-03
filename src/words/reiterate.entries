@@ -1,0 +1,69 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "reiterate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘do an action repeatedly’): from Latin reiterat- ‘gone over again’, from the verb reiterare, from re- ‘again’ + iterare ‘do a second time’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "say something again or a number of times, typically for emphasis or clarity"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he reiterated the points made in his earlier speech"
+                                        },
+                                        {
+                                            "text": "she reiterated that the government would remain steadfast in its support"
+                                        },
+                                        {
+                                            "text": "‘I just want to forget it all,’ he reiterated"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0858950.005",
+                                    "notes": [
+                                        {
+                                            "text": "reporting verb",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/reiterate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "riːˈɪtəreɪt"
+                        }
+                    ],
+                    "text": "reiterate"
+                }
+            ],
+            "type": "headword",
+            "word": "reiterate"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "defy",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (in the senses ‘renounce an allegiance’ and ‘challenge to combat’): from Old French desfier, based on Latin dis- (expressing reversal) + fidus ‘faithful’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "openly resist or refuse to obey"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a woman who defies convention"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0260320.006",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "be of such a kind or nature that (a specified attitude or action) is almost impossible"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the outfit defied adequate description"
+                                                },
+                                                {
+                                                    "text": "his actions defy belief"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0260320.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "appear to be challenging (someone) to do or prove something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he glowered at her, defying her to mock him"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0260320.014",
+                                    "notes": [
+                                        {
+                                            "text": "with object and infinitive",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "challenge (someone) to fight"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "go now, defy him to the combat"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0260320.015",
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/defy_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈfʌɪ"
+                        }
+                    ],
+                    "text": "defy"
+                }
+            ],
+            "type": "headword",
+            "word": "defy"
+        }
+    ]
+}

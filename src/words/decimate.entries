@@ -1,0 +1,94 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "decimate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin decimat- ‘taken as a tenth’, from the verb decimare, from decimus ‘tenth’. In Middle English the term decimation denoted the levying of a tithe, and later the tax imposed by Cromwell on the Royalists (1655)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "Historically, the meaning of the word decimate is ‘kill one in every ten of (a group of people)’. This sense has been more or less totally superseded by the later, more general sense ‘kill, destroy, or remove a large proportion of’, as in the virus has decimated the population. Some traditionalists argue that this is incorrect, but it is clear that it is now part of standard English",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "kill, destroy, or remove a large proportion of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the inhabitants of the country had been decimated"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0256650.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "drastically reduce the strength or effectiveness of (something)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "public transport has been decimated"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0256650.012"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "kill one in every ten of (a group of people, originally a mutinous Roman legion) as a punishment for the whole group"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the man who is to determine whether it be necessary to decimate a large body of mutineers"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0256650.014",
+                                    "registers": [
+                                        "historical"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/decimate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdɛsɪmeɪt"
+                        }
+                    ],
+                    "text": "decimate"
+                }
+            ],
+            "type": "headword",
+            "word": "decimate"
+        }
+    ]
+}

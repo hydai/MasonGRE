@@ -1,0 +1,152 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "histrionic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century (in the sense ‘dramatically exaggerated, hypocritical’): from late Latin histrionicus, from Latin histrio(n-) ‘actor’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "excessively theatrical or dramatic in character or style"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a histrionic outburst"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0470840.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "of or concerning actors or acting"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "histrionic talents"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0470840.007",
+                                            "registers": [
+                                                "formal"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "denoting a personality disorder marked by shallow volatile emotions and attention-seeking behaviour."
+                                            ],
+                                            "domains": [
+                                                "Psychiatry"
+                                            ],
+                                            "id": "m_en_gbus0470840.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/histrionic_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌhɪstrɪˈɒnɪk"
+                        }
+                    ],
+                    "text": "histrionic"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "melodramatic behaviour designed to attract attention"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "by now, Anna was accustomed to her mother's histrionics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0470840.011",
+                                    "notes": [
+                                        {
+                                            "text": "\"histrionics\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "dramatic performances; the theatre"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he loved the theatre and everything which savoured of histrionics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0470840.013",
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "an actor."
+                                    ],
+                                    "id": "m_en_gbus0470840.015",
+                                    "registers": [
+                                        "archaic"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/histrionic_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌhɪstrɪˈɒnɪk"
+                        }
+                    ],
+                    "text": "histrionic"
+                }
+            ],
+            "type": "headword",
+            "word": "histrionic"
+        }
+    ]
+}

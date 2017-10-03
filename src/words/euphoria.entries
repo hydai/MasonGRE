@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "euphoria",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century (denoting well-being produced in a sick person by the use of drugs): modern Latin, from Greek, from euphoros ‘borne well, healthy’, from eu ‘well’ + pherein ‘to bear’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a feeling or state of intense excitement and happiness"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "in his euphoria, he had become convinced he could defeat them"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0336180.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/euphoria_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "juːˈfɔːrɪə"
+                        }
+                    ],
+                    "text": "euphoria"
+                }
+            ],
+            "type": "headword",
+            "word": "euphoria"
+        }
+    ]
+}

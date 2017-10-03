@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "deflect",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin deflectere, from de- ‘away from’ + flectere ‘to bend’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause (something) to change direction; turn aside from a straight course"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the bullet was deflected harmlessly into the ceiling"
+                                        },
+                                        {
+                                            "registers": [
+                                                "figurative"
+                                            ],
+                                            "text": "he attempted to deflect attention away from his private life"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0259960.005",
+                                    "notes": [
+                                        {
+                                            "text": "with object, and usually with adverbial of direction",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of an object) change direction after hitting something"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the ball deflected off Knight's body"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0259960.011",
+                                            "notes": [
+                                                {
+                                                    "text": "no object, with adverbial of direction",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "cause (someone) to deviate from an intended purpose"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she refused to be deflected from anything she had set her mind on"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0259960.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "cause (something) to change orientation"
+                                            ],
+                                            "domains": [
+                                                "Physics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the compass needle is deflected from magnetic north by metal in the aircraft"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0259960.013"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/deflect_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈflɛkt"
+                        }
+                    ],
+                    "text": "deflect"
+                }
+            ],
+            "type": "headword",
+            "word": "deflect"
+        }
+    ]
+}

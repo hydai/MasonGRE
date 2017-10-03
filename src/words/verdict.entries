@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "verdict",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Anglo-Norman French verdit, from Old French veir ‘true’ (from Latin verus) + dit (from Latin dictum ‘saying’)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a decision on an issue of fact in a civil or criminal case or an inquest"
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the jury returned a verdict of not guilty"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1124740.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an opinion or judgement"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "this seems a fair verdict on the tabloids"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1124740.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/verdict_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈvəːdɪkt"
+                        }
+                    ],
+                    "text": "verdict"
+                }
+            ],
+            "type": "headword",
+            "word": "verdict"
+        }
+    ]
+}

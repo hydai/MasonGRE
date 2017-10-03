@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "genre",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century: French, literally ‘a kind’ (see gender)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a style or category of art, music, or literature"
+                                    ],
+                                    "domains": [
+                                        "Literature",
+                                        "Art"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the spy thriller is a very masculine genre"
+                                        },
+                                        {
+                                            "text": "the science fiction genre"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0409330.007"
+                                },
+                                {
+                                    "definitions": [
+                                        "denoting or relating to a style of painting depicting scenes from ordinary life, typically domestic situations, associated particularly with 17th-century Dutch and Flemish artists"
+                                    ],
+                                    "domains": [
+                                        "Art"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "genre scenes"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0409330.014",
+                                    "notes": [
+                                        {
+                                            "text": "as modifier",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/genre_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈʒɒ̃rə"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/genre_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈ(d)ʒɒnrə"
+                        }
+                    ],
+                    "text": "genre"
+                }
+            ],
+            "type": "headword",
+            "word": "genre"
+        }
+    ]
+}

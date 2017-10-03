@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "rebuff",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from obsolete French rebuffer (verb), rebuffe (noun), from Italian ri- (expressing opposition) + buffo ‘a gust, puff’, of imitative origin"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "reject (someone or something) in an abrupt or ungracious manner"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I asked her to be my wife, and was rebuffed in no uncertain terms"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0850250.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/rebuff_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈbʌf"
+                        }
+                    ],
+                    "text": "rebuff"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an abrupt or ungracious rejection of an offer, request, or friendly gesture"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "callers phoning a chatline need have no fear of rebuff"
+                                        },
+                                        {
+                                            "text": "his reserve was not intended as a rebuff"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0850250.012"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/rebuff_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈbʌf"
+                        }
+                    ],
+                    "text": "rebuff"
+                }
+            ],
+            "type": "headword",
+            "word": "rebuff"
+        }
+    ]
+}

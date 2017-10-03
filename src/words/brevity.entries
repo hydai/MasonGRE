@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "brevity",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from Old French brievete, from Latin brevitas, from brevis ‘brief’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "concise and exact use of words in writing or speech"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the staff will edit manuscripts with a view to brevity and clarity"
+                                        },
+                                        {
+                                            "text": "for brevity, it is worth using these little symbols"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0124690.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "shortness of time"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the brevity of human life"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0124690.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/brevity_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈbrɛvɪti"
+                        }
+                    ],
+                    "text": "brevity"
+                }
+            ],
+            "type": "headword",
+            "word": "brevity"
+        }
+    ]
+}

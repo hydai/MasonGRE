@@ -1,0 +1,135 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "detour",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 18th century (as a noun): from French détour ‘change of direction’, from détourner ‘turn away’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a long or roundabout route that is taken to avoid something or to visit somewhere along the way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he had made a detour to a cafe"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0269610.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "an alternative route for use by traffic when the usual road is temporarily closed."
+                                            ],
+                                            "domains": [
+                                                "Roads"
+                                            ],
+                                            "id": "m_en_gbus0269610.011"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/detour_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdiːtʊə"
+                        }
+                    ],
+                    "text": "detour"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "take a long or roundabout route"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he detoured around the walls"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0269610.013",
+                                    "notes": [
+                                        {
+                                            "text": "no object, with adverbial of direction",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "regions": [
+                                        "North American"
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "avoid by taking a detour"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I would detour the endless stream of motor homes"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0269610.031",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/detour_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈdiːtʊə"
+                        }
+                    ],
+                    "text": "detour"
+                }
+            ],
+            "type": "headword",
+            "word": "detour"
+        }
+    ]
+}

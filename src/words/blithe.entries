@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "blithe",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Old English blīthe, of Germanic origin; related to Dutch blijde, also to bliss"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "showing a casual and cheerful indifference considered to be callous or improper"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a blithe disregard for the rules of the road"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0104020.007",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "happy or carefree"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a blithe seaside comedy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0104020.011",
+                                            "registers": [
+                                                "literary"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/blithe_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "blʌɪð"
+                        }
+                    ],
+                    "text": "blithe"
+                }
+            ],
+            "type": "headword",
+            "word": "blithe"
+        }
+    ]
+}

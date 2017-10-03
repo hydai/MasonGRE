@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "truculent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 16th century: from Latin truculentus, from trux, truc- ‘fierce’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "eager or quick to argue or fight; aggressively defiant"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the truculent attitude of farmers to cheaper imports"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1078310.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/truculent_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈtrʌkjʊl(ə)nt"
+                        }
+                    ],
+                    "text": "truculent"
+                }
+            ],
+            "type": "headword",
+            "word": "truculent"
+        }
+    ]
+}

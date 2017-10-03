@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "rehash",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "reuse (old ideas or material) without significant change or improvement"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he endlessly rehashes songs from his American era"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0858190.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "consider or discuss (something) at length after it has happened"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "is it really necessary to rehash that trauma all over again?"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0858190.016",
+                                            "regions": [
+                                                "North American"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/rehash_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "riːˈhaʃ"
+                        }
+                    ],
+                    "text": "rehash"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a reuse of old ideas or material without significant change or improvement"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the spring show was a rehash of the summer show from the previous year"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0858190.021"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/rehash_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈriːhaʃ"
+                        }
+                    ],
+                    "text": "rehash"
+                }
+            ],
+            "type": "headword",
+            "word": "rehash"
+        }
+    ]
+}

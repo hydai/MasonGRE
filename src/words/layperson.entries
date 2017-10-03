@@ -1,0 +1,68 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "layperson",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a non-ordained member of a Church"
+                                    ],
+                                    "domains": [
+                                        "Ecclesiastical"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "theologians and laypeople alike have debated the meaning behind the rich allegory and symbolism"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0569650.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "a person without professional or specialized knowledge in a particular subject"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his highly successful lectures were meant for an audience of laypersons interested in the natural sciences"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0569650.009"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/layperson_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈleɪpəːs(ə)n"
+                        }
+                    ],
+                    "text": "layperson"
+                }
+            ],
+            "type": "headword",
+            "word": "layperson"
+        }
+    ]
+}

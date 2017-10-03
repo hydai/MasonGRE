@@ -1,0 +1,242 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "moderate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Latin moderat- ‘reduced, controlled’, from the verb moderare; related to modest"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "average in amount, intensity, quality, or degree"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "we walked at a moderate pace"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0652760.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a person, party, or policy) not radical or excessively right- or left-wing"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a moderate reform programme"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0652760.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/moderate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈmɒd(ə)rət"
+                        }
+                    ],
+                    "text": "moderate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a person who holds moderate views, especially in politics"
+                                    ],
+                                    "domains": [
+                                        "Politics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an unlikely alliance of radicals and moderates"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0652760.012"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/moderate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈmɒd(ə)rət"
+                        }
+                    ],
+                    "text": "moderate"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "002",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "make or become less extreme, intense, rigorous, or violent"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I shall not moderate my criticism"
+                                        },
+                                        {
+                                            "text": "the weather has moderated considerably"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0652760.020"
+                                },
+                                {
+                                    "definitions": [
+                                        "review (examination papers, results, or candidates) in relation to an agreed standard so as to ensure consistency of marking"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the dependability of an examining system rests on those who set, moderate, and mark the papers"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0652760.027",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "regions": [
+                                        "British"
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(in academic and ecclesiastical contexts) preside over (a deliberative body) or at (a debate)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a panel moderated by a Harvard University law professor"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0652760.029",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(especially in the Presbyterian Church in Scotland) act as a moderator; preside"
+                                            ],
+                                            "domains": [
+                                                "Ecclesiastical"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "it is the Presbytery that moderates"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0652760.030",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "monitor (an Internet forum or online discussion) for inappropriate or offensive content."
+                                    ],
+                                    "domains": [
+                                        "Computing"
+                                    ],
+                                    "id": "m_en_gbus0652760.032"
+                                },
+                                {
+                                    "definitions": [
+                                        "retard (neutrons) with a moderator"
+                                    ],
+                                    "domains": [
+                                        "Physics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the neutrons causing fission are not moderated but react at high energies"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0652760.034",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/moderate_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈmɒdəreɪt"
+                        }
+                    ],
+                    "text": "moderate"
+                }
+            ],
+            "type": "headword",
+            "word": "moderate"
+        }
+    ]
+}

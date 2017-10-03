@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "constant",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘staying resolute or faithful’): from Old French, from Latin constant- ‘standing firm’, from the verb constare, from con- ‘with’ + stare ‘stand’. The noun senses date from the mid 19th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "occurring continuously over a period of time"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the constant background noise of the city"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0213080.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "remaining the same over a period of time"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "these discs rotate at a constant speed"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0213080.007"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of a person) unchangingly faithful and dependable"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a constant friend"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0213080.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconstant_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkɒnst(ə)nt"
+                        }
+                    ],
+                    "text": "constant"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a situation that does not change"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the condition of struggle remained a constant"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0213080.010",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a quantity or parameter that does not change its value whatever the value of the variables, under a given set of conditions."
+                                            ],
+                                            "domains": [
+                                                "Mathematics"
+                                            ],
+                                            "id": "m_en_gbus0213080.013"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a number expressing a relation or property which remains the same in all circumstances, or for the same substance under the same conditions."
+                                            ],
+                                            "domains": [
+                                                "Physics"
+                                            ],
+                                            "id": "m_en_gbus0213080.014"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconstant_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈkɒnst(ə)nt"
+                        }
+                    ],
+                    "text": "constant"
+                }
+            ],
+            "type": "headword",
+            "word": "constant"
+        }
+    ]
+}

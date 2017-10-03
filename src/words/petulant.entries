@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "petulant",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century (in the sense ‘immodest’): from French pétulant, from Latin petulant- ‘impudent’ (related to petere ‘aim at, seek’). The current sense (mid 18th century) is influenced by pettish"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a person or their manner) childishly sulky or bad-tempered"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was moody and petulant"
+                                        },
+                                        {
+                                            "text": "a petulant shake of the head"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0771480.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/petulant_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈpɛtjʊl(ə)nt"
+                        }
+                    ],
+                    "text": "petulant"
+                }
+            ],
+            "type": "headword",
+            "word": "petulant"
+        }
+    ]
+}

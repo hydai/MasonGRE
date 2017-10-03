@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "annex",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French annexer, from Latin annectere ‘connect’, from ad- ‘to’ + nectere ‘tie, fasten’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "add as an extra or subordinate part, especially to a document"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the first ten amendments were annexed to the Constitution in 1791"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0035040.004",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "add or attach as a condition or consequence"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "extreme anointing hath neither ordinance of God to be grounded on, nor promise of grace annexed"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0035040.015",
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "add (territory) to one's own territory by appropriation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the left bank of the Rhine was annexed by France in 1797"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0035040.017"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/annex_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈnɛks"
+                        }
+                    ],
+                    "text": "annex"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a building joined to or associated with a main building, providing additional space or accommodation"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the school's one-storey wooden annex"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0035040.044"
+                                },
+                                {
+                                    "definitions": [
+                                        "an addition to a document"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an annex to the report"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0035040.054"
+                                }
+                            ],
+                            "variantForms": [
+                                {
+                                    "text": "annexe"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/annex_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈanɛks"
+                        }
+                    ],
+                    "text": "annex"
+                }
+            ],
+            "type": "headword",
+            "word": "annex"
+        }
+    ]
+}

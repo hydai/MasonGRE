@@ -1,0 +1,149 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "prescription",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (as a legal term): via Old French from Latin praescriptio(n-), from the verb praescribere (see prescribe). prescription (sense 1) dates from the late 16th century"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an instruction written by a medical practitioner that authorizes a patient to be issued with a medicine or treatment"
+                                    ],
+                                    "domains": [
+                                        "Medicine"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the lotion is available on prescription"
+                                        },
+                                        {
+                                            "text": "he scribbled a prescription for tranquillizers"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0812210.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the action of prescribing a medicine or treatment"
+                                            ],
+                                            "domains": [
+                                                "Medicine"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the unnecessary prescription of antibiotics"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0812210.009",
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a medicine or remedy that is prescribed"
+                                            ],
+                                            "domains": [
+                                                "Pharmaceutics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I've got to pick up my prescription from the chemist's"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0812210.011"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a recommendation that is authoritatively put forward"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "effective prescriptions for sustaining rural communities"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0812210.013",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "the authoritative recommendation of an action or procedure"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "rather than prescription there would be guidance"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0812210.014",
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the establishment of a claim founded on the basis of a long or indefinite period of uninterrupted use or of long-standing custom."
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "id": "m_en_gbus0812210.016",
+                                    "notes": [
+                                        {
+                                            "text": "mass noun",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "variantForms": [
+                                        {
+                                            "text": "positive prescription"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/prescription_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "prɪˈskrɪpʃ(ə)n"
+                        }
+                    ],
+                    "text": "prescription"
+                }
+            ],
+            "type": "headword",
+            "word": "prescription"
+        }
+    ]
+}

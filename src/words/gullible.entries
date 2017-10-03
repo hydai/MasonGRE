@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "gullible",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 19th century: from gull + -ible"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "easily persuaded to believe something; credulous"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "an attempt to persuade a gullible public to spend their money"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0439640.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/gullible_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈɡʌləb(ə)l"
+                        }
+                    ],
+                    "text": "gullible"
+                }
+            ],
+            "type": "headword",
+            "word": "gullible"
+        }
+    ]
+}

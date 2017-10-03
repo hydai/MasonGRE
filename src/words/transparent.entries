@@ -1,0 +1,143 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "transparent",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French, from medieval Latin transparent- ‘shining through’, from Latin transparere, from trans- ‘through’ + parere ‘appear’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a material or article) allowing light to pass through so that objects behind can be distinctly seen"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "transparent blue water"
+                                        },
+                                        {
+                                            "text": "fine transparent fabrics"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1070050.008"
+                                },
+                                {
+                                    "definitions": [
+                                        "easy to perceive or detect"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the meaning of the poem is by no means transparent"
+                                        },
+                                        {
+                                            "text": "the residents will see through any transparent attempt to buy their votes"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1070050.011",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "having thoughts or feelings that are easily perceived; open"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "you'd be no good at poker—you're too transparent"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1070050.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(of an organization or its activities) open to public scrutiny"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "if you had transparent government procurement, corruption would go away"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1070050.013"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a process or interface) functioning without the user being aware of its presence."
+                                    ],
+                                    "domains": [
+                                        "Computing"
+                                    ],
+                                    "id": "m_en_gbus1070050.015"
+                                },
+                                {
+                                    "definitions": [
+                                        "transmitting heat or other radiation without distortion"
+                                    ],
+                                    "domains": [
+                                        "Physics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "CFCs and water vapour are virtually transparent to incoming short-wave solar radiation"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1070050.017"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "trɑːnˈspɛːr(ə)nt"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "trɑːnˈspar(ə)nt"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/transparent_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "tranˈspar(ə)nt"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/transparent_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "tranˈspɛːr(ə)nt"
+                        }
+                    ],
+                    "text": "transparent"
+                }
+            ],
+            "type": "headword",
+            "word": "transparent"
+        }
+    ]
+}

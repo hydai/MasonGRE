@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "discontinuity",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from medieval Latin discontinuitas, from discontinuus (see discontinuous)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the state of having intervals or gaps; lack of continuity"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "there is no significant discontinuity between modern and primitive societies"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0280230.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a break in or lack of continuity"
+                                            ],
+                                            "domains": [
+                                                "Mathematics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "changes in government have resulted in discontinuities in policy"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0280230.007",
+                                            "notes": [
+                                                {
+                                                    "text": "count noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/discontinuity_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪsˌkɒntɪˈnjuːɪti"
+                        }
+                    ],
+                    "text": "discontinuity"
+                }
+            ],
+            "type": "headword",
+            "word": "discontinuity"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "tortuous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: via Old French from Latin tortuosus, from tortus ‘twisting, a twist’, from Latin torquere ‘to twist’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "The two words tortuous and torturous have different core meanings. Tortuous means ‘full of twists and turns’, as in a tortuous route. Torturous means ‘involving or causing torture’, as in a torturous five days of fitness training. In extended senses, however, tortuous is used to mean ‘excessively lengthy and complex’ and hence may become indistinguishable from torturous: something which is tortuous is often also torturous, as in a tortuous piece of bureaucratic language; their way had been tortuous and very difficult. The overlap in sense has led to tortuous being sometimes used interchangeably with torturous, as in he would at last draw in a tortuous gasp of air",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "full of twists and turns"
+                                    ],
+                                    "domains": [
+                                        "Medicine"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the route is remote and tortuous"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1063570.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "excessively lengthy and complex"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a tortuous argument"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1063570.008"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/tortuous_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈtɔːtʃʊəs"
+                        },
+                        {
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈtɔːtjʊəs"
+                        }
+                    ],
+                    "text": "tortuous"
+                }
+            ],
+            "type": "headword",
+            "word": "tortuous"
+        }
+    ]
+}

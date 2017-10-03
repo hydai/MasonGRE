@@ -1,0 +1,74 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "disinterested",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: past participle of the rare verb disinterest ‘rid of interest or concern’, from dis- (expressing removal) + interest"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "notes": [
+                                {
+                                    "text": "Nowhere are the battle lines more deeply drawn in usage questions than over the difference between disinterested and uninterested. According to traditional guidelines, disinterested should never be used to mean ‘not interested’ (i.e. it is not a synonym for uninterested) but only to mean ‘impartial’, as in the judgements of disinterested outsiders are likely to be more useful. Ironically, the earliest recorded sense of disinterested is for the disputed sense. Today, the ‘incorrect’ use of disinterested is widespread: around a quarter of citations in the Oxford English Corpus for disinterested are for this sense",
+                                    "type": "editorialNote"
+                                }
+                            ],
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "not influenced by considerations of personal advantage"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a banker is under an obligation to give disinterested advice"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0281870.008"
+                                },
+                                {
+                                    "definitions": [
+                                        "having or feeling no interest in something; uninterested"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "her father was so disinterested in her progress that he only visited the school once"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0281870.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/disinterested_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪsˈɪnt(ə)rɪstɪd"
+                        }
+                    ],
+                    "text": "disinterested"
+                }
+            ],
+            "type": "headword",
+            "word": "disinterested"
+        }
+    ]
+}

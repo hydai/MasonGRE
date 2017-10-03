@@ -1,0 +1,59 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "malfeasance",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 17th century: from Anglo-Norman French malfaisance, from mal- ‘evil’ + Old French faisance ‘activity’. Compare with misfeasance"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "wrongdoing, especially (US) by a public official."
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "id": "m_en_gbus0611070.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/malfeasance_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "malˈfiːz(ə)ns"
+                        }
+                    ],
+                    "text": "malfeasance"
+                }
+            ],
+            "type": "headword",
+            "word": "malfeasance"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "lurid",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century (in the sense ‘pale and dismal in colour’): from Latin luridus; related to luror ‘wan or yellow colour’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "unpleasantly bright in colour, especially so as to create a harsh or unnatural effect"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a pair of lurid shorts"
+                                        },
+                                        {
+                                            "text": "lurid food colourings"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0601510.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "presented in vividly shocking or sensational terms"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the more lurid details of the massacre were too frightening for the children"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0601510.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/lurid_gb_2.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈl(j)ʊərɪd"
+                        }
+                    ],
+                    "text": "lurid"
+                }
+            ],
+            "type": "headword",
+            "word": "lurid"
+        }
+    ]
+}

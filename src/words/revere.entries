@@ -1,0 +1,61 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "revere",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from French révérer or Latin revereri, from re- (expressing intensive force) + vereri ‘to fear’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "feel deep respect or admiration for (something)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Cézanne's still lifes were revered by his contemporaries"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0869150.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/revere_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "rɪˈvɪə"
+                        }
+                    ],
+                    "text": "revere"
+                }
+            ],
+            "type": "headword",
+            "word": "revere"
+        }
+    ]
+}

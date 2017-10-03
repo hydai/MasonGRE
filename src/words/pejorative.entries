@@ -1,0 +1,99 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "pejorative",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 19th century: from French péjoratif, -ive, from late Latin pejorare ‘make worse’, from Latin pejor ‘worse’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "expressing contempt or disapproval"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "permissiveness is used almost universally as a pejorative term"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0760910.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/pejorative_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pɪˈdʒɒrətɪv"
+                        }
+                    ],
+                    "text": "pejorative"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a word expressing contempt or disapproval"
+                                    ],
+                                    "domains": [
+                                        "Linguistics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "most of what he said was inflammatory and filled with pejoratives"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0760910.008"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/pejorative_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "pɪˈdʒɒrətɪv"
+                        }
+                    ],
+                    "text": "pejorative"
+                }
+            ],
+            "type": "headword",
+            "word": "pejorative"
+        }
+    ]
+}

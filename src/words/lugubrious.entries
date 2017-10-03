@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "lugubrious",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 17th century: from Latin lugubris (from lugere ‘mourn’) + -ous"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "looking or sounding sad and dismal"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "his face looked even more lugubrious than usual"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0600050.005"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/lugubrious_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "lʊˈɡuːbrɪəs"
+                        }
+                    ],
+                    "text": "lugubrious"
+                }
+            ],
+            "type": "headword",
+            "word": "lugubrious"
+        }
+    ]
+}

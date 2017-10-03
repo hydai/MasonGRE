@@ -1,0 +1,98 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "syntax",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from French syntaxe, or via late Latin from Greek suntaxis, from sun- ‘together’ + tassein ‘arrange’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "the arrangement of words and phrases to create well-formed sentences in a language"
+                                    ],
+                                    "domains": [
+                                        "Grammar"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the syntax of English"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1024150.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a set of rules for or an analysis of the syntax of a language"
+                                            ],
+                                            "domains": [
+                                                "Grammar"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "generative syntax"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1024150.008"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "the branch of linguistics that deals with syntax."
+                                            ],
+                                            "domains": [
+                                                "Grammar"
+                                            ],
+                                            "id": "m_en_gbus1024150.011"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the structure of statements in a computer language."
+                                    ],
+                                    "domains": [
+                                        "Computing"
+                                    ],
+                                    "id": "m_en_gbus1024150.013"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/syntax_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈsɪntaks"
+                        }
+                    ],
+                    "text": "syntax"
+                }
+            ],
+            "type": "headword",
+            "word": "syntax"
+        }
+    ]
+}

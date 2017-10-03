@@ -1,0 +1,115 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "honorific",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century: from Latin honorificus, from honor ‘honour’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "given as a mark of respect but having few or no duties"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was elevated to the honorific status of ‘Dom’"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0477180.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a form of address) showing respect"
+                                            ],
+                                            "domains": [
+                                                "Linguistics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "an honorific title for addressing women"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0477180.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/honorific_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɒnəˈrɪfɪk"
+                        }
+                    ],
+                    "text": "honorific"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a title or word implying or expressing respect"
+                                    ],
+                                    "domains": [
+                                        "Grammar"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a sociolinguistic investigation of honorifics and their usage"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0477180.015"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/honorific_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɒnəˈrɪfɪk"
+                        }
+                    ],
+                    "text": "honorific"
+                }
+            ],
+            "type": "headword",
+            "word": "honorific"
+        }
+    ]
+}

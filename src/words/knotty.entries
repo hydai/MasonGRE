@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "knotty",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "full of knots"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "panelling in knotty pine"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0553860.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "extremely difficult or complex"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a knotty legal problem"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0553860.011"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/knotty_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈnɒti"
+                        }
+                    ],
+                    "text": "knotty"
+                }
+            ],
+            "type": "headword",
+            "word": "knotty"
+        }
+    ]
+}

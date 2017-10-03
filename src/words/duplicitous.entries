@@ -1,0 +1,63 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "duplicitous",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "deceitful"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a duplicitous philanderer"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0304200.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a charge or plea) containing more than one allegation."
+                                    ],
+                                    "domains": [
+                                        "Law"
+                                    ],
+                                    "id": "m_en_gbus0304200.009"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/duplicitous_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "djuːˈplɪsɪtəs"
+                        }
+                    ],
+                    "text": "duplicitous"
+                }
+            ],
+            "type": "headword",
+            "word": "duplicitous"
+        }
+    ]
+}

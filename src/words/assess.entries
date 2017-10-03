@@ -1,0 +1,91 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "assess",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English: from Old French assesser, based on Latin assidere ‘sit by’ (in medieval Latin ‘levy tax’), from ad- ‘to, at’ + sedere ‘sit’. Compare with assize"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "evaluate or estimate the nature, ability, or quality of"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the committee must assess the relative importance of the issues"
+                                        },
+                                        {
+                                            "text": "it is difficult to assess whether this is a new trend"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0052580.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "calculate or estimate the price or value of"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the damage was assessed at £5 billion"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0052580.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "set the value of a tax, fine, etc., for (a person or property) at a specified level"
+                                            ],
+                                            "domains": [
+                                                "Commerce"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "all empty properties will be assessed at 50 per cent"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0052580.012"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/assess_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "əˈsɛs"
+                        }
+                    ],
+                    "text": "assess"
+                }
+            ],
+            "type": "headword",
+            "word": "assess"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "menacing",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "suggesting the presence of danger; threatening"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "our officers encountered menacing looks from teenagers"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0632010.006"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/menacing_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈmɛnɪsɪŋ"
+                        }
+                    ],
+                    "text": "menacing"
+                }
+            ],
+            "type": "headword",
+            "word": "menacing"
+        }
+    ]
+}

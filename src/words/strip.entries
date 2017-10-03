@@ -1,0 +1,435 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "strip",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English (as a verb): of Germanic origin; related to Dutch stropen. strip (sense 2 of the noun) arose in the late 20th century, possibly from the notion of clothing to which a player ‘strips’ down"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "100",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "remove all coverings from"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "they stripped the bed"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1003290.008",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "remove the clothes from (someone)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the man had been stripped naked"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1003290.014"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "take off one's clothes"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "I was tempted to strip off for a swim"
+                                                },
+                                                {
+                                                    "text": "she stripped down to her underwear"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1003290.015",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "pull or tear off (a garment or covering)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "she stripped off her shirt"
+                                                },
+                                                {
+                                                    "registers": [
+                                                        "figurative"
+                                                    ],
+                                                    "text": "strip away the hype and you'll find original thought"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1003290.016"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "remove bark and branches from (a tree)."
+                                            ],
+                                            "domains": [
+                                                "Horticulture"
+                                            ],
+                                            "id": "m_en_gbus1003290.017"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "remove (paint or varnish) from (a surface)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "strip off the existing paint"
+                                                },
+                                                {
+                                                    "text": "the floorboards can be stripped, sanded, and polished"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1003290.019"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "remove the stems from (tobacco)."
+                                            ],
+                                            "domains": [
+                                                "Farming"
+                                            ],
+                                            "id": "m_en_gbus1003290.020"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "milk (a cow) to the last drop."
+                                            ],
+                                            "domains": [
+                                                "Farming"
+                                            ],
+                                            "id": "m_en_gbus1003290.021"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "leave bare of accessories or fittings"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "thieves stripped the room of luggage"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1003290.023",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "remove the accessory fittings of or take apart (a machine, motor vehicle, etc.) to inspect or adjust it"
+                                            ],
+                                            "domains": [
+                                                "Mechanics"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the tank was stripped down piece by piece"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1003290.024"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "deprive someone of (rank, power, or property)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the lieutenant was stripped of his rank"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1003290.026",
+                                    "notes": [
+                                        {
+                                            "text": "\"strip someone of\"",
+                                            "type": "wordFormNote"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "sell off (the assets of a company) for profit."
+                                    ],
+                                    "domains": [
+                                        "Commerce"
+                                    ],
+                                    "id": "m_en_gbus1003290.028",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "divest (a bond) of its interest coupons so that it and they may be sold separately."
+                                            ],
+                                            "domains": [
+                                                "Finance"
+                                            ],
+                                            "id": "m_en_gbus1003290.029"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "tear the thread or teeth from (a screw, gearwheel, etc.)."
+                                    ],
+                                    "domains": [
+                                        "Mechanics"
+                                    ],
+                                    "id": "m_en_gbus1003290.031",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a screw, gearwheel, etc.) lose its thread or teeth."
+                                            ],
+                                            "domains": [
+                                                "Mechanics"
+                                            ],
+                                            "id": "m_en_gbus1003290.032",
+                                            "notes": [
+                                                {
+                                                    "text": "no object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of a bullet) be fired from a rifled gun without spin owing to a loss of surface."
+                                    ],
+                                    "domains": [
+                                        "Weapons"
+                                    ],
+                                    "id": "m_en_gbus1003290.034",
+                                    "notes": [
+                                        {
+                                            "text": "no object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/strip_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "strɪp"
+                        }
+                    ],
+                    "text": "strip"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "101",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "an act of undressing, especially in a striptease"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "she got drunk and did a strip on top of the piano"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1003290.037",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "used for or involving the performance of stripteases"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a campaigner against strip joints"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1003290.040",
+                                            "notes": [
+                                                {
+                                                    "text": "as modifier",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "the identifying outfit worn by the members of a sports team while playing"
+                                    ],
+                                    "domains": [
+                                        "Sport"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the team's away strip is a garish mix of red, white, and blue"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1003290.043",
+                                    "regions": [
+                                        "British"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "etymologies": [
+                                "late Middle English: from or related to Middle Low German strippe ‘strap, thong’, probably also to stripe"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "300",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a long, narrow piece of cloth, paper, plastic, or some other material"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a strip of linen"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1003300.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "a long, narrow area of land"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the offensive gained a strip of territory a mile wide"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1003300.009"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "a main road in or leading out of a town that is lined with shops, restaurants, and other facilities"
+                                            ],
+                                            "domains": [
+                                                "Roads"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "we went to a discount centre in a strip near where we work"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1003300.010",
+                                            "regions": [
+                                                "North American"
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "steel or other metal in the form of narrow flat bars"
+                                            ],
+                                            "domains": [
+                                                "Metallurgy"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the company had purchased 67,423 kg of steel strip"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus1003300.011",
+                                            "notes": [
+                                                {
+                                                    "text": "mass noun",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "a comic strip"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a strip cartoon"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1003300.014"
+                                },
+                                {
+                                    "definitions": [
+                                        "a programme broadcast regularly at the same time"
+                                    ],
+                                    "domains": [
+                                        "Broadcasting"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he hosts a weekly two-hour advice strip"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1003300.016",
+                                    "regions": [
+                                        "British"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/strip_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "strɪp"
+                        }
+                    ],
+                    "text": "strip"
+                }
+            ],
+            "type": "headword",
+            "word": "strip"
+        }
+    ]
+}

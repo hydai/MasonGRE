@@ -1,0 +1,200 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "plastic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "mid 17th century (in the sense ‘characteristic of moulding’): from French plastique or Latin plasticus, from Greek plastikos, from plassein ‘to mould’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Mass",
+                                    "type": "Countability"
+                                },
+                                {
+                                    "text": "Singular",
+                                    "type": "Number"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "a synthetic material made from a wide range of organic polymers such as polyethylene, PVC, nylon, etc., that can be moulded into shape while soft, and then set into a rigid or slightly elastic form"
+                                    ],
+                                    "domains": [
+                                        "Chemistry"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "bottles can be made from a variety of plastics"
+                                        },
+                                        {
+                                            "text": "mains pipes should be made of plastic or copper"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0787980.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "credit cards or other types of plastic card that can be used as money"
+                                            ],
+                                            "domains": [
+                                                "Commerce"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he pays with cash instead of with plastic"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0787980.008",
+                                            "registers": [
+                                                "informal"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/plastic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈplastɪk"
+                        }
+                    ],
+                    "text": "plastic"
+                },
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "made of plastic"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "plastic bottles"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0787980.013",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "artificial or unnatural"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "a holiday rep with huge white teeth and a plastic smile"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0787980.015"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "(of substances or materials) easily shaped or moulded"
+                                    ],
+                                    "domains": [
+                                        "Physics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "rendering the material more plastic"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0787980.017",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "offering scope for creativity"
+                                            ],
+                                            "domains": [
+                                                "Art"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the writer is drawn to words as a plastic medium"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0787980.018"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "exhibiting adaptability to change or variety in the environment."
+                                            ],
+                                            "domains": [
+                                                "Biology"
+                                            ],
+                                            "id": "m_en_gbus0787980.019"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "relating to moulding or modelling in three dimensions, or to produce three-dimensional effects"
+                                            ],
+                                            "domains": [
+                                                "Art"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the plastic arts"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0787980.020"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(in science and technology) relating to the permanent deformation of a solid without fracture by the temporary application of force."
+                                            ],
+                                            "domains": [
+                                                "Physics"
+                                            ],
+                                            "id": "m_en_gbus0787980.021"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/plastic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈplastɪk"
+                        }
+                    ],
+                    "text": "plastic"
+                }
+            ],
+            "type": "headword",
+            "word": "plastic"
+        }
+    ]
+}

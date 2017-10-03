@@ -1,0 +1,166 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "concede",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from French concéder or Latin concedere, from con- ‘completely’ + cedere ‘yield’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "admit or agree that something is true after first denying or resisting it"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I had to concede that I'd overreacted"
+                                        },
+                                        {
+                                            "text": "‘All right then,’ she conceded"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0207860.006",
+                                    "notes": [
+                                        {
+                                            "text": "reporting verb",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "admit (defeat) in a match or contest"
+                                            ],
+                                            "domains": [
+                                                "Sport"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "reluctantly, Ellen conceded defeat"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0207860.012",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "admit defeat in (a match or contest)"
+                                            ],
+                                            "domains": [
+                                                "Sport"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they conceded the match to their opponents"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0207860.013",
+                                            "notes": [
+                                                {
+                                                    "text": "with object",
+                                                    "type": "grammaticalNote"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "surrender or yield (a possession, right, or privilege)"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "in 475 the emperor conceded the Auvergne to Euric"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0207860.015",
+                                    "notes": [
+                                        {
+                                            "text": "with object",
+                                            "type": "grammaticalNote"
+                                        }
+                                    ],
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "grant (a right, privilege, or demand)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "their rights to redress of grievances were conceded once more"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0207860.016"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "(in sport) fail to prevent an opponent scoring (a goal or point)"
+                                            ],
+                                            "domains": [
+                                                "Sport"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they have conceded only one goal in seven matches"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0207860.017"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "allow (a lead or advantage) to slip"
+                                            ],
+                                            "domains": [
+                                                "Sport"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he took an early lead which he never conceded"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0207860.018"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconcede_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈsiːd"
+                        }
+                    ],
+                    "text": "concede"
+                }
+            ],
+            "type": "headword",
+            "word": "concede"
+        }
+    ]
+}

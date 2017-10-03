@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "temperate",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (in the sense ‘not affected by passion or emotion’): from Latin temperatus ‘mingled, restrained’, from the verb temperare"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "relating to or denoting a region or climate characterized by mild temperatures"
+                                    ],
+                                    "domains": [
+                                        "Geography",
+                                        "Meteorology"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "sage can be grown outdoors in cool, temperate climates"
+                                        },
+                                        {
+                                            "text": "Chile has one of the largest temperate forests in the southern hemisphere"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1038370.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "showing moderation or self-restraint"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "Charles was temperate in his consumption of both food and drink"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1038370.009"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/temperate_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈtɛmp(ə)rət"
+                        }
+                    ],
+                    "text": "temperate"
+                }
+            ],
+            "type": "headword",
+            "word": "temperate"
+        }
+    ]
+}

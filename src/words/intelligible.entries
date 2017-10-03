@@ -1,0 +1,71 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "intelligible",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late Middle English (also in the sense ‘capable of understanding’): from Latin intelligibilis, from intelligere ‘understand’ (see intelligent)"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "able to be understood; comprehensible"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a barely intelligible reply"
+                                        },
+                                        {
+                                            "text": "use vocabulary that is intelligible to your audience"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0514510.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "able to be understood only by the intellect, not by the senses."
+                                            ],
+                                            "domains": [
+                                                "Philosophy"
+                                            ],
+                                            "id": "m_en_gbus0514510.007"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/intelligible_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɪnˈtɛlɪdʒɪb(ə)l"
+                        }
+                    ],
+                    "text": "intelligible"
+                }
+            ],
+            "type": "headword",
+            "word": "intelligible"
+        }
+    ]
+}

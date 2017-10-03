@@ -1,0 +1,84 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "auspicious",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 16th century: from auspice + -ous"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "conducive to success; favourable"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "it was not the most auspicious moment to hold an election"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0058350.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "giving or being a sign of future success"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "they said it was an auspicious moon—it was rising"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0058350.007"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "characterized by success; prosperous"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he was respectful to his auspicious customers"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0058350.008",
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/auspicious_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ɔːˈspɪʃəs"
+                        }
+                    ],
+                    "text": "auspicious"
+                }
+            ],
+            "type": "headword",
+            "word": "auspicious"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "wary",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "late 15th century: from ware + -y"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "feeling or showing caution about possible dangers or problems"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a wary look"
+                                        },
+                                        {
+                                            "text": "dogs which have been mistreated often remain very wary of strangers"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1141840.007"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/wary_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈwɛːri"
+                        }
+                    ],
+                    "text": "wary"
+                }
+            ],
+            "type": "headword",
+            "word": "wary"
+        }
+    ]
+}

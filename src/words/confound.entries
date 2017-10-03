@@ -1,0 +1,146 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "confound",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French confondre, from Latin confundere ‘pour together, mix up’. Compare with confuse"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "cause surprise or confusion in (someone), especially by not according with their expectations"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the inflation figure confounded economic analysts"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0210480.006",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "prove (a theory or expectation) wrong"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the rise in prices confounded expectations"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0210480.012"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "defeat (a plan, aim, or hope)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "we will confound these tactics by the pressure groups"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0210480.013"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "overthrow (an enemy)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "God chose to use natural disorders to confound Pharaoh and the gods of Egypt"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0210480.014",
+                                            "registers": [
+                                                "archaic"
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "definitions": [
+                                        "mix up (something) with something else"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was forever confounding managerialism with idealism"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0210480.016"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconfound_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈfaʊnd"
+                        }
+                    ],
+                    "text": "confound"
+                },
+                {
+                    "entries": [
+                        {
+                            "homographNumber": "001",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "used to express anger or annoyance"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "oh confound it, where is the thing?"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0210480.018",
+                                    "registers": [
+                                        "dated"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Interjection",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/xconfound_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "kənˈfaʊnd"
+                        }
+                    ],
+                    "text": "confound"
+                }
+            ],
+            "type": "headword",
+            "word": "confound"
+        }
+    ]
+}

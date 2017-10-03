@@ -1,0 +1,57 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "lopsided",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "early 18th century: from lop + side + -ed"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "with one side lower or smaller than the other"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a lopsided grin"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0594890.007"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/lopsided_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "lɒpˈsʌɪdɪd"
+                        }
+                    ],
+                    "text": "lopsided"
+                }
+            ],
+            "type": "headword",
+            "word": "lopsided"
+        }
+    ]
+}

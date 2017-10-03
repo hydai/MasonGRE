@@ -1,0 +1,67 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "antagonistic",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "showing or feeling active opposition or hostility towards someone or something"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "he was antagonistic to the government's reforms"
+                                        },
+                                        {
+                                            "text": "an antagonistic group of bystanders"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0036080.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "relating to an antagonist or its action."
+                                    ],
+                                    "domains": [
+                                        "Biochemistry",
+                                        "Physiology"
+                                    ],
+                                    "id": "m_en_gbus0036080.009"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/antagonistic_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "anˌtaɡ(ə)ˈnɪstɪk"
+                        }
+                    ],
+                    "text": "antagonistic"
+                }
+            ],
+            "type": "headword",
+            "word": "antagonistic"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "univocal",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "(of a word or term) having only one possible meaning; unambiguous"
+                                    ],
+                                    "domains": [
+                                        "Philosophy",
+                                        "Linguistics"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a univocal set of instructions"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1103830.006"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/univocal_gb_1_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˌjuːnɪˈvəʊk(ə)l"
+                        },
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/univocal_gb_2_8.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "juːˈnɪvək(ə)l"
+                        }
+                    ],
+                    "text": "univocal"
+                }
+            ],
+            "type": "headword",
+            "word": "univocal"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "whimsical",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Positive",
+                                    "type": "Degree"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "playfully quaint or fanciful, especially in an appealing and amusing way"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "a whimsical sense of humour"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1153880.006"
+                                },
+                                {
+                                    "definitions": [
+                                        "acting or behaving in a capricious manner"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "the whimsical arbitrariness of autocracy"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus1153880.009"
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Adjective",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/whimsical_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "ˈwɪmzɪk(ə)l"
+                        }
+                    ],
+                    "text": "whimsical"
+                }
+            ],
+            "type": "headword",
+            "word": "whimsical"
+        }
+    ]
+}

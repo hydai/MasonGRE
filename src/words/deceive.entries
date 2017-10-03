@@ -1,0 +1,105 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "deceive",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "entries": [
+                        {
+                            "etymologies": [
+                                "Middle English: from Old French deceivre, from Latin decipere ‘catch, ensnare, cheat’"
+                            ],
+                            "grammaticalFeatures": [
+                                {
+                                    "text": "Transitive",
+                                    "type": "Subcategorization"
+                                },
+                                {
+                                    "text": "Present",
+                                    "type": "Tense"
+                                }
+                            ],
+                            "homographNumber": "000",
+                            "senses": [
+                                {
+                                    "definitions": [
+                                        "deliberately cause (someone) to believe something that is not true, especially for personal gain"
+                                    ],
+                                    "domains": [
+                                        "Crime"
+                                    ],
+                                    "examples": [
+                                        {
+                                            "text": "I didn't intend to deceive people into thinking it was French champagne"
+                                        }
+                                    ],
+                                    "id": "m_en_gbus0256270.005",
+                                    "subsenses": [
+                                        {
+                                            "definitions": [
+                                                "(of a thing) give (someone) a mistaken impression"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "the area may seem to offer nothing of interest, but don't be deceived"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0256270.011"
+                                        },
+                                        {
+                                            "definitions": [
+                                                "fail to admit to oneself that something is true"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "it was no use deceiving herself any longer—she loved him with all her heart"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0256270.012",
+                                            "notes": [
+                                                {
+                                                    "text": "\"deceive oneself\"",
+                                                    "type": "wordFormNote"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "definitions": [
+                                                "be sexually unfaithful to (one's regular partner)"
+                                            ],
+                                            "examples": [
+                                                {
+                                                    "text": "he had deceived her with another woman"
+                                                }
+                                            ],
+                                            "id": "m_en_gbus0256270.013"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "pronunciations": [
+                        {
+                            "audioFile": "http://audio.oxforddictionaries.com/en/mp3/deceive_gb_1.mp3",
+                            "dialects": [
+                                "British English"
+                            ],
+                            "phoneticNotation": "IPA",
+                            "phoneticSpelling": "dɪˈsiːv"
+                        }
+                    ],
+                    "text": "deceive"
+                }
+            ],
+            "type": "headword",
+            "word": "deceive"
+        }
+    ]
+}
